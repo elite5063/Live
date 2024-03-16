@@ -66,7 +66,7 @@ CETV-4 职业教育,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-
 延边卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-数字其他,#genre#
+数字高清,#genre#
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -108,7 +108,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 天元围棋,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-国际频道,#genre#
+国际,#genre#
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰香港,http://180.142.145.135:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -260,7 +260,6 @@ CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 东方购物,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
 
 女团太妍,#genre#
-韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -568,69 +567,6 @@ CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 剧集_武林外传,https://live.metshop.top/huya/21059598
 剧集_地下交通站,https://live.metshop.top/huya/11342433
 剧集_邻里一家亲,https://live.metshop.top/huya/11342426
-
-埋堆堆,#genre#
-埋堆堆1,https://live.metshop.top/huya/23749096
-埋堆堆2,https://live.metshop.top/huya/23735126
-埋堆堆3,https://live.metshop.top/huya/23865152
-埋堆堆4,https://live.metshop.top/huya/23903196
-埋堆堆5,https://live.metshop.top/huya/23740156
-埋堆堆6,https://live.metshop.top/huya/23728660
-埋堆堆7,https://live.metshop.top/huya/23735153
-埋堆堆8,https://live.metshop.top/huya/23865058
-埋堆堆9,https://live.metshop.top/huya/23734183
-埋堆堆10,https://live.metshop.top/huya/23749068
-埋堆堆11,https://live.metshop.top/huya/23865036
-埋堆堆12,https://live.metshop.top/huya/23740162
-埋堆堆13,https://live.metshop.top/huya/23829474
-埋堆堆14,https://live.metshop.top/huya/23863833
-埋堆堆15,https://live.metshop.top/huya/23903106
-埋堆堆16,https://live.metshop.top/huya/23865025
-埋堆堆17,https://live.metshop.top/huya/23728689
-埋堆堆18,https://live.metshop.top/huya/23824171
-埋堆堆19,https://live.metshop.top/huya/23860057
-埋堆堆20,https://live.metshop.top/huya/23865072
-埋堆堆21,https://live.metshop.top/huya/23734176
-埋堆堆22,https://live.metshop.top/huya/23728651
-埋堆堆23,https://live.metshop.top/huya/23734246
-埋堆堆24,https://live.metshop.top/huya/23865179
-埋堆堆25,https://live.metshop.top/huya/23734196
-埋堆堆26,https://live.metshop.top/huya/23734211
-埋堆堆27,https://live.metshop.top/huya/23865086
-埋堆堆28,https://live.metshop.top/huya/23863796
-埋堆堆29,https://live.metshop.top/huya/23863822
-埋堆堆30,https://live.metshop.top/huya/23749083
-埋堆堆31,https://live.metshop.top/huya/23734243
-埋堆堆32,https://live.metshop.top/huya/23864480
-埋堆堆33,https://live.metshop.top/huya/23746486
-埋堆堆34,https://live.metshop.top/huya/23860049
-埋堆堆35,https://live.metshop.top/huya/23749074
-埋堆堆36,https://live.metshop.top/huya/23863882
-埋堆堆37,https://live.metshop.top/huya/23863778
-埋堆堆38,https://live.metshop.top/huya/23824164
-埋堆堆39,https://live.metshop.top/huya/23829537
-埋堆堆40,https://live.metshop.top/huya/23863809
-埋堆堆41,https://live.metshop.top/huya/23865096
-埋堆堆42,https://live.metshop.top/huya/23863804
-埋堆堆43,https://live.metshop.top/huya/23728630
-埋堆堆44,https://live.metshop.top/huya/23863895
-埋堆堆45,https://live.metshop.top/huya/23863787
-埋堆堆46,https://live.metshop.top/huya/23728637
-埋堆堆47,https://live.metshop.top/huya/23865142
-埋堆堆48,https://live.metshop.top/huya/23903085
-埋堆堆49,https://live.metshop.top/huya/23903183
-埋堆堆50,https://live.metshop.top/huya/23728647
-埋堆堆51,https://live.metshop.top/huya/23746691
-埋堆堆52,https://live.metshop.top/huya/23829447
-埋堆堆53,https://live.metshop.top/huya/23728693
-埋堆堆54,https://live.metshop.top/huya/23903130
-埋堆堆55,https://live.metshop.top/huya/23734223
-埋堆堆56,https://live.metshop.top/huya/23734169
-埋堆堆57,https://live.metshop.top/huya/23865124
-埋堆堆58,https://live.metshop.top/huya/23865186
-埋堆堆59,https://live.metshop.top/huya/23902225
-埋堆堆60,https://live.metshop.top/huya/23903164
-埋堆堆61,https://live.metshop.top/huya/23728674
 
 NewTV,#genre#
 爱情喜剧,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
