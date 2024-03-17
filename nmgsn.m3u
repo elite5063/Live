@@ -30,11 +30,11 @@ http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 #EXTINF:-1 ,乌海新闻综合
 http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 ,赤峰影视娱乐
-http://www.cfrtv.cn/folder67/folder86
+http://stream.cfrtv.cn/cfys/sd/live.m3u8
 #EXTINF:-1 ,赤峰经济服务
-http://www.cfrtv.cn/folder67/folder87
+http://stream.cfrtv.cn/cfjj/sd/live.m3u8
 #EXTINF:-1 ,赤峰新闻综合
-http://www.cfrtv.cn/folder67/folder85
+http://stream.cfrtv.cn/cfzh/sd/live.m3u8
 #EXTINF:-1 ,通辽蒙语综合
 https://live.tongliaowang.com/video/f7418cec973d.m3u8?hls_ctx=lcv46j23
 #EXTINF:-1 ,通辽城市服务
