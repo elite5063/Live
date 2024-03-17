@@ -41,3 +41,9 @@ https://live.tongliaowang.com/video/f7418cec973d.m3u8?hls_ctx=lcv46j23
 https://live.tongliaowang.com/video/4313e1e3d9db.m3u8?hls_ctx=bw3u5dd6
 #EXTINF:-1 ,通辽新闻综合
 https://live.tongliaowang.com/video/a2aef6ea659c.m3u8?hls_ctx=4e041245
+#EXTINF:-1,包头新闻综合高清
+http://10.0.0.2:5555/udp/239.125.2.187:4400
+#EXTINF:-1,包头生活服务高清
+http://10.0.0.2:5555/udp/239.125.2.186:4400
+#EXTINF:-1,包头经济高清
+http://10.0.0.2:5555/udp/239.125.2.10:5000
