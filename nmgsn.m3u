@@ -47,5 +47,3 @@ http://1.30.18.218:20080/hls/25/index.m3u8
 http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 #EXTINF:-1 tvg-name="可克达拉综合" tvg-logo="https://live.fanmingming.com/tv/可克达拉综合.png",可克达拉综合
 http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="鄂托克旗" tvg-logo="https://live.fanmingming.com/tv/鄂托克旗.png",鄂托克旗
-http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
