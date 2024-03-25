@@ -104,7 +104,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="联通央卫",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="联通央卫",重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+http://tv.dlwmkj.com/php2021/bfy.php?id=636
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="联通央卫",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="联通央卫",东方卫视
@@ -374,7 +374,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="移动央卫",CCTV-17农业农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-name="重温经典(备)" tvg-logo="https://live.fanmingming.com/tv/重温经典(备).png" group-title="移动央卫",重温经典(备)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
+http://tv.dlwmkj.com/php2021/bfy.php?id=635
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="移动央卫",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="移动央卫",CETV2
@@ -1927,16 +1927,7 @@ http://mywlkj.ddns.net:754/tv/cfrtv.php?id=3
 http://1.30.18.218:20080/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png" group-title="内蒙古频道",包头新闻综合
 http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
-#EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://live.fanmingming.com/tv/达茂综合.png" group-title="内蒙古频道",达茂综合
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live164301116493025.m3u8?zneimd
-#EXTINF:-1 tvg-name="库伦旗电视台" tvg-logo="https://live.fanmingming.com/tv/库伦旗电视台.png" group-title="内蒙古频道",库伦旗电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8?zneimd
-#EXTINF:-1 tvg-name="奈曼旗电视台" tvg-logo="https://live.fanmingming.com/tv/奈曼旗电视台.png" group-title="内蒙古频道",奈曼旗电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8?zneimd
-#EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-logo="https://live.fanmingming.com/tv/鄂托克旗电视台.png" group-title="内蒙古频道",鄂托克旗电视台
-http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
-#EXTINF:-1 tvg-name="鄂温克电视台" tvg-logo="https://live.fanmingming.com/tv/鄂温克电视台.png" group-title="内蒙古频道",鄂温克电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8?zneimd
+
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江公共" tvg-logo="https://live.fanmingming.com/tv/黑龙江公共.png" group-title="黑龙江频道",黑龙江公共
