@@ -912,6 +912,7 @@ FGTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 广东频道,#genre#
 广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
 广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
+广东珠江,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东少儿,http://sxd.nyxg.vip:40000/udp/239.77.0.250:5146
 广东卡通,http://sxd.nyxg.vip:40000/udp/239.77.0.179:5146
 GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
