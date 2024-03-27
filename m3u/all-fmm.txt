@@ -29,8 +29,6 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
@@ -518,19 +516,24 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 爱幼教_6.8M1080_湖南bblive,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
 爱院线_7.2M1080_华数,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱院线_6.8M1080_湖南bblive,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-神乐剧场,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐剧场,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 神乐剧院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 女神电影,http://159.75.85.63:35455/douyu/747764
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+
+快手放映厅,#genre#
+午夜惊魂影厅,https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225180304_dnv_strL_ma1500.flv?auth_key=1711588462-0-0-cd12b2657f6de4e76cc8c9d6fc6edda7&tsc=origin&oidc=alihb&srcStrm=WmwaKjt7FW4&fd=1&ss=s20&kabr_spts=-5000
+经典港剧汇,https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12161336480_strL_GameAvcSdL2LiveChn.flv?auth_key=1711588494-0-0-9ebc4f8b92997cf8c5fb6a0a3ae08865&tsc=origin&oidc=alihb&srcStrm=c_gfwUDqPvc&fd=1&ss=s20&kabr_spts=-5000
+经典古装台,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225180750_pQY_strL_ma1500.flv?hwTime=6604c1c5&hwSecret=d02275cfa676cc6cdbe6fe8eb701344e&tsc=origin&oidc=alihb&srcStrm=YC_CyRuIEgg&fd=1&ss=s20&kabr_spts=-5000
+谍战风云,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225180027_vKm_strL_ma1500.flv?hwTime=6604c23d&hwSecret=da2ac3b15d480bd88c7066eaab0fd81a&tsc=origin&oidc=alihb&srcStrm=FSWUDv4lbCY&fd=1&ss=s20&kabr_spts=-5000
+爆笑影厅,https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225192849_6VL_strL_ShowAvcHdL1.flv?auth_key=1711588001-0-0-0fd87f2eec8b6f7f98c3375b4d093393&tsc=origin&oidc=alihb&srcStrm=Y_sy3MLAIWA&fd=1&ss=s20&kabr_spts=-5000
+TVB老戏骨,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12160521523_strL_sd1000.flv?hwTime=6604c2df&hwSecret=f992894495244c5fb8c918a8af7dcaf9&tsc=origin&oidc=alihb&srcStrm=ZHf4KupwCc8&fd=1&ss=s20&kabr_spts=-5000
 
 港澳台,#genre#
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰中文,http://120.238.13.198:8000/hls/20/index.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 三洋,http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -910,11 +913,6 @@ FGTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 
 
 广东频道,#genre#
-广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
-广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
-广东珠江,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-广东少儿,http://sxd.nyxg.vip:40000/udp/239.77.0.250:5146
-广东卡通,http://sxd.nyxg.vip:40000/udp/239.77.0.179:5146
 GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
