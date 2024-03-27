@@ -1039,6 +1039,12 @@ https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225180027_vKm_st
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20231225192849_6VL_strL_ShowAvcHdL1.flv?auth_key=1711588001-0-0-0fd87f2eec8b6f7f98c3375b4d093393&tsc=origin&oidc=alihb&srcStrm=Y_sy3MLAIWA&fd=1&ss=s20&kabr_spts=-5000
 #EXTINF:-1 tvg-name="TVB老戏骨" tvg-logo="https://live.fanmingming.com/tv/TVB老戏骨.png" group-title="快手放映厅",TVB老戏骨
 https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12160521523_strL_sd1000.flv?hwTime=6604c2df&hwSecret=f992894495244c5fb8c918a8af7dcaf9&tsc=origin&oidc=alihb&srcStrm=ZHf4KupwCc8&fd=1&ss=s20&kabr_spts=-5000
+#EXTINF:-1 tvg-name="HD电影台" tvg-logo="https://live.fanmingming.com/tv/HD电影台.png" group-title="快手放映厅",HD电影台
+https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12176446366_strL_SportAvcHdL1SdrLiveChn.flv?hwTime=6604ce89&hwSecret=7e3b33274e8e7960d0c9c423cf4b8fc8&tsc=origin&highTraffic=2&oidc=watchmen&sidc=203562&srcStrm=BdGou4BG9PI&fd=1&ss=s20&kabr_spts=-5000
+#EXTINF:-1 tvg-name="精彩剧集" tvg-logo="https://live.fanmingming.com/tv/精彩剧集.png" group-title="快手放映厅",精彩剧集
+https://v22p9258i7ba99qiabig3h2knr29tyrej.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/rFiAC_t3gYY_GameAvcHdL2LiveChn.flv?kabr_spts=-5000&sidc=2012&auth_key=1711591656-0-0-e0ee73d0eeb46de7de11ebbb4b0a580e&ss=s20&oidc=watchmen&pullDomain=ali-adaptive.pull.yximgs.com&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn3667&ali_302c=701&ali_st=cn4437&ali_ts=1711505258
+#EXTINF:-1 tvg-name="经典影艺" tvg-logo="https://live.fanmingming.com/tv/经典影艺.png" group-title="快手放映厅",经典影艺
+https://v22p9258i7ba99qiabig3h2knr29tyrej.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/rFiAC_t3gYY_GameAvcHdL2LiveChn.flv?kabr_spts=-5000&sidc=2012&auth_key=1711591656-0-0-e0ee73d0eeb46de7de11ebbb4b0a580e&ss=s20&oidc=watchmen&pullDomain=ali-adaptive.pull.yximgs.com&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn3667&ali_302c=701&ali_st=cn4437&ali_ts=1711505258
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
