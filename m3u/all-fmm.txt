@@ -531,7 +531,7 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 TVB老戏骨,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12160521523_strL_sd1000.flv?hwTime=6604c2df&hwSecret=f992894495244c5fb8c918a8af7dcaf9&tsc=origin&oidc=alihb&srcStrm=ZHf4KupwCc8&fd=1&ss=s20&kabr_spts=-5000
 HD电影台,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12176446366_strL_SportAvcHdL1SdrLiveChn.flv?hwTime=6604ce89&hwSecret=7e3b33274e8e7960d0c9c423cf4b8fc8&tsc=origin&highTraffic=2&oidc=watchmen&sidc=203562&srcStrm=BdGou4BG9PI&fd=1&ss=s20&kabr_spts=-5000
 精彩剧集,https://v22p9258i7ba99qiabig3h2knr29tyrej.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/rFiAC_t3gYY_GameAvcHdL2LiveChn.flv?kabr_spts=-5000&sidc=2012&auth_key=1711591656-0-0-e0ee73d0eeb46de7de11ebbb4b0a580e&ss=s20&oidc=watchmen&pullDomain=ali-adaptive.pull.yximgs.com&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn3667&ali_302c=701&ali_st=cn4437&ali_ts=1711505258
-经典影艺,https://v22p9258i7ba99qiabig3h2knr29tyrej.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/rFiAC_t3gYY_GameAvcHdL2LiveChn.flv?kabr_spts=-5000&sidc=2012&auth_key=1711591656-0-0-e0ee73d0eeb46de7de11ebbb4b0a580e&ss=s20&oidc=watchmen&pullDomain=ali-adaptive.pull.yximgs.com&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn3667&ali_302c=701&ali_st=cn4437&ali_ts=1711505258
+经典影艺,https://hw-adaptive.pull.yximgs.com/gifshow/uSbZbEXfQ3A_ShowAvcHdL1.flv?hwTime=6604d573&hwSecret=c8d021438ede841ab4398eab5d717348&tsc=origin&oidc=watchmen&sidc=2012&fd=1&ss=s20&kabr_spts=-5000
 
 港澳台,#genre#
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
@@ -840,8 +840,6 @@ FGTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-
-
 
 安徽频道,#genre#
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
