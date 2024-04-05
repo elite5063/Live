@@ -1,12 +1,9 @@
 📒节目单
 
     CDN 1：
-        https://epg.112114.xyz/
+        http://epg.hackserver.net
+   
     CDN 2：
-        https://epg.112114.eu.org/
-    CDN 3：
-        https://epg.112114.xyz/pp.xml
-    CDN 4：
         http://epg.51zmt.top:8000/e.xml
 
 ▶️播放器推荐
