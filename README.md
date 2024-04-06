@@ -1,8 +1,12 @@
-使用方式：
-①TVBOX、DIYP等，使用地址：
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.txt
-②Tivimate、Televizo等，使用地址：
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.m3u
+
+
+使用方式
+
+   TVBOX、DIYP ：
+        https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.txt
+   
+    Tivimate、Televizo：
+        https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.m3u
 
 节目单
 
