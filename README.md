@@ -1,4 +1,10 @@
-📒节目单
+使用方式：
+①TVBOX、DIYP等，使用地址：
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.txt
+②Tivimate、Televizo等，使用地址：
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/m3u/all-fmm.m3u
+
+节目单
 
     CDN 1：
         http://epg.hackserver.net
@@ -6,7 +12,7 @@
     CDN 2：
         http://epg.51zmt.top:8000/e.xml
 
-▶️播放器推荐
+播放器推荐
 
     安卓：
         Kodi、TiviMate、IPTV Pro解锁版
