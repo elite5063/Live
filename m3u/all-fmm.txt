@@ -544,14 +544,11 @@ ELEv体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF279806
 鄂尔多斯新闻综合,http://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
 鄂尔多斯准格尔旗,http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m3u8
 鄂尔多斯鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-呼伦贝尔阿荣旗,https://pull-t1.videocc.net/recordf/46898d5c371592212447638fff8.flv
 呼伦贝尔鄂温克旗,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
 阿拉善额济纳旗,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.m3u8
 赤峰新闻综合频道,http://mywlkj.ddns.net:754/tv/cfrtv.php?id=1
 赤峰影视娱乐频道,http://mywlkj.ddns.net:754/tv/cfrtv.php?id=2
 赤峰经济服务频道,http://mywlkj.ddns.net:754/tv/cfrtv.php?id=3
-呼和浩特新闻综合,http://1.30.18.218:20080/hls/25/index.m3u8
-呼和浩特1,http://1.30.18.218:20080/hls/26/index.m3u8
 包头新闻综合,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 包头经济,http://111.126.255.122:808/hls/6/index.m3u8
 包头生活服务,http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
