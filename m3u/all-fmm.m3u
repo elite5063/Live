@@ -284,9 +284,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="♔央卫IPV6",CCTV-17农业农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="♔央卫IPV6",CCTV-4K超高清
-http://120.79.4.185/md0404.php?id=cctv4k
+http://8.137.98.246/video.php?id=cctv4k
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="♔央卫IPV6",CCTV-8K超高清
-http://120.79.4.185/md0404.php?id=cctv8k
+http://8.137.98.246/video.php?id=cctv8k
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="♔央卫IPV6",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="♔央卫IPV6",CETV2
