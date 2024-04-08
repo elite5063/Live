@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1 tvg-name="内蒙古蒙古语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙古语卫视.png",内蒙古蒙古语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png",内蒙古新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿频道.png",内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧频道.png",内蒙古农牧频道
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古蒙古语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙古语文化.png",内蒙古蒙古语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌兰察布新闻综合.png",乌兰察布新闻综合
+https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://live.fanmingming.com/tv/乌兰察布经济生活.png",乌兰察布经济生活
+https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯蒙语综合.png",鄂尔多斯蒙语综合
+http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯经济服务.png",鄂尔多斯经济服务
+http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯新闻综合.png",鄂尔多斯新闻综合
+http://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯准格尔旗" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯准格尔旗.png",鄂尔多斯准格尔旗
+http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯鄂托克旗" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯鄂托克旗.png",鄂尔多斯鄂托克旗
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔鄂温克旗" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔鄂温克旗.png",呼伦贝尔鄂温克旗
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
+#EXTINF:-1 tvg-name="阿拉善额济纳旗" tvg-logo="https://live.fanmingming.com/tv/阿拉善额济纳旗.png",阿拉善额济纳旗
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.m3u8
+#EXTINF:-1 tvg-name="赤峰新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/赤峰新闻综合频道.png",赤峰新闻综合频道
+http://mywlkj.ddns.net:754/tv/cfrtv.php?id=1
+#EXTINF:-1 tvg-name="赤峰影视娱乐频道" tvg-logo="https://live.fanmingming.com/tv/赤峰影视娱乐频道.png",赤峰影视娱乐频道
+http://mywlkj.ddns.net:754/tv/cfrtv.php?id=2
+#EXTINF:-1 tvg-name="赤峰经济服务频道" tvg-logo="https://live.fanmingming.com/tv/赤峰经济服务频道.png",赤峰经济服务频道
+http://mywlkj.ddns.net:754/tv/cfrtv.php?id=3
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png",包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+#EXTINF:-1 tvg-name="包头经济" tvg-logo="https://live.fanmingming.com/tv/包头经济.png",包头经济
+http://111.126.255.122:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="包头生活服务" tvg-logo="https://live.fanmingming.com/tv/包头生活服务.png",包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://live.fanmingming.com/tv/通辽新闻综合.png",通辽新闻综合
+https://live.tongliaowang.com/video/a2aef6ea659c.m3u8
+#EXTINF:-1 tvg-name="通辽蒙语综合" tvg-logo="https://live.fanmingming.com/tv/通辽蒙语综合.png",通辽蒙语综合
+https://live.tongliaowang.com/video/f7418cec973d.m3u8
+#EXTINF:-1 tvg-name="通辽城市服务" tvg-logo="https://live.fanmingming.com/tv/通辽城市服务.png",通辽城市服务
+https://live.tongliaowang.com/video/4313e1e3d9db.m3u8
