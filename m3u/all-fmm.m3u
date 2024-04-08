@@ -273,8 +273,6 @@ http://8.137.98.246/video.php?id=cctv14
 http://8.137.98.246/video.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="♔央卫IPV6",CCTV16
 http://8.137.98.246/video.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV16-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16-4k.png" group-title="♔央卫IPV6",CCTV16-4k
-http://8.137.98.246/video.php?id=cctv16-4k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="♔央卫IPV6",CCTV17
 http://8.137.98.246/video.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="♔央卫IPV6",CCTV-4k
