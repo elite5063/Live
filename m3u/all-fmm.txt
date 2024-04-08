@@ -138,7 +138,6 @@ CCTV13,http://8.137.98.246/video.php?id=cctv13
 CCTV14,http://8.137.98.246/video.php?id=cctv14
 CCTV15,http://8.137.98.246/video.php?id=cctv15
 CCTV16,http://8.137.98.246/video.php?id=cctv16
-CCTV16-4k,http://8.137.98.246/video.php?id=cctv16-4k
 CCTV17,http://8.137.98.246/video.php?id=cctv17
 CCTV-4k,http://8.137.98.246/video.php?id=cctv4k
 CCTV-8k,http://8.137.98.246/video.php?id=cctv8k
