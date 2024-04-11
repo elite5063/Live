@@ -251,8 +251,12 @@ http://8.137.98.246/video.php?id=cctv4
 http://8.137.98.246/video.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="♔央卫IPV6",CCTV5+
 http://8.137.98.246/video.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="♔央卫IPV6",CCTV6
-http://8.137.98.246/video.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视IPV6",CCTV6
+http://ygbhbox.dynv6.net/1905.php?id=cctv6
+#EXTINF:-1 tvg-name="1905国内电影" tvg-logo="https://live.fanmingming.com/tv/1905国内电影.png" group-title="央视IPV6",1905国内电影
+http://ygbhbox.dynv6.net/1905.php?id=1905b
+#EXTINF:-1 tvg-name="1905国外电影" tvg-logo="https://live.fanmingming.com/tv/1905国外电影.png" group-title="央视IPV6",1905国外电影
+http://ygbhbox.dynv6.net/1905.php?id=1905a
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="♔央卫IPV6",CCTV7
 http://8.137.98.246/video.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="♔央卫IPV6",CCTV8
