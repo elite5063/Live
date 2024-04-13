@@ -141,6 +141,9 @@ CCTV16,http://8.137.98.246/video.php?id=cctv16
 CCTV17,http://8.137.98.246/video.php?id=cctv17
 CCTV-4k,http://8.137.98.246/video.php?id=cctv4k
 CCTV-8k,http://8.137.98.246/video.php?id=cctv8k
+CCTV-4k,https://tv.iill.top/4k/cctv4k
+CCTV-8k,https://tv.iill.top/4k/cctv8k
+CCTV-16 4k,https://tv.iill.top/4k/cctv16
 兵器科技,http://8.137.98.246/video.php?id=bqkj
 第一剧场,http://8.137.98.246/video.php?id=dyjc
 怀旧剧场,http://8.137.98.246/video.php?id=hjjc
