@@ -141,9 +141,6 @@ CCTV16,http://8.137.98.246/video.php?id=cctv16
 CCTV17,http://8.137.98.246/video.php?id=cctv17
 CCTV-4k,http://8.137.98.246/video.php?id=cctv4k
 CCTV-8k,http://8.137.98.246/video.php?id=cctv8k
-CCTV-4k,https://tv.iill.top/4k/cctv4k
-CCTV-8k,https://tv.iill.top/4k/cctv8k
-CCTV-16 4k,https://tv.iill.top/4k/cctv16
 兵器科技,http://8.137.98.246/video.php?id=bqkj
 第一剧场,http://8.137.98.246/video.php?id=dyjc
 怀旧剧场,http://8.137.98.246/video.php?id=hjjc
@@ -159,9 +156,6 @@ CCTV-16 4k,https://tv.iill.top/4k/cctv16
 卫生健康,http://8.137.98.246/video.php?id=wsjk
 1905国内电影,http://ygbhbox.dynv6.net/1905.php?id=1905b
 1905国外电影,http://ygbhbox.dynv6.net/1905.php?id=1905a
-CHC家庭影院,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-CHC高清電影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-CHC動作電影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CGTN,http://8.137.98.246/video.php?id=cgtn
 CGTN纪录,http://8.137.98.246/video.php?id=cgtnjl
 CGTN西语,http://8.137.98.246/video.php?id=cgtne
