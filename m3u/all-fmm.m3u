@@ -149,6 +149,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="央卫数字IPV6",哈哈炫动
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央卫数字IPV6",CHC高清电影
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央卫数字IPV6",CHC家庭影院
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央卫数字IPV6",CHC动作电影
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="央卫数字IPV6",重温经典
 http://ipys.2288.org:8889/udp/228.1.1.44:6044
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="央卫数字IPV6",黑莓动画
