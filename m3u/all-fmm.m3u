@@ -407,46 +407,6 @@ http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://live.fanmingming.com/tv/澳门体育.png" group-title="港澳台",澳门体育
 http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
-http://proxy.dfkj.live/alitv.php?u=min&id=1
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
-http://proxy.dfkj.live/alitv.php?u=min&id=2
-#EXTINF:-1 tvg-name="香港有线新闻台" tvg-logo="https://live.fanmingming.com/tv/香港有线新闻台.png" group-title="港澳台",香港有线新闻台
-http://proxy.dfkj.live/alitv.php?u=min&id=3
-#EXTINF:-1 tvg-name="香港有线18台" tvg-logo="https://live.fanmingming.com/tv/香港有线18台.png" group-title="港澳台",香港有线18台
-http://proxy.dfkj.live/alitv.php?u=min&id=4
-#EXTINF:-1 tvg-name="香港有线高清603台" tvg-logo="https://live.fanmingming.com/tv/香港有线高清603台.png" group-title="港澳台",香港有线高清603台
-http://proxy.dfkj.live/alitv.php?u=min&id=5
-#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻台.png" group-title="港澳台",TVB无线新闻台
-http://proxy.dfkj.live/alitv.php?u=min&id=6
-#EXTINF:-1 tvg-name="TVB财经体育资讯台" tvg-logo="https://live.fanmingming.com/tv/TVB财经体育资讯台.png" group-title="港澳台",TVB财经体育资讯台
-http://proxy.dfkj.live/alitv.php?u=min&id=7
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://proxy.dfkj.live/alitv.php?u=min&id=8
-#EXTINF:-1 tvg-name="TVB华丽翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB华丽翡翠台.png" group-title="港澳台",TVB华丽翡翠台
-http://proxy.dfkj.live/alitv.php?u=min&id=9
-#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港澳台",TVB明珠台
-http://proxy.dfkj.live/alitv.php?u=min&id=10
-#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.com/tv/TVB J2.png" group-title="港澳台",TVB J2
-http://proxy.dfkj.live/alitv.php?u=min&id=11
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
-http://proxy.dfkj.live/alitv.php?u=min&id=12
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳台",ViuTV
-http://proxy.dfkj.live/alitv.php?u=min&id=13
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="港澳台",ViuTV6
-http://proxy.dfkj.live/alitv.php?u=min&id=14
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="港澳台",NOW新闻台
-http://proxy.dfkj.live/alitv.php?u=min&id=15
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳台",香港国际财经台
-http://proxy.dfkj.live/alitv.php?u=min&id=16
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/HOY TV.png" group-title="港澳台",HOY TV
-http://proxy.dfkj.live/alitv.php?u=min&id=17
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="港澳台",HOY资讯台
-http://proxy.dfkj.live/alitv.php?u=min&id=18
-#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="港澳台",港台电视31
-http://proxy.dfkj.live/alitv.php?u=min&id=19
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="港澳台",港台电视32
-http://proxy.dfkj.live/alitv.php?u=min&id=20
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="全球频道",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="中國環球" tvg-logo="https://live.fanmingming.com/tv/中國環球.png" group-title="全球频道",中國環球
