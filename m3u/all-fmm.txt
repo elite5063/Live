@@ -207,26 +207,6 @@ FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m
 澳视澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-凤凰卫视中文台,http://proxy.dfkj.live/alitv.php?u=min&id=1
-凤凰卫视资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=2
-香港有线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=3
-香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=4
-香港有线高清603台,http://proxy.dfkj.live/alitv.php?u=min&id=5
-TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=6
-TVB财经体育资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=7
-TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=8
-TVB华丽翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=9
-TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
-TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=11
-TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=12
-ViuTV,http://proxy.dfkj.live/alitv.php?u=min&id=13
-ViuTV6,http://proxy.dfkj.live/alitv.php?u=min&id=14
-NOW新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=15
-香港国际财经台,http://proxy.dfkj.live/alitv.php?u=min&id=16
-HOY TV,http://proxy.dfkj.live/alitv.php?u=min&id=17
-HOY资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=18
-港台电视31,http://proxy.dfkj.live/alitv.php?u=min&id=19
-港台电视32,http://proxy.dfkj.live/alitv.php?u=min&id=20
 
 全球频道,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
