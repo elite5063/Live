@@ -119,8 +119,8 @@ CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/ind
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4k,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
-CCTV-8k,http://8.137.98.246/video.php?id=cctv8k
+CCTV-4k超高清,https://tv.iill.top/4k/cctv4k
+CCTV-8k超高清,https://tv.iill.top/4k/cctv8k
 兵器科技,http://8.137.98.246/video.php?id=bqkj
 第一剧场,http://8.137.98.246/video.php?id=dyjc
 怀旧剧场,http://8.137.98.246/video.php?id=hjjc
