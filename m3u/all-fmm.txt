@@ -1190,21 +1190,16 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 西双版纳公共,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
 宾川一套,http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund
-良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
+彝良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
 新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
-红河县综合,http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
-红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 文山综合台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 
 新疆频道,#genre#
-石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 八师石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
