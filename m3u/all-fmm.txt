@@ -130,9 +130,14 @@ CCTV-8k超高清,https://tv.iill.top/4k/cctv8k
 
 
 数字频道,#genre#
+电视指南,http://1.70.34.249:8083/udp/239.1.1.90:8090
+央视文化精品,http://1.70.34.249:8083/udp/239.1.1.91:8091
+风云剧场,http://1.70.34.249:8083/udp/239.1.1.93:8093
+第一剧场,http://1.70.34.249:8083/udp/239.1.1.94:8094
 怀旧剧场,http://1.70.34.249:8083/udp/239.1.1.95:8095
-世界地理,http://1.70.34.249:8083/udp/239.1.1.99:8099
+风云音乐,http://1.70.34.249:8083/udp/239.1.1.96:8096
 兵器科技,http://1.70.34.249:8083/udp/239.1.1.97:8097
+世界地理,http://1.70.34.249:8083/udp/239.1.1.99:8099
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
@@ -572,7 +577,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 陪看-音乐MV点播欣赏-竹叶的熊猫,http://ruk1ng.kmdns.net:19527/douyu/7cab343fda182c5bb0db4a7ccc4305e7
 
 电影轮播,#genre#
-邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
+邵氏影院,http://159.75.85.63:35455/douyu/4246519
 刘德华,http://43.138.170.29:35455/yy/1382745111
 周星驰,http://43.138.170.29:35455/yy/1354658049
 周星驰,http://43.138.170.29:35455/yy/1382736808
@@ -1079,7 +1084,7 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 黑龙江频道,#genre#
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江公共,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江农业科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
@@ -1099,10 +1104,8 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
-敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
@@ -1210,7 +1213,6 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 
 山西频道,#genre#
 山西经济,http://live.cooltv.top/tv/cutv.php?id=sxjj
-山西科教,http://live.cooltv.top/tv/cutv.php?id=sxkj
 山西社会与法治,http://live.cooltv.top/tv/tide.php?id=sxshfz
 山西文体生活,http://live.cooltv.top/tv/tide.php?id=sxwtsh
 山西影视,http://live.cooltv.top/tv/tide.php?id=sxys
@@ -1248,16 +1250,11 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
 江油,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
-凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-凉山彝语频道,http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
-凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
-自贡公共频道,http://110.189.153.160:1002/ggpd.flv
+自贡文化生活,http://110.189.153.160:1002/ggpd.flv
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
-攀枝花公共频道,http://zb.pzhgd.com:9095/live/ggpd.m3u8
-眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
-甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+攀枝花文旅生活,http://zb.pzhgd.com:9095/live/ggpd.m3u8
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -1265,15 +1262,14 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
-广安公共频道,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-达州公共频道,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村频道,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 小金综合频道,http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8
-利州综合频道,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 青神综合频道,http://lmt.scqstv.com:80/live1/live1.m3u8
 乐至综合频道,http://175.155.106.72:89/live1/live1.m3u8
 会东综合频道,http://112.45.133.129:90/live/xwzh.m3u8
@@ -1282,17 +1278,13 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 纳溪新闻频道,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 叙永综合频道,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
-泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-泸州科教,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
+泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 什邡新闻频道,http://live.sfrmt.com:85/live/zhpd.m3u8
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
 金堂电视台,http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
 龙泉驿新闻综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 郫都新闻综合,http://vod.pdrmtzx.com:80/pd/live.m3u8
-长宁综合频道,http://cnpull.sccnfb.com:80/live/123456.m3u8
 宣汉新闻综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 广汉新闻综合,http://dcpull.sctvcloud.com:80/live/4b9b15a7018810009b17c11300000000/playlist.m3u8
 罗江新闻综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
@@ -1315,14 +1307,9 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 岳池新闻综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
 北川电视一套,http://dcpull.sctvcloud.com:80/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 盐亭综合频道,http://dcpull.sctvcloud.com:80/live/574a1afd018810007cdf2ae200000000/playlist.m3u8
-巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 四川康定,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
-蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 
 重庆频道,#genre#
@@ -1410,7 +1397,7 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 
 福建频道,#genre#
-建宁综,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
