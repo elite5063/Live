@@ -128,7 +128,12 @@ CCTV-8k超高清,https://tv.iill.top/4k/cctv8k
 
 
 数字频道,#genre#
+百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+Love Nrture ,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 电视指南,http://1.70.34.249:8083/udp/239.1.1.90:8090
 文化精品,http://1.70.34.249:8083/udp/239.1.1.91:8091
 风云剧场,http://1.70.34.249:8083/udp/239.1.1.93:8093
@@ -139,6 +144,8 @@ CCTV-8k超高清,https://tv.iill.top/4k/cctv8k
 世界地理,http://1.70.34.249:8083/udp/239.1.1.99:8099
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+游戏解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
