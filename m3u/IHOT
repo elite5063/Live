@@ -1,0 +1,40 @@
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot01.png",iHOT爱院线
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot02.png",iHOT爱科幻
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot03.png",iHOT爱喜剧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot04.png",iHOT爱奇谈
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot07.png",iHOT爱科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot09.png",iHOT爱浪漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot10.png",iHOT爱历史
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot11.png",iHOT爱动漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot12.png",iHOT爱电竞
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot13.png",iHOT爱玩具
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot14.png",iHOT爱悬疑
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot15.png",iHOT爱体育
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot16.png",iHOT爱赛车
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot19.png",iHOT爱旅行
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot22.png",iHOT爱青春
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot25.png",iHOT爱都市
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot26.png",iHOT爱谍战
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot27.png",iHOT爱经典
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot29.png",iHOT爱怀旧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot30.png",iHOT爱幼教
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
