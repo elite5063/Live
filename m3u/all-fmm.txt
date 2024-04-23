@@ -1385,13 +1385,10 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
-潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
-潜江乡村,http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 
 福建频道,#genre#
