@@ -161,7 +161,7 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 CHC高清电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
 CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
 CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
-重温经典,https://tv.iill.top/dns-cq/cwjdHD
+重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
