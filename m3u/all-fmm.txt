@@ -1247,10 +1247,6 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 
 四川频道,#genre#
-四川乡村,http://api2.52tb.xyz/info?id=606&token=20230405tndmhg
-四川影视,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
-文化旅游,http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
-四川新闻,http://api2.52tb.xyz/info?id=602&token=20230405tndmhg
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
