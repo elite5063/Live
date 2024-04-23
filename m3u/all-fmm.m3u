@@ -2429,14 +2429,6 @@ http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543
 https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="汾西综合" tvg-logo="https://live.fanmingming.com/tv/汾西综合.png" group-title="山西频道",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川频道",四川乡村
-http://api2.52tb.xyz/info?id=606&token=20230405tndmhg
-#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://live.fanmingming.com/tv/四川影视.png" group-title="四川频道",四川影视
-http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
-#EXTINF:-1 tvg-name="文化旅游" tvg-logo="https://live.fanmingming.com/tv/文化旅游.png" group-title="四川频道",文化旅游
-http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
-#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川频道",四川新闻
-http://api2.52tb.xyz/info?id=602&token=20230405tndmhg
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="渠县新闻综合" tvg-logo="https://live.fanmingming.com/tv/渠县新闻综合.png" group-title="四川频道",渠县新闻综合
@@ -2815,8 +2807,14 @@ http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 #EXTINF:-1 tvg-name="东兰综合" tvg-logo="https://live.fanmingming.com/tv/东兰综合.png" group-title="广西频道",东兰综合
 https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
+#EXTINF:-1 tvg-name="GRTN荔枝台" tvg-logo="https://live.fanmingming.com/tv/GRTN荔枝台.png" group-title="广东频道",GRTN荔枝台
+http://glive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://live.fanmingming.com/tv/GRTN生活频道.png" group-title="广东频道",GRTN生活频道
+http://glive.grtn.cn/live/life.m3u8
 #EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://live.fanmingming.com/tv/GRTN文化频道.png" group-title="广东频道",GRTN文化频道
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 tvg-name="GRTN纪录片频道" tvg-logo="https://live.fanmingming.com/tv/GRTN纪录片频道.png" group-title="广东频道",GRTN纪录片频道
+http://glive.grtn.cn/live/jilupian.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道",广州新闻
