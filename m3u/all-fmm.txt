@@ -165,7 +165,6 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 欢笑剧场4K,http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
-法治天地,http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/fztd/15000000/mnf.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
