@@ -158,7 +158,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 金鹰纪实, http://111.199.239.209:3568/rtp/239.3.1.58:8156
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 游戏解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 睛彩竞技, http://111.199.239.209:3568/rtp/239.3.1.125:8001
 睛彩篮球, http://111.199.239.209:3568/rtp/239.3.1.126:8001
 睛彩羽毛球, http://111.199.239.209:3568/rtp/239.3.1.127:8001
@@ -188,15 +188,15 @@ BesTV全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-游戏风云, http://mail.petzhu.top:7000/rtp/239.254.201.163:6354
-欢笑剧场, http://mail.petzhu.top:7000/rtp/239.254.201.164:6355
-乐游, http://mail.petzhu.top:7000/rtp/239.254.201.200:6356
-动漫秀场, http://mail.petzhu.top:7000/rtp/239.254.201.165:6358
-生活时尚, http://mail.petzhu.top:7000/rtp/239.254.201.166:6359
-都市剧场, http://mail.petzhu.top:7000/rtp/239.254.201.167:6360
-东方财经, http://mail.petzhu.top:7000/rtp/239.254.201.181:7214
-金色学堂, http://mail.petzhu.top:7000/rtp/239.254.201.182:7227
-法治天地, http://mail.petzhu.top:7000/rtp/239.254.201.183:7226
+SiTV游戏风云, http://mail.petzhu.top:7000/rtp/239.254.201.163:6354
+SiTV欢笑剧场, http://mail.petzhu.top:7000/rtp/239.254.201.164:6355
+SiTV乐游, http://mail.petzhu.top:7000/rtp/239.254.201.200:6356
+SiTV动漫秀场, http://mail.petzhu.top:7000/rtp/239.254.201.165:6358
+SiTV生活时尚, http://mail.petzhu.top:7000/rtp/239.254.201.166:6359
+SiTV都市剧场, http://mail.petzhu.top:7000/rtp/239.254.201.167:6360
+SiTV东方财经, http://mail.petzhu.top:7000/rtp/239.254.201.181:7214
+SiTV金色学堂, http://mail.petzhu.top:7000/rtp/239.254.201.182:7227
+SiTV法治天地, http://mail.petzhu.top:7000/rtp/239.254.201.183:7226
 
 NewTV频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
