@@ -67,65 +67,62 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
-央卫备用,#genre#
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+央卫IPV4,#genre#
+北京联通组播,#genre#
+CCTV-1 综合,http://111.199.239.209:3568/rtp/239.3.1.129:8008
+CCTV-2 财经,http://111.199.239.209:3568/rtp/239.3.1.60:8084
+CCTV-3 综艺,http://111.199.239.209:3568/rtp/239.3.1.172:8001
+CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.105:8092
+CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.213:4220
+CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.214:4220
+CCTV-5 体育,http://111.199.239.209:3568/rtp/239.3.1.173:8001
+CCTV-5+ 体育赛事,http://111.199.239.209:3568/rtp/239.3.1.130:8004
+CCTV-6 电影,http://111.199.239.209:3568/rtp/239.3.1.174:8001
+CCTV-7 国防军事,http://111.199.239.209:3568/rtp/239.3.1.61:8104
+CCTV-8 电视剧,http://111.199.239.209:3568/rtp/239.3.1.175:8001
+CCTV-9 纪录,http://111.199.239.209:3568/rtp/239.3.1.62:8112
+CCTV-10 科教,http://111.199.239.209:3568/rtp/239.3.1.63:8116
+CCTV-11 戏曲,http://111.199.239.209:3568/rtp/239.3.1.152:8120
+CCTV-12 社会与法,http://111.199.239.209:3568/rtp/239.3.1.64:8124
+CCTV-13 新闻,http://111.199.239.209:3568/rtp/239.3.1.124:8128
+CCTV-14 少儿,http://111.199.239.209:3568/rtp/239.3.1.65:8132
+CCTV-15 音乐,http://111.199.239.209:3568/rtp/239.3.1.153:8136
+CCTV-16 奥林匹克,http://111.199.239.209:3568/rtp/239.3.1.183:8001
+CCTV-16 奥林匹克,http://111.199.239.209:3568/rtp/239.3.1.184:8001
+CCTV-17 农业农村,http://111.199.239.209:3568/rtp/239.3.1.151:8144
 CCTV-4k超高清,https://tv.iill.top/4k/cctv4k
 CCTV-8k超高清,https://tv.iill.top/4k/cctv8k
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-
+北京卫视,http://111.199.239.209:3568/rtp/239.3.1.241:8000
+东方卫视,http://111.199.239.209:3568/rtp/239.3.1.136:8032
+天津卫视,http://111.199.239.209:3568/rtp/239.3.1.141:1234
+贵州卫视,http://111.199.239.209:3568/rtp/239.3.1.149:8076
+东南卫视,http://111.199.239.209:3568/rtp/239.3.1.156:8148
+江西卫视,http://111.199.239.209:3568/rtp/239.3.1.123:8164
+甘肃卫视,http://111.199.239.209:3568/rtp/239.3.1.49:8188
+安徽卫视,http://111.199.239.209:3568/rtp/239.3.1.211:8064
+西藏卫视,http://111.199.239.209:3568/rtp/239.3.1.47:8164
+青海卫视,http://111.199.239.209:3568/rtp/239.3.1.44:8184
+深圳卫视,http://111.199.239.209:3568/rtp/239.3.1.134:8020
+吉林卫视,http://111.199.239.209:3568/rtp/239.3.1.240:8172
+四川卫视,http://111.199.239.209:3568/rtp/239.3.1.29:8288
+三沙卫视,http://111.199.239.209:3568/rtp/239.3.1.155:4120
+湖南卫视,http://111.199.239.209:3568/rtp/239.3.1.132:8012
+浙江卫视,http://111.199.239.209:3568/rtp/239.3.1.137:8036
+广东卫视,http://111.199.239.209:3568/rtp/239.3.1.142:8048
+河南卫视,http://111.199.239.209:3568/rtp/239.3.1.27:8128
+重庆卫视,http://111.199.239.209:3568/rtp/239.3.1.122:8160
+黑龙江卫视,http://111.199.239.209:3568/rtp/239.3.1.133:8016
+河北卫视,http://111.199.239.209:3568/rtp/239.3.1.148:8072
+辽宁卫视,http://111.199.239.209:3568/rtp/239.3.1.210:8056
+新疆卫视,http://111.199.239.209:3568/rtp/239.3.1.48:8160
+内蒙古卫视,http://111.199.239.209:3568/rtp/239.3.1.43:8176
+山东卫视,http://111.199.239.209:3568/rtp/239.3.1.209:8052
+海南卫视,http://111.199.239.209:3568/rtp/239.3.1.45:8304
+宁夏卫视,http://111.199.239.209:3568/rtp/239.3.1.46:8124
+云南卫视,http://111.199.239.209:3568/rtp/239.3.1.26:8108
+江苏卫视,http://111.199.239.209:3568/rtp/239.3.1.135:8028
+广西卫视,http://111.199.239.209:3568/rtp/239.3.1.39:8300
+湖北卫视,http://111.199.239.209:3568/rtp/239.3.1.138:8044
 
 数字频道,#genre#
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
