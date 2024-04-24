@@ -91,10 +91,32 @@ CCTV-16 奥林匹克,http://111.199.239.209:3568/rtp/239.3.1.184:8001
 CCTV-17 农业农村,http://111.199.239.209:3568/rtp/239.3.1.151:8144
 CCTV-4k 超高清,https://tv.iill.top/4k/cctv4k
 CCTV-8k 超高清,https://tv.iill.top/4k/cctv8k
-凤凰卫视,http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
+CCTV 世界地理,http://148.135.93.213:81/live.php?id=世界地理
+CCTV 兵器科技,http://148.135.93.213:81/live.php?id=兵器科技
+CCTV 央视台球,http://148.135.93.213:81/live.php?id=央视台球
+CCTV 女性时尚,http://148.135.93.213:81/live.php?id=女性时尚
+CCTV 怀旧剧场,http://148.135.93.213:81/live.php?id=怀旧剧场
+CCTV 文化精品,http://148.135.93.213:81/live.php?id=文化精品
+CCTV 电视指南,http://148.135.93.213:81/live.php?id=电视指南
+CCTV 第一剧场,http://148.135.93.213:81/live.php?id=第一剧场
+CCTV 风云剧场,http://148.135.93.213:81/live.php?id=风云剧场
+CCTV 风云足球,http://148.135.93.213:81/live.php?id=风云足球
+CCTV 风云音乐,http://148.135.93.213:81/live.php?id=风云音乐
+CCTV 高尔夫网球,http://148.135.93.213:81/live.php?id=央视高网
+CGTN 英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN 纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN 法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN 阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
+凤凰中文,http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
+凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 凤凰资讯,http://110.72.75.227:8181/tsfile/live/1064_1.m3u8
+凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://110.72.75.227:8181/tsfile/live/1065_1.m3u8
 凤凰电影,http://111.227.237.82:4022/rtp/239.254.201.1:5214
+五星体育,http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 北京卫视,http://111.199.239.209:3568/rtp/239.3.1.241:8000
 东方卫视,http://111.199.239.209:3568/rtp/239.3.1.136:8032
 天津卫视,http://111.199.239.209:3568/rtp/239.3.1.141:1234
