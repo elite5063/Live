@@ -72,8 +72,8 @@ CCTV-1 综合,http://111.199.239.209:3568/rtp/239.3.1.129:8008
 CCTV-2 财经,http://111.199.239.209:3568/rtp/239.3.1.60:8084
 CCTV-3 综艺,http://111.199.239.209:3568/rtp/239.3.1.172:8001
 CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.105:8092
-CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.213:4220
-CCTV-4 中文国际,http://111.199.239.209:3568/rtp/239.3.1.214:4220
+CCTV-4 中文国际 欧洲,http://111.199.239.209:3568/rtp/239.3.1.213:4220
+CCTV-4 中文国际 美洲,http://111.199.239.209:3568/rtp/239.3.1.214:4220
 CCTV-5 体育,http://111.199.239.209:3568/rtp/239.3.1.173:8001
 CCTV-5+ 体育赛事,http://111.199.239.209:3568/rtp/239.3.1.130:8004
 CCTV-6 电影,http://111.199.239.209:3568/rtp/239.3.1.174:8001
@@ -91,12 +91,6 @@ CCTV-16 奥林匹克,http://111.199.239.209:3568/rtp/239.3.1.184:8001
 CCTV-17 农业农村,http://111.199.239.209:3568/rtp/239.3.1.151:8144
 CCTV-4k 超高清,https://tv.iill.top/4k/cctv4k
 CCTV-8k 超高清,https://tv.iill.top/4k/cctv8k
-CGTN 英语,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN 纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN 法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN 阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 凤凰中文台,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 北京卫视,http://111.199.239.209:3568/rtp/239.3.1.241:8000
@@ -130,6 +124,16 @@ CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 江苏卫视,http://111.199.239.209:3568/rtp/239.3.1.135:8028
 广西卫视,http://111.199.239.209:3568/rtp/239.3.1.39:8300
 湖北卫视,http://111.199.239.209:3568/rtp/239.3.1.138:8044
+CETV1, http://111.199.239.209:3568/rtp/239.3.1.57:8152
+CETV2, http://111.199.239.209:3568/rtp/239.3.1.54:4120
+CETV3, http://111.199.239.209:3568/rtp/239.3.1.55:4120
+CETV4, http://111.199.239.209:3568/rtp/239.3.1.56:4120
+CGTN 新闻, http://111.199.239.209:3568/rtp/239.3.1.215:4220
+CGTN 记录, http://111.199.239.209:3568/rtp/239.3.1.216:4220
+CGTN 西班牙语, http://111.199.239.209:3568/rtp/239.3.1.217:4220
+CGTN 法语, http://111.199.239.209:3568/rtp/239.3.1.218:4220
+CGTN 阿拉伯语, http://111.199.239.209:3568/rtp/239.3.1.219:4220
+CGTN 俄语, http://111.199.239.209:3568/rtp/239.3.1.220:4220
 
 数字频道,#genre#
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
@@ -138,6 +142,9 @@ Love Nrture ,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+CHC高清电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
+CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
+CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
 电视指南,http://1.70.34.249:8085/udp/239.1.1.90:8090
 文化精品,http://1.70.34.249:8085/udp/239.1.1.91:8091
 风云剧场,http://1.70.34.249:8085/udp/239.1.1.93:8093
@@ -155,6 +162,10 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 游戏解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+睛彩竞技, http://111.199.239.209:3568/rtp/239.3.1.125:8001
+睛彩篮球, http://111.199.239.209:3568/rtp/239.3.1.126:8001
+睛彩羽毛球, http://111.199.239.209:3568/rtp/239.3.1.127:8001
+睛彩广场舞, http://111.199.239.209:3568/rtp/239.3.1.128:8001
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
@@ -170,24 +181,16 @@ BesTV谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
 BesTV星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
 BesTV华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 BesTV全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+茶频道, http://111.199.239.209:3568/rtp/239.3.1.165:8001
+大健康, http://111.199.239.209:3568/rtp/239.3.1.251:8001
+快乐垂钓, http://111.199.239.209:3568/rtp/239.3.1.164:8001
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-CHC高清电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
-CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
-CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-睛彩竞技, http://111.199.239.209:3568/rtp/239.3.1.125:8001
-睛彩篮球, http://111.199.239.209:3568/rtp/239.3.1.126:8001
-睛彩羽毛球, http://111.199.239.209:3568/rtp/239.3.1.127:8001
-睛彩广场舞, http://111.199.239.209:3568/rtp/239.3.1.128:8001
-快乐垂钓, http://111.199.239.209:3568/rtp/239.3.1.164:8001
-体育赛事, http://111.199.239.209:3568/rtp/239.3.1.157:8176
-茶频道, http://111.199.239.209:3568/rtp/239.3.1.165:8001
-大健康, http://111.199.239.209:3568/rtp/239.3.1.251:8001
 游戏风云, http://mail.petzhu.top:7000/rtp/239.254.201.163:6354
 欢笑剧场, http://mail.petzhu.top:7000/rtp/239.254.201.164:6355
 乐游, http://mail.petzhu.top:7000/rtp/239.254.201.200:6356
@@ -1105,6 +1108,24 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 寻秦记,http://43.138.170.29:35455/yy/1382749900
 鹿鼎记梁朝伟版,http://cfss.cc/cdn/hy/23734183.flv
 西游记张卫健版,http://43.138.170.29:35455/yy/1354936155
+
+北京频道,#genre#
+BRTV北京卫视, http://111.199.239.209:3568/rtp/239.3.1.241:8000
+BRTV新闻, http://111.199.239.209:3568/rtp/239.3.1.159:8000
+BRTV影视, http://111.199.239.209:3568/rtp/239.3.1.158:8000
+BRTV文艺, http://111.199.239.209:3568/rtp/239.3.1.242:8000
+BRTV财经, http://111.199.239.209:3568/rtp/239.3.1.116:8000
+BRTV生活, http://111.199.239.209:3568/rtp/239.3.1.117:8000
+BRTV青年, http://111.199.239.209:3568/# rtp/239.3.1.118:8000
+BRTV纪实科教, http://111.199.239.209:3568/rtp/239.3.1.115:8000
+BRTV卡酷少儿, http://111.199.239.209:3568/rtp/239.3.1.189:8000
+BRTV体育休闲, http://111.199.239.209:3568/rtp/239.3.1.243:8000
+BTV国际频道, http://111.199.239.209:3568/rtp/239.3.1.235:8000
+朝阳融媒, http://111.199.239.209:3568/rtp/239.3.1.163:8001
+通州融媒, http://111.199.239.209:3568/rtp/239.3.1.221:8001
+密云电视台, http://111.199.239.209:3568/rtp/239.3.1.154:8001
+延庆电视台, http://111.199.239.209:3568/rtp/239.3.1.187:8001
+房山电视台, http://111.199.239.209:3568/rtp/239.3.1.96:8001
 
 内蒙古频道,#genre#
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
