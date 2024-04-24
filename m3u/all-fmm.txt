@@ -1466,8 +1466,6 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 湘潭新闻,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhun
 
 广西频道,#genre#
-广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
-广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
