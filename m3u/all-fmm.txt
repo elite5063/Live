@@ -1519,14 +1519,6 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 文山综合台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 
-海南频道,#genre#
-海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
-海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-三亚卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
-
 新疆频道,#genre#
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
