@@ -91,18 +91,6 @@ CCTV-16 奥林匹克,http://111.199.239.209:3568/rtp/239.3.1.184:8001
 CCTV-17 农业农村,http://111.199.239.209:3568/rtp/239.3.1.151:8144
 CCTV-4k 超高清,https://tv.iill.top/4k/cctv4k
 CCTV-8k 超高清,https://tv.iill.top/4k/cctv8k
-CCTV 世界地理,http://148.135.93.213:81/live.php?id=世界地理
-CCTV 兵器科技,http://148.135.93.213:81/live.php?id=兵器科技
-CCTV 央视台球,http://148.135.93.213:81/live.php?id=央视台球
-CCTV 女性时尚,http://148.135.93.213:81/live.php?id=女性时尚
-CCTV 怀旧剧场,http://148.135.93.213:81/live.php?id=怀旧剧场
-CCTV 文化精品,http://148.135.93.213:81/live.php?id=文化精品
-CCTV 电视指南,http://148.135.93.213:81/live.php?id=电视指南
-CCTV 第一剧场,http://148.135.93.213:81/live.php?id=第一剧场
-CCTV 风云剧场,http://148.135.93.213:81/live.php?id=风云剧场
-CCTV 风云足球,http://148.135.93.213:81/live.php?id=风云足球
-CCTV 风云音乐,http://148.135.93.213:81/live.php?id=风云音乐
-CCTV 高尔夫网球,http://148.135.93.213:81/live.php?id=央视高网
 CGTN 英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -116,7 +104,6 @@ CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://110.72.75.227:8181/tsfile/live/1065_1.m3u8
 凤凰电影,http://111.227.237.82:4022/rtp/239.254.201.1:5214
-五星体育,http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 北京卫视,http://111.199.239.209:3568/rtp/239.3.1.241:8000
 东方卫视,http://111.199.239.209:3568/rtp/239.3.1.136:8032
 天津卫视,http://111.199.239.209:3568/rtp/239.3.1.141:1234
@@ -194,7 +181,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 欢笑剧场4K,http://120.220.164.147/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 
-NewTV系列,#genre#
+NewTV频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -215,7 +202,7 @@ NewTV系列,#genre#
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
-IHOT系列,#genre#
+IHOT频道,#genre#
 iHOT爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科幻,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱浪漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
