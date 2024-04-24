@@ -135,8 +135,6 @@ CGTN 阿拉伯语, http://111.199.239.209:3568/rtp/239.3.1.219:4220
 CGTN 俄语, http://111.199.239.209:3568/rtp/239.3.1.220:4220
 
 数字频道,#genre#
-百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 Love Nrture ,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
