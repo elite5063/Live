@@ -285,6 +285,8 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+星空卫视,http://112.19.171.156:9999/udp/239.93.0.156:2193
+channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 m3u8
