@@ -142,6 +142,7 @@ Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 
 数字频道,#genre#
 CHC高清电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
@@ -165,6 +166,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 游戏解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 睛彩竞技, http://111.199.239.209:3568/rtp/239.3.1.125:8001
 睛彩篮球, http://111.199.239.209:3568/rtp/239.3.1.126:8001
 睛彩羽毛球, http://111.199.239.209:3568/rtp/239.3.1.127:8001
@@ -176,6 +178,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 星空电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
+精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 北京淘电影,http://111.199.239.209:3568/rtp/239.3.1.250:8001
 北京淘剧场, http://111.199.239.209:3568/rtp/239.3.1.95:8001
 北京淘娱乐, http://111.199.239.209:3568/rtp/239.3.1.100:8001
@@ -332,7 +335,7 @@ TVB星河国语,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=17
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
@@ -340,6 +343,7 @@ TVB星河国语,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=17
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1913,10 +1917,13 @@ BTV国际频道, http://111.199.239.209:3568/rtp/239.3.1.235:8000
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 
 湖南频道,#genre#
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南经视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
 南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/chunklist_w553254777.m3u8
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
@@ -1938,6 +1945,16 @@ BTV国际频道, http://111.199.239.209:3568/rtp/239.3.1.235:8000
 东兰综合,https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
 
 广东频道,#genre#
+
+广东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUW%2B%2FF4NzOzOt3cAWjhMHEuMwoDIwMxbrlyyVy9x6ZDKn1U8f2vJUVL98LlyeZUOMSmC30dkrUFt%2FE8JGKMphXYE
+广东珠江,https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.ctv
+广东新闻,http://113.103.253.30:10000/udp/239.77.0.173:5146
+广东民生,http://113.103.253.30:10000/udp/239.77.0.225:5146
+广东经济科教,http://113.103.253.30:10000/udp/239.77.0.167:5146
+大湾区卫视,http://113.103.253.30:10000/udp/239.77.0.215:5146
+广东4k,http://113.103.253.30:10000/udp/239.77.0.245:5146
+广东影视,http://113.103.253.30:10000/udp/239.77.0.217:5146
+广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
@@ -1978,6 +1995,14 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+
+海南频道,#genre#
+海南卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?
+海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+海南文旅,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000322/1.m3u8
+海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 云南频道,#genre#
 西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
