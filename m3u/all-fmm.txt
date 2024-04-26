@@ -301,7 +301,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星空卫视,http://112.19.171.156:9999/udp/239.93.0.156:2193
 channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
-TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass​
+TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
