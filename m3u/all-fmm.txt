@@ -321,8 +321,6 @@ TVB星河国语,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=17
 天映电影,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=19
 天映經典,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=20
 美亚电影,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=21
-TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
@@ -330,16 +328,11 @@ TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 美亞電視台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
@@ -347,7 +340,6 @@ FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
