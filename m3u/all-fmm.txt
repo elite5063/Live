@@ -143,7 +143,8 @@ CGTN 俄语, http://111.199.239.209:3568/rtp/239.3.1.220:4220
 Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
+CCTV4K超高清,http://113.64.145.231:8081/hls/145/index.m3u8
+广东4K超高清,http://113.64.145.231:8081/hls/154/index.m3u8
 
 
 数字频道,#genre#
