@@ -673,6 +673,192 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 陪看-闹着玩，闲来无事-血腥丶妖瞳,http://ruk1ng.kmdns.net:19527/douyu/de90e06f6cbb32aced26777357897b18
 陪看-音乐MV点播欣赏-竹叶的熊猫,http://ruk1ng.kmdns.net:19527/douyu/7cab343fda182c5bb0db4a7ccc4305e7
 
+虎牙频道,#genre#
+TVB-【使徒行者】正邪相斗 情义两难-音粤无国界,http://ruk1ng.kmdns.net:19527/huya/4bcb65542f6cccc4e7cd54101e26fa06
+TVB-【创世纪】神预言，剧里的金融地产现在都成真了！-梁非凡吔X啦,http://ruk1ng.kmdns.net:19527/huya/eea872fe9d01a1ce8f61b8e16d996ad8
+TVB-【大时代】史上主角疯子最多的片·荡气回肠大时代！-为所欲为的墨镜哥,http://ruk1ng.kmdns.net:19527/huya/169e039e63797b74b377d70210a8fa0b
+TVB-【天龙八部】最佳版本天龙·97版黄日华超神作-堆堆港剧日常,http://ruk1ng.kmdns.net:19527/huya/c547b5d95b0a2509058609f31517ed10
+TVB-【射雕英雄传】黄版郭靖翁版黄蓉·还有谁能取代？-我只是个好人,http://ruk1ng.kmdns.net:19527/huya/eaa86b0c59950288c1bde3836a0cf81a
+TVB-【法证先锋】经典之作·法证故事系列开创篇-埋堆搞搞震,http://ruk1ng.kmdns.net:19527/huya/8652a44088e31253776a23218d82b03a
+TVB-【法证先锋2】超越前篇的佳作·无数人入坑法政就靠它！-我才是打工人,http://ruk1ng.kmdns.net:19527/huya/469bf8d1bf7cbe956d84f8e310d4a77d
+TVB-【法证先锋3】振聋发聩的法庭辩论·文戏是真的棒！-iTVB大后宫,http://ruk1ng.kmdns.net:19527/huya/1d14d178d22e72cb562914f247587094
+TVB-【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演-阿呀呀阿sir,http://ruk1ng.kmdns.net:19527/huya/428cfdf11615ac310ace9adc7a284b88
+TVB-【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！-港剧慢品汇,http://ruk1ng.kmdns.net:19527/huya/1ad587967c5fde7989887747554ef777
+TVB-【金装四大才子】唐伯虎的四大天团·完美的古装轻喜剧-港剧伴你行,http://ruk1ng.kmdns.net:19527/huya/c4e4d7645e587ac2104b84ae1cf14baa
+TVB-【鹿鼎记】小春版韦小宝 是你心中最经典的版本吗？-香港喜剧大全,http://ruk1ng.kmdns.net:19527/huya/e93b7faba87201445460e83b295b1460
+TVB-天地争霸美猴王粤语版-我叫山鸡哥,http://ruk1ng.kmdns.net:19527/huya/ce4bbf0c349804ae7d15f1cdcc7a5785
+TVB-射雕之九阴真经-姜大卫 张智霖-做人最要紧开心,http://ruk1ng.kmdns.net:19527/huya/39965d5c9923565f5c103678cd46feae
+TVB-布衣神相-一袭布衣 条条妙计-港式宫斗剧,http://ruk1ng.kmdns.net:19527/huya/4961241b6f2d63b70dd1c7244b0dae9b
+TVB-扫黄先锋·欧阳震华在不能不看-冷门港片大全,http://ruk1ng.kmdns.net:19527/huya/80c09d189bbc900ff56346a1381afcc1
+TVB-楚汉骄雄-我恨做皇后 但我做刘邦的皇后-埋堆堆官方,http://ruk1ng.kmdns.net:19527/huya/efc8772bb3a7cfd3f1bf2d5c8b8cee61
+TVB-法证先锋 -是大宝贝呀,http://ruk1ng.kmdns.net:19527/huya/74a96ecfeaed673bc2d8b328bcf3eeda
+TVB-状王宋世杰-第二部-张达明大战黄子华-一起来埋堆,http://ruk1ng.kmdns.net:19527/huya/973e5931d1ca4f7ab282dd437d4667f0
+TVB-野蛮亲家血腥对线！-昵称违规-pTSEbHriOn,http://ruk1ng.kmdns.net:19527/huya/c0c8045e130f13b6ce0fa17b41a03baa
+TVB-食为奴·王祖蓝的嘴万绮雯的腿-香港刑侦实录,http://ruk1ng.kmdns.net:19527/huya/cf9ed5ff63a224a875e7f5c5a9c0e7f7
+TVB-黄jin有罪-悬疑爱好聚集地-堆堆港剧日记,http://ruk1ng.kmdns.net:19527/huya/ecab00a5bb6763ebd02d8c3e3fe877fa
+古装-【活fo济公】·鞋儿破，帽儿破-包蛋超人,http://ruk1ng.kmdns.net:19527/huya/e872d338e757de108736ce91e51bab31
+古装-【经典】桃园结义三兄弟	-全优少年,http://ruk1ng.kmdns.net:19527/huya/d6d71a4ef75775891be8a3220d9e4fff
+古装-49日内发生的人间惨剧-勞資ヽ尐爺,http://ruk1ng.kmdns.net:19527/huya/90e9b1b885cf1e5bab72100da6ce17d2
+古装-丐帮帮主乔峰驾到·樊少皇老戏骨-二次元控,http://ruk1ng.kmdns.net:19527/huya/491ee5dfc8b5bd03ca1df53864edd28b
+古装-你怎么看待六子哥-凌莲,http://ruk1ng.kmdns.net:19527/huya/6af7556586b0a34007861de3dc4c20df
+古装-便利贴女孩的阴差阳错-小妖孽,http://ruk1ng.kmdns.net:19527/huya/48cffe55cc1849d5158cc0815c2abb71
+古装-六大门派围攻光明顶·马甲掉了-不发威当我Kitty,http://ruk1ng.kmdns.net:19527/huya/e917cfe88a0914ab25359c4b5ea422f6
+古装-哇打，李小龙传奇-沐小错,http://ruk1ng.kmdns.net:19527/huya/492ccde4e8f4af99f38e7fea098ad20b
+古装-坚守梦想执着追求爱情-了不起的小萌虎,http://ruk1ng.kmdns.net:19527/huya/6c32e170e3b620c7cb1acf6dfc28113f
+古装-大秦，终章！-萌新司机,http://ruk1ng.kmdns.net:19527/huya/651d72b2678d1d71423b0b05dabf8ad9
+古装-康熙·民间私访-裸奔的蜗牛╮,http://ruk1ng.kmdns.net:19527/huya/28bcdae4227905e2dd2af8095b470bae
+古装-康熙大帝的传奇一生-Wang-我的女人,http://ruk1ng.kmdns.net:19527/huya/af57c485c3e0aac22c245981c163881a
+古装-开开心心过大年 合家欢动画片-飞天女警,http://ruk1ng.kmdns.net:19527/huya/a3e4658adcf1cc3f229e7cf42633d97b
+古装-徐良除暴安良替天行道-喧嚣的夏风,http://ruk1ng.kmdns.net:19527/huya/9e167735316a2a603065e8925c26fee1
+古装-新水hu·在下正是西公子！-鱼塘塘主张年年,http://ruk1ng.kmdns.net:19527/huya/d8207c0afc51e4606ccb28c309f8b860
+古装-滚滚长江东逝水-鯎爺,http://ruk1ng.kmdns.net:19527/huya/9f09b5bb6f3df15430031e9d7e754837
+古装-王艳的孙蝶真的好美！-威猛先生,http://ruk1ng.kmdns.net:19527/huya/32ccc5c10089fd721915dc740300527c
+古装-看县令张卫健破获疑案！-小轩,http://ruk1ng.kmdns.net:19527/huya/fc4679f308b2e0aafb98726d3ecb6a6b
+古装-神tan狄仁杰·破案还得是他-心疼得抱住胖胖的自己,http://ruk1ng.kmdns.net:19527/huya/3042f7cae137eed56c1578b5504d27de
+古装-神医必备 红烧狮子头-粉娘,http://ruk1ng.kmdns.net:19527/huya/16e86884251ce6f22d9d547adfaf2db0
+古装-神貂侠侣·小笼包版姑姑上线-老王夸我帅,http://ruk1ng.kmdns.net:19527/huya/807444c9b16d3eb6bbcdf038310ad1c9
+古装-身世神秘的范闲书写人生传奇-瞬间爆炸,http://ruk1ng.kmdns.net:19527/huya/354e5b26ea995b765802a19fb5772a79
+古装-追捕与反追捕、复仇与阻止复仇-北岛南城,http://ruk1ng.kmdns.net:19527/huya/f485294836adb3f5df8ad9416f39fdc9
+古装-那些年的香港贺岁片 慢慢的童年回忆-我的心好疼,http://ruk1ng.kmdns.net:19527/huya/743092d3852f6981d4c5b84cb659a831
+古装-邱淑贞太好看了吧❤-Fighter,http://ruk1ng.kmdns.net:19527/huya/239c19c0b48304d6b21d7579fb145de4
+古装-金庸经典剧 24小时轮播-漓江塔景区售票阿姨,http://ruk1ng.kmdns.net:19527/huya/8e3a29ce20829b8031ce5fe5814f5130
+古装-铁齿铜ya纪晓岚 经典铁三角组合-小木子先生丶,http://ruk1ng.kmdns.net:19527/huya/d425da2e8d6b9f24a55e1c66b143c375
+古装-雍正皇帝的风云一生-我是詹密,http://ruk1ng.kmdns.net:19527/huya/47a9f33ccdc159aedad5d01c054716e4
+搞笑- 看孙悟空唐三藏取西经-埋堆堆港剧,http://ruk1ng.kmdns.net:19527/huya/90069540269277557ac40b8c140ff316
+搞笑-【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP-我是周粤驰,http://ruk1ng.kmdns.net:19527/huya/44a6af9e794cc713eee96c21cb396be3
+搞笑-【邻li一家亲】满院白眼狼-傻妞,http://ruk1ng.kmdns.net:19527/huya/9a43944d369af7f272b590e94f4a6902
+搞笑-【龙men镖局】白展堂的儿子那么大啦-柯冉冉,http://ruk1ng.kmdns.net:19527/huya/4b87d2979e7abd353127aa8507f07bec
+搞笑-RM 刘在石李光洙跑男-维达人,http://ruk1ng.kmdns.net:19527/huya/884ac2de167048099caaa7c1621db185
+搞笑-tu槽·明星大咖自黑现场-微微爱宝宝,http://ruk1ng.kmdns.net:19527/huya/07983522cbbc472f031b4e0372d49394
+搞笑-yi馆笑传 oh天长地久-加班狗,http://ruk1ng.kmdns.net:19527/huya/adc466dfec43df1244a79cf4c99eddf9
+搞笑-一人之上·不想趴着活就堂堂正正的站起来!--小癲,http://ruk1ng.kmdns.net:19527/huya/44b05ce6387fa841cc3996dc5307eb3e
+搞笑-今晚80后脱口秀050奇葩1-SMG吐槽担当,http://ruk1ng.kmdns.net:19527/huya/0eaca49c2922964fdd29bbd4f7ea4a44
+搞笑-刘小光·捧腹大笑哈哈哈哈-葱花,http://ruk1ng.kmdns.net:19527/huya/cbc866f20845ff09e2ad422d39040507
+搞笑-夏雪夏雨夏冰雹-种瓜得弟弟,http://ruk1ng.kmdns.net:19527/huya/24bff68da3820b53c2c9a40e65ef09a8
+搞笑-大家好 我曾小咸又回来啦-武林萌主唐小姐,http://ruk1ng.kmdns.net:19527/huya/7d715c91be683f0a2cc570bd1c72c671
+搞笑-封神榜-陈浩民版哪吒-普通司机小马,http://ruk1ng.kmdns.net:19527/huya/08a2feab72bf7da9752f59956907878f
+搞笑-张卫健版西游记-当蜘蛛精看上了齐天大圣-我是靓宝,http://ruk1ng.kmdns.net:19527/huya/ca52b6390f90ea9e552c2dd5dce2b395
+搞笑-当情人节遇上了春节-主播辣眼睛,http://ruk1ng.kmdns.net:19527/huya/69e15f39c870db67dcacdcbdfa8ddba0
+搞笑-快来追！yang光的快乐生活-大侠,http://ruk1ng.kmdns.net:19527/huya/96f09a9c2d67128a0a3b7a84ce9e8d2d
+搞笑-打工人看了会流泪，老板看了自惭形秽-假装,http://ruk1ng.kmdns.net:19527/huya/da7f9287e0fca3520dcace502fc81c64
+搞笑-搞笑的一家人-No1常在心,http://ruk1ng.kmdns.net:19527/huya/8445fc2b47695014f2bbeb9e1b74dbc7
+搞笑-昙花一现为韦陀 近十年来看过最好的武侠剧-时光小偷,http://ruk1ng.kmdns.net:19527/huya/ac12116daaaa73baa95e747b893cc1f9
+搞笑-炊事班de故事3·柴米油盐-我要在你头上暴扣,http://ruk1ng.kmdns.net:19527/huya/d3f7df917390bc51806918eadd7b4595
+搞笑-看小品·春晚经典非看不可-杀马特死神,http://ruk1ng.kmdns.net:19527/huya/4c54217af2896100a8ada6c1879ec235
+搞笑-美食纪录片·饿了吗？--若凌Provence-,http://ruk1ng.kmdns.net:19527/huya/287db551fc113cbec125c15fb16ba82e
+搞笑-贝爷上线 开饭啦开饭啦-来瓶肥宅水,http://ruk1ng.kmdns.net:19527/huya/603d40562c6c6289092be261cce56f1e
+有声小说-欢迎来到我的直播间-修罗诡谈,http://ruk1ng.kmdns.net:19527/huya/e24d6528faa0978ffb4128b7b50f6ac7
+有声小说-欢迎来到我的直播间-威猛漫剪,http://ruk1ng.kmdns.net:19527/huya/279a03ca756cb70fefa65197b2edd48e
+有声小说-欢迎来到我的直播间-小文来说漫,http://ruk1ng.kmdns.net:19527/huya/76daa9d92cedba4680859ad0f8f548ee
+有声小说-欢迎来到我的直播间-少倾漫剪,http://ruk1ng.kmdns.net:19527/huya/09cb49aade8c1fbad11fd8f84bb5d5ab
+有声小说-欢迎来到我的直播间-桔梗小说屋,http://ruk1ng.kmdns.net:19527/huya/799e507858ad7a2f9b43115520f69241
+有声小说-欢迎来到我的直播间-清风故事馆,http://ruk1ng.kmdns.net:19527/huya/b47958b0660b1b9b5275843e61d17ef8
+有声小说-欢迎来到我的直播间-番茄鸡蛋说书,http://ruk1ng.kmdns.net:19527/huya/20822935698e49b6f6a7568bcac23886
+有声小说-欢迎来到我的直播间-神秘者说漫,http://ruk1ng.kmdns.net:19527/huya/8bb81ff5e58dbf38a8745fa86de10a8d
+有声小说-欢迎来到我的直播间-质直含清晖,http://ruk1ng.kmdns.net:19527/huya/34a7f194efdb17bd1deef185370f4ca4
+有声小说-欢迎来到我的直播间-贺家窑赔钱,http://ruk1ng.kmdns.net:19527/huya/fc7847494784f12be33f4271b9f28b7d
+有声小说-欢迎来到我的直播间-阿梨推文,http://ruk1ng.kmdns.net:19527/huya/69cb1e06fd219bfe8ae16a1013e86df8
+有声小说-欢迎来到我的直播间-霸总撩剧,http://ruk1ng.kmdns.net:19527/huya/647c91f5f79c58f4a688164682c65604
+电影-《jiang夜》终将至，花开彼岸天--惟美,http://ruk1ng.kmdns.net:19527/huya/a61ac1960a55ae382d8620b8baee8c43
+电影-【五福星】每天都要快乐哦-樹袋熊小九九,http://ruk1ng.kmdns.net:19527/huya/8e8a6f8d833e0ba0f30af39d43c761ae
+电影-【十一推荐】动作要快，姿势要帅-迷失,http://ruk1ng.kmdns.net:19527/huya/f45ffb926f115abfafaa810302088be1
+电影-【周星星】星爷经典不间断-周星星,http://ruk1ng.kmdns.net:19527/huya/cff27aed6cac3f83ad81be709bf55b8e
+电影-【喜剧专场】我们一起找乐子-小怪兽、,http://ruk1ng.kmdns.net:19527/huya/d3d1fc90af73dc9c9681c75d527619da
+电影-【女神系列】邱淑贞 王祖贤 张曼玉	-槽老师,http://ruk1ng.kmdns.net:19527/huya/3c36c6113cef15aeafe49d8e05053ebe
+电影-【王晶】港风导演代表-四大裁子之首,http://ruk1ng.kmdns.net:19527/huya/6a5e262cf28cae1deabbc802d19b7394
+电影-【百基争郎】性转版臻环传，16个男人争一个，我大受震撼！-还我瓢瓢拳,http://ruk1ng.kmdns.net:19527/huya/b6540b4b69ccb13c4436c74d4fcdffd0
+电影-【虎牙影院】沈腾经典片放映-虎牙影院,http://ruk1ng.kmdns.net:19527/huya/a460f0714fea36dbdb97f7b6993445d3
+电影-【警匪】不会演戏的警察不是好卧底-学妹爱学长,http://ruk1ng.kmdns.net:19527/huya/ae62cbb41e02faa7cadc243e49a5da87
+电影-【许氏三杰】快来 就差你了-科技这样玩,http://ruk1ng.kmdns.net:19527/huya/b50eb71c8629f355c5e487f742ad67b6
+电影-【赛车电影】秋名山我来了-昔日女神柳清茶-,http://ruk1ng.kmdns.net:19527/huya/f9031183b2dfc0d26150f4e328229626
+电影-【镖行天下】镖在人在-世界格斗场,http://ruk1ng.kmdns.net:19527/huya/2f28d26de23c0902295bae11b53c450e
+电影-【黑帮大片】山鸡哥重现江湖	-蓶1淳爷,http://ruk1ng.kmdns.net:19527/huya/d0104c3499388b37cbe59311029421ff
+电影-DC宇宙来啦，有你喜欢的英雄吗？-炙恋兽兽,http://ruk1ng.kmdns.net:19527/huya/41e8fd916acef85d30a38e0172b33efd
+电影-Han国高分动作片 刺激过瘾-长岛冰茶-,http://ruk1ng.kmdns.net:19527/huya/e9ba90e33e5937a8cd8a3b3a2bf4009a
+电影-let‘s疯狂地赛车-yoo,http://ruk1ng.kmdns.net:19527/huya/f61348b2a9b8559c8198629bca0bf277
+电影-si神来了系列  好怕怕-胖次过肩摔,http://ruk1ng.kmdns.net:19527/huya/33c8385d2ec9aa6c3054cecf487ea5d8
+电影-不挤电影院也能笑着过春节！-汽车人,http://ruk1ng.kmdns.net:19527/huya/67e28037317d5c5b0cdd4dee5384d77f
+电影-以一敌百，不得不服！-嫣然,http://ruk1ng.kmdns.net:19527/huya/3170020e0fec564becba5b5e85112633
+电影-刘德华电影_经典系列-安逗和黑仔,http://ruk1ng.kmdns.net:19527/huya/5ab535abadcae2251fa3776209701a1f
+电影-动作电影来啦-虎牙放映厅,http://ruk1ng.kmdns.net:19527/huya/14e0eacddbe80ff75836144ae2a43139
+电影-千面影帝梁家辉-苦瓜老姨,http://ruk1ng.kmdns.net:19527/huya/d6d3d8e834c4478f0f082e137f5fab19
+电影-历年贺岁档 笑就完事儿了-浮生没有若梦,http://ruk1ng.kmdns.net:19527/huya/32bdce8d6acc2743582e15a26e0e8866
+电影-古墓系列·去冒险吧！-来听歌呀,http://ruk1ng.kmdns.net:19527/huya/956a42bcb5fad6b2037274ebf27c39a7
+电影-各国赌片 搏一搏单车变摩托-简小熙,http://ruk1ng.kmdns.net:19527/huya/afca92a45c6f79b71921ab3d866f5853
+电影-合家欢喜剧，欢乐笑哈哈！-牙缝多了根青菜,http://ruk1ng.kmdns.net:19527/huya/27bbc3a9dfb566d90e9df0f928aad688
+电影-周星星粤语经典版~-Yummy,http://ruk1ng.kmdns.net:19527/huya/8e9d8e66b60062563845f18f811dd1c8
+电影-周润发电影 小马哥归来	-开船老湿基,http://ruk1ng.kmdns.net:19527/huya/7c86c800bb410c46710c6f94f41c30c8
+电影-喜剧专场 看喜剧笑一笑吧-飙车的老司机,http://ruk1ng.kmdns.net:19527/huya/16c7bb5b8b5634202f0f365de260876e
+电影-国产悬疑精选·智商在线-铁血真汉子,http://ruk1ng.kmdns.net:19527/huya/18010f65ed54a609d105eb9f314d7d63
+电影-夜色对鲜血痴迷的追随-喜来乐狮子头,http://ruk1ng.kmdns.net:19527/huya/02ba565e5b4b2c3b773968b86dcb63e5
+电影-够劲，就是中国功夫-初心,http://ruk1ng.kmdns.net:19527/huya/fe48f5adc45f8db5d97645d96b29cb1e
+电影-大刘著作 原著党的胜利！我哭了-宅妹,http://ruk1ng.kmdns.net:19527/huya/112715bf3ca192934f69e8ee8c547b05
+电影-大场面战争片:一枚核弹爆炸-大铁锅炖大大鹅,http://ruk1ng.kmdns.net:19527/huya/00c03d2de8d21bebbb576f58c4aeb114
+电影-天不生我李淳罡，剑道万古如长夜-红茶妹妹,http://ruk1ng.kmdns.net:19527/huya/f9234fdcdf88c66d8fcda6db8655b110
+电影-巨石强森系列:真肌肉就是爽-状元及第粥,http://ruk1ng.kmdns.net:19527/huya/ef42318abbfaf8743f4a978b85cb9063
+电影-张卫健与郭晋安闯荡江湖的奇异之事-暴走君丶阿罪,http://ruk1ng.kmdns.net:19527/huya/c27871286d67d833b6a9cb686d1692b4
+电影-快意江湖：金庸的武侠世界-可爱的小强,http://ruk1ng.kmdns.net:19527/huya/cbde4a2ec890368472d5dac7c0ecd0bf
+电影-怪兽打架x异形世界：爽就完事了-梁非凡吃点啥,http://ruk1ng.kmdns.net:19527/huya/d90601ce4d4e99858c8422424e674706
+电影-悲剧结局的悲情古装片-羞涩的茄子,http://ruk1ng.kmdns.net:19527/huya/4779bfd3538c7cb6f48d4891acc183c2
+电影-情人节：港片教你追女仔-酒窝储存机,http://ruk1ng.kmdns.net:19527/huya/346e41e2d4aced62e58705725e6d1056
+电影-成龙经典武打动作片-偷心大盗ヽ龍宝,http://ruk1ng.kmdns.net:19527/huya/1850dcc1a39b03cb74b1c8e579698ca6
+电影-我不是药神-他只是想活命-虎牙八点档,http://ruk1ng.kmdns.net:19527/huya/6e5f9fe9e66213d6117a7afc3d2b5a1a
+电影-搞笑恐怖类 弹幕护体-实力拔萝卜,http://ruk1ng.kmdns.net:19527/huya/b2f6106cfd03931a5af24522d34cb2fb
+电影-李连杰系列 武打高产王-核桃姐姐,http://ruk1ng.kmdns.net:19527/huya/5cc30f648b910393cb5826787c825368
+电影-杰森·斯坦森:郭达是你吗-超人的归来,http://ruk1ng.kmdns.net:19527/huya/06fc0fb183aca109f2fc830e17f5b21b
+电影-枪战还是得看他！-西九龙冠希哥,http://ruk1ng.kmdns.net:19527/huya/2a568e9903ddb6b6be33247145d5e461
+电影-校园热血电影，不比古惑仔差-阿飞,http://ruk1ng.kmdns.net:19527/huya/74ee572fe915ede9f21e5d2db4e56b4a
+电影-永远怀念“黄药师”曾江-小蘑菇,http://ruk1ng.kmdns.net:19527/huya/f62e8cf45fe468fd7a4283666359893e
+无法超越啊-小军迷,http://ruk1ng.kmdns.net:19527/huya/3ff5efaf0ae55fcc0cea55fa6763aee9
+电影-法外狂徒张三李四-昵称违规-JBo8XZZWSw,http://ruk1ng.kmdns.net:19527/huya/7799aaa5f26471a8d6476b8bee0e76c7
+电影-洪金宝·童年回忆杀-一只大懒虫,http://ruk1ng.kmdns.net:19527/huya/52584b9c453190cfbc9337284396e288
+电影-港剧最佳拍档 | 许冠英合集-苏仨,http://ruk1ng.kmdns.net:19527/huya/4ebb88690cbb4dba304f23b2951dc98c
+电影-玄幻专场·国产特效大制作-一片青青草原,http://ruk1ng.kmdns.net:19527/huya/e32ded91acc0b5e13a685b9b8e763fb3
+电影-玄幻剧场·体验另一种生活！-元芳看不到,http://ruk1ng.kmdns.net:19527/huya/97b2fa301c417e0a3a2379223604e4dd
+电影-甄子丹 我要打十个-主播小贞,http://ruk1ng.kmdns.net:19527/huya/450509b73719c016fcc1f12885419306
+电影-盗墓还得看经典的-Eric次元宝贝,http://ruk1ng.kmdns.net:19527/huya/fb591d5ae33c02db1e1b2722551a68c7
+电影-看完你也学不会系列~-妖孽CC,http://ruk1ng.kmdns.net:19527/huya/34005258a9982445c0f28bd4bcc4b995
+电影-真正的硬汉007，铁打的詹姆斯邦德！-阿汤哥的影迷,http://ruk1ng.kmdns.net:19527/huya/b7ebc2657d71dbc690ecba2594e6d6fc
+电影-笑死人不偿命，老子就要嗨皮！-我的宝贝baby,http://ruk1ng.kmdns.net:19527/huya/137377ea967d56239010fca406f5ef1a
+电影-经典之作·金庸群侠篇电影-逗比宝宝,http://ruk1ng.kmdns.net:19527/huya/2864c55caf5356f7b270e9e51ffe74ad
+电影-经典港剧笑嘻嘻-笙歌,http://ruk1ng.kmdns.net:19527/huya/0bc47bb666fcf66da3c6730f4aa7d912
+电影-良心医疗剧 主打的就是一个真实-Edinburgh南空,http://ruk1ng.kmdns.net:19527/huya/88c9bb7522da911446b7d99f752d8acf
+电影-英叔护体 | 林正英搞笑僵尸系列-7喜先生,http://ruk1ng.kmdns.net:19527/huya/6217cef5d3538ac767cbea9cfa3c59cf
+电影-这些都是高智商的罪犯-小牡蛎,http://ruk1ng.kmdns.net:19527/huya/09a247bfefcdfd7f459baabfd3b38453
+电影-这里你都没看过 悬疑推理科幻爱情-北岛的诗,http://ruk1ng.kmdns.net:19527/huya/8fac7e10d61eb32f2b144103e4506183
+电影-那些年的香gang贺岁片-阿森木木木,http://ruk1ng.kmdns.net:19527/huya/d92f4cf12c251e2459a931eb4df85ba6
+电影-雀刀门 最好看的东北喜剧-个人向,http://ruk1ng.kmdns.net:19527/huya/4d84032bf76fd57fe58fd7186f93bc31
+电影-高丽少女的新东方历险记-鲨手不太冷的影迷,http://ruk1ng.kmdns.net:19527/huya/7d5385579174ff4eb4163c8ac0166a6d
+电影-鬼吹灯系列最好的一部-性感大妈,http://ruk1ng.kmdns.net:19527/huya/a3830a82a333583d6f3a2d764c933257
+电影-鬼吹灯虐我千百遍，我待鬼吹灯如初恋-第十门,http://ruk1ng.kmdns.net:19527/huya/aea5d0a9e624fb67640d9317c4e83421
+电影-黑帮斗争 黑与白的对峙，情与义的泯灭-麋鹿,http://ruk1ng.kmdns.net:19527/huya/4a77af7b22dd58dcc046c98cedfb39fc
+电视剧-【樱桃小丸子】我家很穷-扫地僧,http://ruk1ng.kmdns.net:19527/huya/3c22e869836a32959f84fc352098d13d
+电视剧-【超级交通站】抗ri情景喜剧-痞子帅叔叔,http://ruk1ng.kmdns.net:19527/huya/9f77f851932a817e844954ff2a3ab61e
+电视剧-han国美女热舞饭拍直拍视角-西红柿,http://ruk1ng.kmdns.net:19527/huya/945dee1e4e24460924a6fe900402fd6e
+电视剧-一代枭雄为报父仇励精图治-呆萌小岳岳,http://ruk1ng.kmdns.net:19527/huya/1bc86be3b4430794a83c13f9ea58f3fc
+电视剧-厨神小当家12集魔幻小当家-小当家动漫社,http://ruk1ng.kmdns.net:19527/huya/cac3fe7241f5a91f3817e67ce891b7ff
+电视剧-宝lian灯，有你所爱的传奇故事！-冰火岛一霸,http://ruk1ng.kmdns.net:19527/huya/5674539639c52d023bffea655eaefb90
+电视剧-彪子从不内耗 23年最好看的剧	--懒猪,http://ruk1ng.kmdns.net:19527/huya/bd580ee5143d82024058d8e82489a16e
+电视剧-游击队·抗日战争-Mr-傀儡,http://ruk1ng.kmdns.net:19527/huya/898ba1f04d3d853af2e9f041c27b1e05
+电视剧-狄仁杰：元芳 你怎么看？	-昵称违规-QQFbPxwM1A,http://ruk1ng.kmdns.net:19527/huya/7b269682c7a86038d5af066491401e35
+电视剧-猎场就是战场-兜兜з,http://ruk1ng.kmdns.net:19527/huya/b82cec80a146ea7e3b489954148f0320
+电视剧-现代版三国 中二病晚期-十八里铺大当家,http://ruk1ng.kmdns.net:19527/huya/645a2a13a4459316903004dceb3e389f
+电视剧-白鹿姓两大家族之间的恩怨纷争-小猪猪,http://ruk1ng.kmdns.net:19527/huya/1d79651700b2e51af6debfd757229f70
+电视剧-相识、相知、相爱、相守的父母爱情-四次元先生,http://ruk1ng.kmdns.net:19527/huya/7a0686279f6250c41c58b19fce770aa7
+电视剧-秘密浮出水面-脑壳不太好,http://ruk1ng.kmdns.net:19527/huya/eaf09e9444062cb4d8c60c9fc8b86ea5
+电视剧-端王和端王妃的尬爱日常！-雨、浮沉,http://ruk1ng.kmdns.net:19527/huya/fdf5ebdf764b611765fffcb25494de46
+电视剧-红色经典佳片·愿得此身长报国-寞尛北,http://ruk1ng.kmdns.net:19527/huya/a9cf1e5175e24ff9a2a1fdd445b131b7
+电视剧-绿藤市扫hei除恶---娇妹,http://ruk1ng.kmdns.net:19527/huya/4cc4d0b842aa585f699d6f0ca0603390
+电视剧-胡八一胖子沙漠古城找鬼洞-會唱歌的小野貓,http://ruk1ng.kmdns.net:19527/huya/85699e9551ee1577ce1a9e66ea71ee6a
+电视剧-芈月和她的三个爱人-荒野达人,http://ruk1ng.kmdns.net:19527/huya/4d9b3ba639d0c2c312e8a9e600549d68
+电视剧-英雄燕双鹰的传奇故事-雅痞不是帅,http://ruk1ng.kmdns.net:19527/huya/682bdc88d4b30657305ce0777b80e35c
+电视剧-葛二蛋成长之路-茱麗葉,http://ruk1ng.kmdns.net:19527/huya/aec44d3ced76955c68aa541bb209ddbe
+电视剧-许三多军营成长史-领带哥,http://ruk1ng.kmdns.net:19527/huya/87b99772e4a296d58d6dc630ef17e63c
+电视剧-速肌:两个光头赛车的故事-一只梦幻小萌虎,http://ruk1ng.kmdns.net:19527/huya/5c193e5862e54e2d2a9a0ae6e2d66cba
+电视剧-阔别十年你是我的荣耀-鄉8佬,http://ruk1ng.kmdns.net:19527/huya/9168348b34e8bef7fbf71e7597282abe
+综艺-假面骑士龙骑  变身！！-昵称违规-jPhz6R8hIC,http://ruk1ng.kmdns.net:19527/huya/e5868518e84dd55d744c80e9b4fdda49
+综艺-宋小宝施诡计耍赖破坏棋局-尐饭团,http://ruk1ng.kmdns.net:19527/huya/7c66a9627769c245ae40e299c2aae0cd
+
 电影轮播,#genre#
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 刘德华,http://43.138.170.29:35455/yy/1382745111
