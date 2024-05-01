@@ -150,6 +150,8 @@ CCTV4K超高清,http://113.64.145.231:8081/hls/144/index.m3u8
 CHC影迷电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
 CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
 CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外电源,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
@@ -178,10 +180,9 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典电影http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-经典功夫台,http://cfss.cc/cdn/yy/1355002394.flv
-经典动画,http://live.dxms.top/dw/jddh.php
+星空功夫台,http://cfss.cc/cdn/yy/1355002394.flv
+星空电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 经典怀旧,http://live.dxms.top/dw/jdhj.php
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -307,6 +308,18 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星空卫视,http://112.19.171.156:9999/udp/239.93.0.156:2193
 channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
+NOW体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZnhUdzJ1NUJrb0FFQ1F4aWEvdmhMVlFuL1ppWnp3citmbDF6UnRZa0dLb1VrT2xRcVR6RzZTNQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+NOW星影台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT240ZjNveHdLdWJJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+NOW爆谷台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3k4RU5YdFRSM1lNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB亚洲剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT1ZzRU10aUNzcGhZPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB华语剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT1ZsSGxJS2tjZktnPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB戏曲,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3J2djQweWY2eHZJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB新闻,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndJOGR3bTVURk5FeGYxajREa2VMc2pDLzB5dXZsOVpTamdkUUxYdWlZR3M5QlJKVnVVeDlNblFSMjVuTmRvSmxBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB日韩剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hTzdNSjB0V0pOZ2tjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB明珠,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzlQajdQaW9ZTlZIM2JUMTVFYkxvVnBJUzhyLzA0RmJQY1lQTm5tZGYyUGtBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB粤语,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB翡翠,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czRwVlcyMXBsOUZ5cmtxVThha0lFZ0Y2L0hLa015OUN6bXU5dm5wNGpuM2lIRkUvUXlMYXNPOU5pWTdKblNudGk0RFFlWFVPd1pSN1NocWxQdVM1VytRS0RrS2M5MTRaMXY4cExLZmlPVG50NDBYalhUZEI5Z1Q4YkU1YW8wRlBoUzBpRUdzSS93TGRPUk1uL2RGTEpGTis2NER6enlnWFE1MEdxaThpTk1hbnVVWERwYzRlOUdObnM0REx3RkxTeFhoMlRqSlNqSjdVZz09/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+TVB财经,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3ZtdFZWVjVSVTlBTDRBR3NlWGhJT0ZjUVVBK2VIYmQ1S1VEaGl0MzNOaWZncWlwUW1ZK0pNdA==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
@@ -322,6 +335,7 @@ RHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/str
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+天映经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0IyaTR1SXh4aU50QkhNa1liSTg1OFc3UncyeDBUNXJkdWVpckpOUGpRbUFTaEtmUVRENUhISlZ6bWNaRVV4dGFXZTR5MTlremx3MSs3VjdpY0lhWUhmaXJTYkduOERGV2c9/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 GOOD好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -2209,6 +2223,7 @@ BTV国际频道, http://111.199.239.209:3568/rtp/239.3.1.235:8000
 成都影视文艺,https://tv.cry33.com/cdtvflv.php?id=cdyswy
 成都公共,https://tv.cry33.com/cdtvflv.php?id=cdgg
 成都少儿,https://tv.cry33.com/cdtvflv.php?id=cdse
+峨眉电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh4cC9QcGxoNzJwUG1WeE1sV1l4cVUwQnhFM2ZhdTZSZ3JOZVcvc3lQc3k4Ti80TkY3SENBN2loR0d3b1VkMnB5dEdzUndjY2lTZTd6QlN4MXpEbTdi/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
 江油,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
