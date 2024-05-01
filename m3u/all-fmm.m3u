@@ -578,8 +578,7 @@ http://113.64.145.231:8081/hls/36/index.m3u8
 http://113.64.145.231:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="香港卫视文旅台" tvg-logo="https://live.fanmingming.com/tv/香港卫视文旅台.png" group-title="港澳台",香港卫视文旅台
-http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
 http://112.19.171.156:9999/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="channelV" tvg-logo="https://live.fanmingming.com/tv/channelV.png" group-title="港澳台",channelV
@@ -600,8 +599,7 @@ http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4Yn
 http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndJOGR3bTVURk5FeGYxajREa2VMc2pDLzB5dXZsOVpTamdkUUxYdWlZR3M5QlJKVnVVeDlNblFSMjVuTmRvSmxBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 #EXTINF:-1 tvg-name="TVB日韩剧" tvg-logo="https://live.fanmingming.com/tv/TVB日韩剧.png" group-title="港澳台",TVB日韩剧
 http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hTzdNSjB0V0pOZ2tjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港澳台",TVB明珠
-http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzlQajdQaW9ZTlZIM2JUMTVFYkxvVnBJUzhyLzA0RmJQY1lQTm5tZGYyUGtBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+
 #EXTINF:-1 tvg-name="TVB粤语" tvg-logo="https://live.fanmingming.com/tv/TVB粤语.png" group-title="港澳台",TVB粤语
 http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 
@@ -635,8 +633,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://live.fanmingming.com/tv/大爱2台.png" group-title="港澳台",大爱2台
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="港澳台",天映经典
-http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0IyaTR1SXh4aU50QkhNa1liSTg1OFc3UncyeDBUNXJkdWVpckpOUGpRbUFTaEtmUVRENUhISlZ6bWNaRVV4dGFXZTR5MTlremx3MSs3VjdpY0lhWUhmaXJTYkduOERGV2c9/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+
 #EXTINF:-1 tvg-name="GOOD好消息" tvg-logo="https://live.fanmingming.com/tv/GOOD好消息.png" group-title="港澳台",GOOD好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-name="香港佛陀" tvg-logo="https://live.fanmingming.com/tv/香港佛陀.png" group-title="港澳台",香港佛陀
