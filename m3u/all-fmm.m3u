@@ -604,10 +604,7 @@ http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4Yn
 http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzlQajdQaW9ZTlZIM2JUMTVFYkxvVnBJUzhyLzA0RmJQY1lQTm5tZGYyUGtBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 #EXTINF:-1 tvg-name="TVB粤语" tvg-logo="https://live.fanmingming.com/tv/TVB粤语.png" group-title="港澳台",TVB粤语
 http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠.png" group-title="港澳台",TVB翡翠
-http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czRwVlcyMXBsOUZ5cmtxVThha0lFZ0Y2L0hLa015OUN6bXU5dm5wNGpuM2lIRkUvUXlMYXNPOU5pWTdKblNudGk0RFFlWFVPd1pSN1NocWxQdVM1VytRS0RrS2M5MTRaMXY4cExLZmlPVG50NDBYalhUZEI5Z1Q4YkU1YW8wRlBoUzBpRUdzSS93TGRPUk1uL2RGTEpGTis2NER6enlnWFE1MEdxaThpTk1hbnVVWERwYzRlOUdObnM0REx3RkxTeFhoMlRqSlNqSjdVZz09/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-#EXTINF:-1 tvg-name="TVB财经" tvg-logo="https://live.fanmingming.com/tv/TVB财经.png" group-title="港澳台",TVB财经
-http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3ZtdFZWVjVSVTlBTDRBR3NlWGhJT0ZjUVVBK2VIYmQ1S1VEaGl0MzNOaWZncWlwUW1ZK0pNdA==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="港澳台",TVB无线新闻
 http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻.png" group-title="港澳台",TVB娱乐新闻
