@@ -302,7 +302,6 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 凤凰资讯,http://113.64.145.231:8081/hls/36/index.m3u8
 凤凰香港,http://113.64.145.231:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星空卫视,http://112.19.171.156:9999/udp/239.93.0.156:2193
 channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
 NOW体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZnhUdzJ1NUJrb0FFQ1F4aWEvdmhMVlFuL1ppWnp3citmbDF6UnRZa0dLb1VrT2xRcVR6RzZTNQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
@@ -313,7 +312,6 @@ TVB华语剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWT
 TVB戏曲,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3J2djQweWY2eHZJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB新闻,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndJOGR3bTVURk5FeGYxajREa2VMc2pDLzB5dXZsOVpTamdkUUxYdWlZR3M5QlJKVnVVeDlNblFSMjVuTmRvSmxBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB日韩剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hTzdNSjB0V0pOZ2tjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB明珠,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzlQajdQaW9ZTlZIM2JUMTVFYkxvVnBJUzhyLzA0RmJQY1lQTm5tZGYyUGtBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB粤语,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
@@ -330,7 +328,6 @@ RHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/str
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-天映经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0IyaTR1SXh4aU50QkhNa1liSTg1OFc3UncyeDBUNXJkdWVpckpOUGpRbUFTaEtmUVRENUhISlZ6bWNaRVV4dGFXZTR5MTlremx3MSs3VjdpY0lhWUhmaXJTYkduOERGV2c9/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 GOOD好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
