@@ -180,9 +180,6 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-星空功夫台,http://cfss.cc/cdn/yy/1355002394.flv
-星空电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 经典怀旧,http://live.dxms.top/dw/jdhj.php
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -318,8 +315,6 @@ TVB新闻,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndJOGR3bTVU
 TVB日韩剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hTzdNSjB0V0pOZ2tjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB明珠,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzlQajdQaW9ZTlZIM2JUMTVFYkxvVnBJUzhyLzA0RmJQY1lQTm5tZGYyUGtBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB粤语,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB翡翠,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czRwVlcyMXBsOUZ5cmtxVThha0lFZ0Y2L0hLa015OUN6bXU5dm5wNGpuM2lIRkUvUXlMYXNPOU5pWTdKblNudGk0RFFlWFVPd1pSN1NocWxQdVM1VytRS0RrS2M5MTRaMXY4cExLZmlPVG50NDBYalhUZEI5Z1Q4YkU1YW8wRlBoUzBpRUdzSS93TGRPUk1uL2RGTEpGTis2NER6enlnWFE1MEdxaThpTk1hbnVVWERwYzRlOUdObnM0REx3RkxTeFhoMlRqSlNqSjdVZz09/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB财经,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3ZtdFZWVjVSVTlBTDRBR3NlWGhJT0ZjUVVBK2VIYmQ1S1VEaGl0MzNOaWZncWlwUW1ZK0pNdA==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
 TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
