@@ -349,12 +349,7 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字频道",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="星空功夫台" tvg-logo="https://live.fanmingming.com/tv/星空功夫台.png" group-title="数字频道",星空功夫台
-http://cfss.cc/cdn/yy/1355002394.flv
-#EXTINF:-1 tvg-name="星空电影台" tvg-logo="https://live.fanmingming.com/tv/星空电影台.png" group-title="数字频道",星空电影台
-http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="数字频道",经典电影
-http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="经典怀旧" tvg-logo="https://live.fanmingming.com/tv/经典怀旧.png" group-title="数字频道",经典怀旧
 http://live.dxms.top/dw/jdhj.php
 #EXTINF:-1 tvg-name="金马影院" tvg-logo="https://live.fanmingming.com/tv/金马影院.png" group-title="数字频道",金马影院
