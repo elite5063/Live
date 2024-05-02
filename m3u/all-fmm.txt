@@ -154,6 +154,8 @@ CCTV4K超高清,http://113.64.145.231:8081/hls/144/index.m3u8
 广东4K超高清,http://113.64.145.231:8081/hls/145/index.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 南国都市4K,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+斗鱼影院台4K,http://159.75.85.63:35455/douyu/9249162
+中录动漫4K,http://118.114.96.20:8889/udp/239.93.1.188:5140
 
 数字频道,#genre#
 CHC影迷电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
@@ -177,7 +179,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-金鹰纪实, http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+金鹰纪实, http://111.22.114.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 游戏解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -194,6 +196,7 @@ BesTV谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
 BesTV星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
 BesTV华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 BesTV全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+BesTV热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -1317,7 +1320,6 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 西游记张卫健版,http://43.138.170.29:35455/yy/1354936155
 
 北京频道,#genre#
-北京4K超清,http://114.252.234.124:8888/rtp/239.3.1.249:8001$北京联通
 北京新闻,http://114.252.234.124:8888/rtp/239.3.1.159:8000$北京联通
 北京生活,http://114.252.234.124:8888/rtp/239.3.1.117:8000$北京联通
 北京影视,http://114.252.234.124:8888/rtp/239.3.1.158:8000$北京联通
@@ -1328,10 +1330,13 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 北京纪实科教,http://114.252.234.124:8888/rtp/239.3.1.115:8000$北京联通
 北京少儿,http://114.252.234.124:8888/rtp/239.3.1.189:8000$北京联通
 北京淘BABY,http://114.252.234.124:8888/rtp/239.3.1.238:8001$北京联通
-北京淘剧场,http://114.252.234.124:8888/rtp/239.3.1.95:8001$北京联通
+北京淘BABY,http://114.254.219.197:8000/rtp/239.3.1.238:8001
 北京淘娱乐,http://114.252.234.124:8888/rtp/239.3.1.100:8001$北京联通
-北京淘电影,http://114.252.234.124:8888/rtp/239.3.1.250:8001$北京联通
-北京淘精彩,http://114.252.234.124:8888/rtp/239.3.1.178:8001$北京联通
+北京淘电影,http://114.254.219.197:8000/rtp/239.3.1.250:8001
+北京淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
+北京淘剧场,http://114.254.219.197:8000/rtp/239.3.1.95:8001
+北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
+北京淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 朝阳融媒,http://114.252.234.124:8888/rtp/239.3.1.163:8001$北京联通
 密云电视,http://114.252.234.124:8888/rtp/239.3.1.154:8001$北京联通
 延庆电视,http://114.252.234.124:8888/rtp/239.3.1.187:8001$北京联通
