@@ -343,6 +343,41 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+HBO Family HD,http://202.150.172.3:5000/udp/239.1.2.245:9366
+HBO Signature HD,http://202.150.172.3:5000/udp/239.1.2.249:9378
+HBO Hits HD,http://202.150.172.3:5000/udp/239.1.1.215:9264
+HBO HD,http://202.150.172.3:5000/udp/239.1.1.203:9192
+HBO,http://202.150.172.3:5000/udp/239.1.1.95:8544
+Prime,http://202.150.172.3:5000/udp/239.1.1.216:9270
+TVRI,http://202.150.172.3:5000/udp/239.1.1.37:8196
+Metro TV,http://202.150.172.3:5000/udp/239.1.1.19:8088
+CNN Indonesia,http://202.150.172.3:5000/udp/239.1.1.241:9362
+TV One,http://202.150.172.3:5000/udp/239.1.1.31:8160
+TRANSTV,http://202.150.172.3:5000/udp/239.1.1.27:8136
+TRANS7,http://202.150.172.3:5000/udp/239.1.1.29:8148	1,http://202.150.172.3:5000/udp/239.1.1.161:8940
+FX,http://202.150.172.3:5000/udp/239.1.1.1:7980
+Comedy Central,http://202.150.172.3:5000/udp/239.1.1.9:8028
+TVN,http://202.150.172.3:5000/udp/239.1.1.135:8784
+KBS World,http://202.150.172.3:5000/udp/239.1.1.167:8976
+Aniplus,http://202.150.172.3:5000/udp/239.1.1.117:8676
+NHK World Premium,http://202.150.172.3:5000/udp/239.1.1.165:8964
+WakuWaku Japan,http://202.150.172.3:5000/udp/239.1.1.75:8424
+Star Chinese,http://202.150.172.3:5000/udp/239.1.1.153:8892
+K-Plus,http://202.150.172.3:5000/udp/239.1.1.242:9426
+iCNTV Popular Ent,http://202.150.172.3:5000/udp/239.1.1.210:9506
+Hi Indo,http://202.150.172.3:5000/udp/239.1.1.240:9348
+Dunia Lain,http://202.150.172.3:5000/udp/239.1.1.149:8868
+Tahan Tawa,http://202.150.172.3:5000/udp/239.1.1.231:9362
+Showcase,http://202.150.172.3:5000/udp/239.1.1.225:9326
+Pelangi,http://202.150.172.3:5000/udp/239.1.1.110:8634
+A+ Australian Plus,http://202.150.172.3:5000/udp/239.1.1.33:8172
+Arirang,http://202.150.172.3:5000/udp/239.1.1.147:8856
+CCTV 4,http://202.150.172.3:5000/udp/239.1.1.115:8664
+Citra Drama,http://202.150.172.3:5000/udp/239.1.1.44:8238
+DW HD,http://202.150.172.3:5000/udp/239.1.2.243:9360
+CNN HD,http://202.150.172.3:5000/udp/239.1.1.246:9438
+RED by HBO HD,http://202.150.172.3:5000/udp/239.1.1.133:8772
+CINEMAX HD,http://202.150.172.3:5000/ud
 
 斗鱼影视,#genre#
 剧情-「蔷薇三国」宁我负人 勿人负我-棉花糖丶蔷薇,http://ruk1ng.kmdns.net:19527/douyu/dce241a3cad07f524b93242301b61485
