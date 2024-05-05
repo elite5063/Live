@@ -298,16 +298,6 @@ NewTV频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://112.19.171.156:9999/udp/239.93.0.156:2193
 channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
-NOW体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZnhUdzJ1NUJrb0FFQ1F4aWEvdmhMVlFuL1ppWnp3citmbDF6UnRZa0dLb1VrT2xRcVR6RzZTNQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-NOW星影台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT240ZjNveHdLdWJJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-NOW爆谷台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3k4RU5YdFRSM1lNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB亚洲剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT1ZzRU10aUNzcGhZPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB华语剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT1ZsSGxJS2tjZktnPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB戏曲,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3J2djQweWY2eHZJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB新闻,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndJOGR3bTVURk5FeGYxajREa2VMc2pDLzB5dXZsOVpTamdkUUxYdWlZR3M5QlJKVnVVeDlNblFSMjVuTmRvSmxBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB日韩剧,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hTzdNSjB0V0pOZ2tjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB粤语,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5WEZWTkJxdGc3d1k4YnJtOTVPb2RVU3FkS3U3ZE1YUE5GSjUyTzZUNXJ3SFdQSmVvZU1hT3JMN0hLcGI0OXRrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
