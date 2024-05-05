@@ -191,6 +191,10 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 经典功夫,http://live.dxms.top/dwy/jdgf1.php 
 经典电影,http://live.dxms.top/dwy/jddyt.php 
 经典影视,http://live.dxms.top/dwy/jdyst.php 
+经典三国,http://live.dxms.top/dwy/jdsg.php 
+经典三国,http://live.dxms.top/dwy/jdsg1.php 
+经典红楼,http://live.dxms.top/dwy/jdhl.php 
+怀旧剧场,http://live.dxms.top/dwy/hjjc.php 
 经典怀旧,http://live.dxms.top/dwy/jdhj.php 
 经典怀旧,http://live.dxms.top/dw/jdhj.php
 经典喜剧,http://live.dxms.top/dwy/jdxj.php 
