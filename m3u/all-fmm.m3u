@@ -1707,12 +1707,6 @@ http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
 #EXTINF:-1 tvg-name="阿拉善额济纳旗" tvg-logo="https://live.fanmingming.com/tv/阿拉善额济纳旗.png" group-title="内蒙古频道",阿拉善额济纳旗
 http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.m3u8
-#EXTINF:-1 tvg-name="赤峰新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/赤峰新闻综合频道.png" group-title="内蒙古频道",赤峰新闻综合频道
-http://mywlkj.ddns.net:754/tv/cfrtv.php?id=1
-#EXTINF:-1 tvg-name="赤峰影视娱乐频道" tvg-logo="https://live.fanmingming.com/tv/赤峰影视娱乐频道.png" group-title="内蒙古频道",赤峰影视娱乐频道
-http://mywlkj.ddns.net:754/tv/cfrtv.php?id=2
-#EXTINF:-1 tvg-name="赤峰经济服务频道" tvg-logo="https://live.fanmingming.com/tv/赤峰经济服务频道.png" group-title="内蒙古频道",赤峰经济服务频道
-http://mywlkj.ddns.net:754/tv/cfrtv.php?id=3
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png" group-title="内蒙古频道",包头新闻综合
 http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 #EXTINF:-1 tvg-name="包头经济" tvg-logo="https://live.fanmingming.com/tv/包头经济.png" group-title="内蒙古频道",包头经济
