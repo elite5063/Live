@@ -135,7 +135,7 @@ CETV4,http://8.146.199.204:3468/29/bestv.php?id=zgjy4
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 CETV1, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV3, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV2, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV4, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 4K频道,#genre#
@@ -165,13 +165,6 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-女性时尚,http://113.109.250.98:9999/udp/239.253.43.8:5146?$广东广州电信
-怀旧剧场,http://113.109.250.98:9999/udp/239.253.43.25:5146?$广东广州电信
-文化精品,http://113.109.250.98:9999/udp/239.253.43.13:5146?$广东广州电信
-风云剧场,http://113.109.250.98:9999/udp/239.253.43.16:5146?$广东广州电信
-风云足球,http://113.109.250.98:9999/udp/239.253.43.14:5146?$广东广州电信
-风云音乐,http://113.109.250.98:9999/udp/239.253.43.6:5146?$广东广州电信
-电视指南,http://113.109.250.98:9999/udp/239.253.43.19:5146?$广东广州电信
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
