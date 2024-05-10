@@ -68,26 +68,32 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 央卫IPV4,#genre#
-CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
-CCTV2,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
-CCTV3,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
-CCTV4,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
-CCTV5,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
-CCTV5+,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
-CCTV6,http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV6,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
-CCTV7,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
-CCTV8,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
-CCTV9,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
-CCTV10,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573001.m3u8
-CCTV11,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
-CCTV12,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-CCTV13,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV14,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
-CCTV15,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
-CCTV16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
-CCTV16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
-CCTV17,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
+
+CCTV1,http://8.146.199.204:3468/29/bestv.php?id=cctv1
+CCTV2,http://8.146.199.204:3468/29/bestv.php?id=cctv2
+CCTV3,http://8.146.199.204:3468/29/bestv.php?id=cctv3
+CCTV4,http://8.146.199.204:3468/29/bestv.php?id=cctv4
+CCTV5,http://8.146.199.204:3468/29/bestv.php?id=cctv5
+CCTV5+,http://8.146.199.204:3468/29/bestv.php?id=cctv5p
+CCTV5+,http://8.146.199.204:3468/29/bestv.php?id=cctv5p2
+CCTV6,http://8.146.199.204:3468/29/bestv.php?id=cctv6
+CCTV7,http://8.146.199.204:3468/29/bestv.php?id=cctv7
+CCTV8,http://8.146.199.204:3468/29/bestv.php?id=cctv8
+CCTV9,http://8.146.199.204:3468/29/bestv.php?id=cctv9
+CCTV10,http://8.146.199.204:3468/29/bestv.php?id=cctv10
+CCTV11,http://8.146.199.204:3468/29/bestv.php?id=cctv11
+CCTV12,http://8.146.199.204:3468/29/bestv.php?id=cctv12
+CCTV13,http://8.146.199.204:3468/29/bestv.php?id=cctv13
+CCTV14,http://8.146.199.204:3468/29/bestv.php?id=cctv14
+CCTV15,http://8.146.199.204:3468/29/bestv.php?id=cctv15
+CCTV16,http://8.146.199.204:3468/29/bestv.php?id=cctv16
+CCTV16 4K,http://8.146.199.204:3468/29/bestv.php?id=cctv164k
+CCTV17,http://8.146.199.204:3468/29/bestv.php?id=cctv17
+CCTV4K,http://8.146.199.204:3468/29/bestv.php?id=cctv4k
+CGTN,http://8.146.199.204:3468/29/bestv.php?id=cgtn
+CETV1,http://8.146.199.204:3468/29/bestv.php?id=zgjy1
+CETV2,http://8.146.199.204:3468/29/bestv.php?id=zgjy2
+CETV4,http://8.146.199.204:3468/29/bestv.php?id=zgjy4
 凤凰中文台,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -131,12 +137,6 @@ CCTV17,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/20225
 CETV1, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV3, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV4, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575001.m3u8
-CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
-CGTN西语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
-CGTN法语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
-CGTN阿语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
-CGTN俄语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
 
 4K频道,#genre#
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
