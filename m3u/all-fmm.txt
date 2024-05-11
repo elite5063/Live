@@ -337,7 +337,7 @@ channelV,http://112.19.171.156:9999/udp/239.93.0.157:2194
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+Plus台,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 RHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
