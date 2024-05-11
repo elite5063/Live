@@ -985,18 +985,6 @@ MK青凌,http://43.138.170.29:35455/douyu/9488836
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
 江苏频道,#genre#
-江苏卫视,https://tv.cry33.com/jstv.php?id=jsws
-江苏公共新闻,https://tv.cry33.com/jstv.php?id=jsgg
-江苏城市,https://tv.cry33.com/jstv.php?id=jscs
-江苏综艺,https://tv.cry33.com/jstv.php?id=jszy
-江苏影视,https://tv.cry33.com/jstv.php?id=jsys
-江苏体育,https://tv.cry33.com/jstv.php?id=jsty
-江苏教育,https://tv.cry33.com/jstv.php?id=jsjy
-江苏国际,https://tv.cry33.com/jstv.php?id=jsgj
-好享购物,https://tv.cry33.com/jstv.php?id=hxgw
-优漫卡通,https://tv.cry33.com/jstv.php?id=ymkt
-江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
-江苏综艺,https://epg.pw/stream/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
