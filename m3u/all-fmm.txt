@@ -173,12 +173,12 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-rRB-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-rRB-新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+哈尔滨新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 漠河综合频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
-齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+牡丹江新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 
 4K频道,#genre#
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
