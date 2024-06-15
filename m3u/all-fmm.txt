@@ -1,4 +1,4 @@
-黑龙江IPV6,#genre#
+央视卫视［V6］,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -15,7 +15,7 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
@@ -66,7 +66,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
-黑龙江IPV4,#genre#
+黑移动［V6］,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -198,6 +198,7 @@ CHC影迷电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
 CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
 1905国内电影,http://live.dxms.top:80/dwy/hyyy.php
+1905国际电影,http://yubox.xyz/php/1905.php?id=1905b
 兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
@@ -337,34 +338,24 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 电影轮播,#genre#
-译制国语影片,http://openhls-tct.douyucdn2.cn/dyliveflv3a/2436390rCRj4Opr9_2000.flv?txSecret=153f8ac9649cd0e00a0e3da44c5000f3&txTime=66559f92&token=h5-douyu-0-2436390-3966d6ec9a57da9eafe2a28f7650bd4d&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=391924305
+電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+豆瓣高分✔原,http://diyp.112114.xyz/douyu/8770422
+漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
+喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
+鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+战争电影✔原,https://live.metshop.top/yy/1382736865
 邵氏影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/4246519rRruKzQ7n_2000.flv?txSecret=b5d7fa4ed81cb7de60fec5bf7ff4c59c&txTime=66535c13&token=h5-douyu-0-4246519-12f80726342f570660da5a1be8c26fd5&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=390665373
 贝爷影厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/252802rOvuKcTnR7_2000.flv?txSecret=7504d7908ec6550d969fbbbbddf5e674&txTime=66569888&token=h5-douyu-0-252802-563c3fb61dc5a7582993c2a968be190b&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391991178
 凌儿影院,http://openhls-tct.douyucdn2.cn/dyliveflv3/1377142rOGuS1z5s_2000.flv?txSecret=404b3817699d8217e80a6c377d84abab&txTime=6659fc6e&token=h5-douyu-0-1377142-ea5853da1421dfcc5871a3f71759a0f4&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=392157258
 冰冰小剧场,http://open-tct.douyucdn2.cn/dyliveflv3a/74374r5iKYmf5fFJ_2000.flv?wsAuth=edcc801a85afa979a4be94f2138cad41&token=cpn-androidmpro-0-74374-dcc4b172cfca13cb02a463ee186929c417852fcc23de4075&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=387572440
-漫威主线剧情,http://open-tct.douyucdn2.cn/dyliveflv3/6140589rOY9XN82j_2000.flv?wsAuth=6948114c607f52146442e876dbe93b55&token=cpn-androidmpro-0-6140589-8c9f814ba60c86af2c6a69375e34c41c68e69e2904a04a27&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3&sid=390875676
 贝爷MAX厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rtpL2KHfuhzE_2000.flv?txSecret=fd34ef7918fe57fa6e4ef20eb817d8f6&txTime=6659fbfe&token=h5-douyu-0-4332-3a3901db6436df52b36a46bf57429448&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391532022
-吃米滴虫,http://openhls-tct.douyucdn2.cn/dyliveflv1/315457r9QEIq9GoL_2000.flv?txSecret=f9bc7bebd99bea840908ae18b66dbd9e&txTime=665b161c&token=h5-douyu-0-315457-8910c0302beebedb14d87924e07edba8&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391056325
-萌小鬼影院点播台,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?txSecret=fb227ea218b9e6258d7f22de778e4128&txTime=664d70a2&token=h5-douyu-0-3928-036d1cd67ad820987cc0123840b75656&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391260500
-❤️怡寶❤️港台 科幻 动作 喜剧,http://openhls-tct.douyucdn2.cn/dyliveflv3a/434971rX9sIJcCsI_2000.flv?txSecret=ddb68628db2b7c9682daa0e6b5180377&txTime=66587b61&token=h5-douyu-0-434971-1054fb3a9a0adc5a945661e7cf5d73e8&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=392112074
-喜剧电影专场,http://open-tct.douyucdn2.cn/dyliveflv3a/9292492rpja2HKLo_2000.flv?wsAuth=49fc8f336867748b1a843b602a2b5bff&token=cpn-androidmpro-0-9292492-2c1cc786a3775da2d139861f523203763401fd3ebe4073e1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=390875698
-邦德电影,http://open-tct.douyucdn2.cn/dyliveflv3/9292499rHclWeuuf_2000.flv?wsAuth=bbd0ff295ba394355293870f0061cfc6&token=cpn-androidmpro-0-9292499-cd2cfe2f7a43025846d636524ba73825a43f80b3ed86fb25&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3&sid=390875677
-经典港剧,http://open-tct.douyucdn2.cn/dyliveflv3a/4290711raUeWKH4K_2000.flv?wsAuth=86c84f64ad9725099a00eea2e0cbfa50&token=cpn-androidmpro-0-4290711-a1825383364f9074794a150fd2ba07fab5d09e3bf689f861&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=388713058
-成龙电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/3379942r3v4xYYS5_2000.flv?txSecret=cd9b4363fe7ad2ab3b90977074650445&txTime=66505e6f&token=h5-douyu-0-3379942-f5a735a839f31d36c9d2d1089aeae9d8&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=390875678
-刘德华电影,http://open-tct.douyucdn2.cn/dyliveflv3a/2516864rH25mzbol_2000.flv?wsAuth=858906b0e6c28ddc025966e2fd8e3fdf&token=cpn-androidmpro-0-2516864-d16172395f77f239f6501fb17513021fcb374c0f04a00ce6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=390875670
+萌小鬼影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?txSecret=fb227ea218b9e6258d7f22de778e4128&txTime=664d70a2&token=h5-douyu-0-3928-036d1cd67ad820987cc0123840b75656&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391260500
+怡寶影院,http://openhls-tct.douyucdn2.cn/dyliveflv3a/434971rX9sIJcCsI_2000.flv?txSecret=ddb68628db2b7c9682daa0e6b5180377&txTime=66587b61&token=h5-douyu-0-434971-1054fb3a9a0adc5a945661e7cf5d73e8&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=392112074
 星爷电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?txSecret=812585041cbe7859174b4bdec3fe83e3&txTime=66503bbb&token=h5-douyu-0-122402-aef5063c503d8ac6cc332bea12872269&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391477013#http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=1a71960b284f1c1016b431f1fca096b5&token=cpn-androidmpro-0-122402-0fcea45d2300cfa06c6366de4f35dcb2db411a1a2bfa9930&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2&sid=391477013
-成龙李连杰周星驰,http://openhls-tct.douyucdn2.cn/dyliveflv3/8107217rEYno7hya_2000.flv?txSecret=5aa0fd12b6b1e1778317d92b8d0eaf8b&txTime=66587c12&token=h5-douyu-0-8107217-a1c89a2628148b306ad1b109cc5de4d3&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=392115479
-哈利波特全集,http://openhls-tct.douyucdn2.cn/dyliveflv3/8814650rMBTsuTfB_2000.flv?txSecret=226f8bb4614c432f8138d17ae13b0049&txTime=664ed3d5&token=h5-douyu-0-8814650-f17866186bcd84c880142db2e3140600&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=390923768#http://open-tct.douyucdn2.cn/dyliveflv3/8814650rMBTsuTfB_2000.flv?wsAuth=94d62e73bd42174e34aae234aeceac99&token=cpn-androidmpro-0-8814650-4848bf8fda51c5b3ceaf5af613282ea903ad530ad2567ffd&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3&sid=390923768
-【经典巨制】欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rZPOM8VHn_2000.flv?txSecret=a97ba77e0aebb9d5c232db65422248ab&txTime=66555955&token=h5-douyu-0-2793084-75f380ae27c15e9f1b880a6bfcec36fc&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391921008
-【变种人】除掉任何阻碍我们的人,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9651304rXBBTojcl_2000.flv?txSecret=a88f2d0aded0aa4c981be2b12b4c8eca&txTime=665a05b0&token=h5-douyu-0-9651304-d5bc5b40353a91097a2a1b2efbc3d044&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=390875674
-燕双鹰/狄仁杰,http://openhls-tct.douyucdn2.cn/dyliveflv3/3439096rXxekA6ho_2000.flv?txSecret=2a2413b79d261dbde3a930ab8ed5910b&txTime=665b168b&token=h5-douyu-0-3439096-6e60a6dcd48d1dc76a04fbc0def59c68&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391416417
-玄幻剧场,http://live.iill.top/huya.php?id=11342414
-【瑶瑶】童年阴影 鬼片 恐怖 惊悚,http://openhls-tct.douyucdn2.cn/dyliveflv3/2935323rS9CDjaVn_2000.flv?txSecret=8fc5be68269f09833854122e33ff8ebd&txTime=66532df1&token=h5-douyu-0-2935323-79e52c884fca6b0be696bd3e96dc0f11&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=390211716
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,http://openhls-tct.douyucdn2.cn/dyliveflv1/96577rwlgNSrSuGb_2000.flv?txSecret=9dec9c0424641170987e6529164a321e&txTime=665b008d&token=h5-douyu-0-96577-fe5ee10238678bccd5aaf65d8b5b39d5&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392240769
-【奇光】林正英 僵尸 弹幕 女鬼 24H,http://openhls-tct.douyucdn2.cn/dyliveflv3/8009547rDplMR1xv_2000.flv?txSecret=2ac66d535e11c902e94486c1fe6bc982&txTime=66557dd7&token=h5-douyu-0-8009547-0ed133207a251f301870237230f3fa6c&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391949095
-【马小玲】况天佑~山本,http://openhls-tct.douyucdn2.cn/dyliveflv3/9470198r0AvDUmJp_2000.flv?txSecret=cd5eb2b208d857ed96f61e211d1079f2&txTime=66531545&token=h5-douyu-0-9470198-f26457a2afea5f5925d26b27f59f8092&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=390912277
-经典 恐怖 鬼怪 剧场,http://open-tct.douyucdn2.cn/dyliveflv3/1165374r89N7rYMK_2000.flv?wsAuth=464c01c72d85cd431cf5d8331587614c&token=cpn-androidmpro-0-1165374-8b2f52cfa7fef33078c4114f4198059356478c6c987369b8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3&sid=390875675#http://openhls-tct.douyucdn2.cn/dyliveflv3/1165374r89N7rYMK_2000.flv?txSecret=4a5e13b1ef09d4a183318075464e9296&txTime=664ff366&token=h5-douyu-0-1165374-10010514298ac00f735a7a6aced16888&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=390875675
-❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻,http://openhls-tct.douyucdn2.cn/dyliveflv3/263824rGI0Pfb2qE_2000.flv?txSecret=21dca944348188473254f2c09268832b&txTime=6659fd64&token=h5-douyu-0-263824-99066e8646e018cf9d08d7f7dc36fe51&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391056234
+欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rZPOM8VHn_2000.flv?txSecret=a97ba77e0aebb9d5c232db65422248ab&txTime=66555955&token=h5-douyu-0-2793084-75f380ae27c15e9f1b880a6bfcec36fc&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391921008
+小U电影,http://openhls-tct.douyucdn2.cn/dyliveflv1/96577rwlgNSrSuGb_2000.flv?txSecret=9dec9c0424641170987e6529164a321e&txTime=665b008d&token=h5-douyu-0-96577-fe5ee10238678bccd5aaf65d8b5b39d5&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392240769
 小鬼头,http://124.248.69.76:35455/huya/11352963
 刘德华,http://124.248.69.76:35455/huya/11342424
 许冠英,http://124.248.69.76:35455/huya/11601972
