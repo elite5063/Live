@@ -66,7 +66,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
-黑移动［V6］,#genre#
+央视卫视［黑龙江］,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -348,7 +348,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 战争电影✔原,https://live.metshop.top/yy/1382736865
 邵氏影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/4246519rRruKzQ7n_2000.flv?txSecret=b5d7fa4ed81cb7de60fec5bf7ff4c59c&txTime=66535c13&token=h5-douyu-0-4246519-12f80726342f570660da5a1be8c26fd5&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=390665373
 贝爷影厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/252802rOvuKcTnR7_2000.flv?txSecret=7504d7908ec6550d969fbbbbddf5e674&txTime=66569888&token=h5-douyu-0-252802-563c3fb61dc5a7582993c2a968be190b&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391991178
-凌儿影院,http://openhls-tct.douyucdn2.cn/dyliveflv3/1377142rOGuS1z5s_2000.flv?txSecret=404b3817699d8217e80a6c377d84abab&txTime=6659fc6e&token=h5-douyu-0-1377142-ea5853da1421dfcc5871a3f71759a0f4&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=392157258
 冰冰小剧场,http://open-tct.douyucdn2.cn/dyliveflv3a/74374r5iKYmf5fFJ_2000.flv?wsAuth=edcc801a85afa979a4be94f2138cad41&token=cpn-androidmpro-0-74374-dcc4b172cfca13cb02a463ee186929c417852fcc23de4075&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=387572440
 贝爷MAX厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rtpL2KHfuhzE_2000.flv?txSecret=fd34ef7918fe57fa6e4ef20eb817d8f6&txTime=6659fbfe&token=h5-douyu-0-4332-3a3901db6436df52b36a46bf57429448&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391532022
 萌小鬼影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?txSecret=fb227ea218b9e6258d7f22de778e4128&txTime=664d70a2&token=h5-douyu-0-3928-036d1cd67ad820987cc0123840b75656&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391260500
