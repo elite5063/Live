@@ -237,6 +237,11 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 游戏风云,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
+北京淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
+北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
+北京淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
+北京淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
+北京淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
