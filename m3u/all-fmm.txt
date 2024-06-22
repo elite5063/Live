@@ -237,14 +237,6 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 游戏风云,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-生活时尚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -346,15 +338,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
 鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
 战争电影✔原,https://live.metshop.top/yy/1382736865
-邵氏影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/4246519rRruKzQ7n_2000.flv?txSecret=b5d7fa4ed81cb7de60fec5bf7ff4c59c&txTime=66535c13&token=h5-douyu-0-4246519-12f80726342f570660da5a1be8c26fd5&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=390665373
-贝爷影厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/252802rOvuKcTnR7_2000.flv?txSecret=7504d7908ec6550d969fbbbbddf5e674&txTime=66569888&token=h5-douyu-0-252802-563c3fb61dc5a7582993c2a968be190b&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391991178
-冰冰小剧场,http://open-tct.douyucdn2.cn/dyliveflv3a/74374r5iKYmf5fFJ_2000.flv?wsAuth=edcc801a85afa979a4be94f2138cad41&token=cpn-androidmpro-0-74374-dcc4b172cfca13cb02a463ee186929c417852fcc23de4075&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4&sid=387572440
-贝爷MAX厅,http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rtpL2KHfuhzE_2000.flv?txSecret=fd34ef7918fe57fa6e4ef20eb817d8f6&txTime=6659fbfe&token=h5-douyu-0-4332-3a3901db6436df52b36a46bf57429448&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=391532022
-萌小鬼影院,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?txSecret=fb227ea218b9e6258d7f22de778e4128&txTime=664d70a2&token=h5-douyu-0-3928-036d1cd67ad820987cc0123840b75656&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391260500
-怡寶影院,http://openhls-tct.douyucdn2.cn/dyliveflv3a/434971rX9sIJcCsI_2000.flv?txSecret=ddb68628db2b7c9682daa0e6b5180377&txTime=66587b61&token=h5-douyu-0-434971-1054fb3a9a0adc5a945661e7cf5d73e8&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=392112074
-星爷电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?txSecret=812585041cbe7859174b4bdec3fe83e3&txTime=66503bbb&token=h5-douyu-0-122402-aef5063c503d8ac6cc332bea12872269&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=391477013#http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=1a71960b284f1c1016b431f1fca096b5&token=cpn-androidmpro-0-122402-0fcea45d2300cfa06c6366de4f35dcb2db411a1a2bfa9930&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2&sid=391477013
-欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rZPOM8VHn_2000.flv?txSecret=a97ba77e0aebb9d5c232db65422248ab&txTime=66555955&token=h5-douyu-0-2793084-75f380ae27c15e9f1b880a6bfcec36fc&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=391921008
-小U电影,http://openhls-tct.douyucdn2.cn/dyliveflv1/96577rwlgNSrSuGb_2000.flv?txSecret=9dec9c0424641170987e6529164a321e&txTime=665b008d&token=h5-douyu-0-96577-fe5ee10238678bccd5aaf65d8b5b39d5&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392240769
 小鬼头,http://124.248.69.76:35455/huya/11352963
 刘德华,http://124.248.69.76:35455/huya/11342424
 许冠英,http://124.248.69.76:35455/huya/11601972
@@ -490,12 +473,8 @@ YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 通辽城市服务,https://live.tongliaowang.com/video/4313e1e3d9db.m3u8
 
 黑龙江频道,#genre#
-黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江农业科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
-黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 哈尔滨新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 齐齐哈尔新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
@@ -681,15 +660,6 @@ YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 山东频道,#genre#
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
@@ -704,13 +674,11 @@ YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 长清新闻,https://tv.cry33.com/qilu.php?id=jncqxw
-长清生活,https://tv.cry33.com/qilu.php?id=jncqsh
 济铁电视台,https://tv.cry33.com/qilu.php?id=jnjrtv
 济阳综合,https://tv.cry33.com/qilu.php?id=jnjyzh
 济阳影视,https://tv.cry33.com/qilu.php?id=jnjyys
 历城新闻综合,https://tv.cry33.com/qilu.php?id=jnlcxw
 平阴综合,https://tv.cry33.com/qilu.php?id=jnpyzh
-平阴乡村振兴,https://tv.cry33.com/qilu.php?id=jnpyxc
 商河综合,https://tv.cry33.com/qilu.php?id=jnshzh
 商河影视,https://tv.cry33.com/qilu.php?id=jnshys
 章丘综合,https://tv.cry33.com/qilu.php?id=jnzqzh
@@ -985,10 +953,7 @@ YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 成都影视文艺,https://tv.cry33.com/cdtvflv.php?id=cdyswy
 成都公共,https://tv.cry33.com/cdtvflv.php?id=cdgg
 成都少儿,https://tv.cry33.com/cdtvflv.php?id=cdse
-峨眉电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh4cC9QcGxoNzJwUG1WeE1sV1l4cVUwQnhFM2ZhdTZSZ3JOZVcvc3lQc3k4Ti80TkY3SENBN2loR0d3b1VkMnB5dEdzUndjY2lTZTd6QlN4MXpEbTdi/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
-渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
-江油,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
 自贡文化生活,http://110.189.153.160:1002/ggpd.flv
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
