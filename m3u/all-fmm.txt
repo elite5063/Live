@@ -383,25 +383,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
-经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-YY电影台01,https://live.metshop.top/yy/1382749892?quality=4
-YY电影台02,https://live.metshop.top/yy/1382735573?quality=4
-YY电影台03,https://live.metshop.top/yy/24921161?quality=4
-YY电影台04,https://live.metshop.top/yy/1382736803?quality=4
-YY电影台05,https://live.metshop.top/yy/1354930924?quality=4
-YY电影台06,https://live.metshop.top/yy/1382745095?quality=4
-YY电影台07,https://live.metshop.top/yy/1355171357?quality=4
-YY电影台08,https://live.metshop.top/yy/24066336?quality=4
-YY港片电影,https://live.metshop.top/yy/1455225203?quality=4
-YY刘德华,https://live.metshop.top/yy/74613175?quality=4
-YY发哥电影,https://live.metshop.top/yy/1354888733?quality=4
-YY周润发,https://live.metshop.top/yy/1354889044?quality=4
-YY喜剧电影,https://live.metshop.top/yy/1355480591?quality=4
-YY電影輪播,https://live.metshop.top/yy/1353059120?quality=4
-YY复仇者联盟,https://live.metshop.top/yy/1354936167?quality=4
-YY歐美電影,https://live.metshop.top/yy/24923327?quality=4
-YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 重温经典,#genre#
