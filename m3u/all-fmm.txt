@@ -244,9 +244,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-松視1,http://z02.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
-松視2,http://z02.ubtvfans.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
-松視3,http://z02.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
