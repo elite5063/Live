@@ -265,6 +265,18 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807
 浙江卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?m3u8_level=2
 重庆卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?m3u8_level=2
 重庆卫视,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?m3u8_level=2
+CCTV世界地理,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$陕西IPV6线路
+CCTV风云剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8?$陕西IPV6线路
+CCTV风云音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8?$陕西IPV6线路
+CCTV兵器科技,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?$陕西IPV6线路
+CCTV央视台球,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?$陕西IPV6线路
+CCTV第一剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?$陕西IPV6线路
+CCTV女性时尚,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?$陕西IPV6线路
+CCTV怀旧剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?$陕西IPV6线路
+CCTV高尔夫网球,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?$陕西IPV6线路
+CCTV风云足球,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?$陕西IPV6线路
+CCTV电视指南,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?$陕西IPV6线路
+CCTV央视文化精品,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?$陕西IPV6线路
 
 数字频道,#genre#
 CETV-1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
