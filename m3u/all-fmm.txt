@@ -296,7 +296,7 @@ CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=te
 YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 晴彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 晴彩篮球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+体育解说,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8#https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
