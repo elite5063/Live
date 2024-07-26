@@ -987,7 +987,7 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
 裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
 
-DJ音乐,#genre#
+🎵DJ音乐,#genre#
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 怒击摇,https://vd2.bdstatic.com/mda-mkibx9zvknj8d2fu/sc/cae_h264_nowatermark/1637355659217322910/mda-mkibx9zvknj8d2fu.mp4
 新送情郎,https://vd4.bdstatic.com/mda-meq936zru7niwvd2/sc/cae_h264/1621924823247730000/mda-meq936zru7niwvd2.mp4
