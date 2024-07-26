@@ -444,6 +444,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 北京频道,#genre#
+北京卫视,http://tvbox6.icu/tv/zb/bjcucc.php?id=60
 北京文艺,http://218.241.192.50:8808/udp/239.3.1.253:8001
 北京纪实科教,http://tvbox6.icu/tv/zb/bjcucc.php?id=55
 北京财经,http://tvbox6.icu/tv/zb/bjcucc.php?id=56
