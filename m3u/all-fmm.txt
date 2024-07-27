@@ -299,7 +299,6 @@ YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
-Toonth电影,http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 星光好剧,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
