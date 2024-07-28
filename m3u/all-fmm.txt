@@ -1,12 +1,3 @@
-奥运频道,#genre#
-ELTA奥运1台,https://api.btbt.im/live?id=elta-oly1
-ELTA奥运2台,https://api.btbt.im/live?id=elta-oly2
-ELTA奥运3台,https://api.btbt.im/live?id=elta-oly3
-ELTA奥运4台,https://api.btbt.im/live?id=elta-oly4
-ELTA奥运5台,https://api.btbt.im/live?id=elta-oly5
-ELTA奥运6台,https://api.btbt.im/live?id=elta-oly6
-ELTA奥运7台,https://api.btbt.im/live?id=elta-oly7
-
 央视卫视V6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
