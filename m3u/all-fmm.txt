@@ -821,6 +821,14 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+璧山综合频道,http://222.179.42.129:8181/hls1.m3u8
+潼南综合频道,http://183.230.184.51:65500/tntv1.m3u8
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
+江津经济生活,http://222.179.155.21:1935/ch0.m3u8
+江津文化旅游,http://222.179.155.21:1935/ch2.m3u8
+垫江综合频道,http://125.62.24.185:80/1.m3u8
+武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
 
 安徽频道,#genre#
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
@@ -837,6 +845,35 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+
+河北频道,#genre#
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+涉县新闻综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+迁安新闻综合,https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+迁西综合频道,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+迁西综合频道,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+迁西农业频道,https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
+迁西农业频道,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
+青县新闻,https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
+青县新闻,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+定州新闻综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
+定州生活频道,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
+涞水新闻频道,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+清苑新闻频道,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
+清苑生活频道,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+望都综合频道,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+平泉综合频道,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+双滦新闻频道,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+双滦影视频道,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+
 
 河南频道,#genre#
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
@@ -962,6 +999,9 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
 
 海南频道,#genre#
 海南卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?
