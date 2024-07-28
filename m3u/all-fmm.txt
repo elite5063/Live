@@ -1037,7 +1037,6 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
-青铜峡公共,http://pili-live-hdl.nxdzsh.com/qtxdst/qtx.m3u8
 
 青海频道,#genre#
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
