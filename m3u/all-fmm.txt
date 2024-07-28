@@ -964,6 +964,13 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
+三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 
 广西频道,#genre#
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
@@ -1036,6 +1043,10 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
+门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
+民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 
 新疆频道,#genre#
 十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
