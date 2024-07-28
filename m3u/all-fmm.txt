@@ -825,14 +825,6 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 青县新闻,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 定州新闻综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
 定州生活频道,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
-涞水新闻频道,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-清苑新闻频道,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
-清苑生活频道,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-望都综合频道,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-平泉综合频道,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-双滦新闻频道,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-双滦影视频道,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
 
 
 河南频道,#genre#
