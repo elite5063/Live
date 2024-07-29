@@ -179,6 +179,21 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 数字频道,#genre#
 CCTV4K,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+电视指南,http://60.10.225.157:555/udp/239.253.93.249:6427
+第一剧场,http://60.10.225.157:555/udp/239.253.93.138:6428
+风云剧场,http://60.10.225.157:555/udp/239.253.93.251:6429
+怀旧剧场,http://60.10.225.157:555/udp/239.253.93.252:6430
+风云音乐,http://60.10.225.157:555/udp/239.253.93.253:6431
+风云足球,http://60.10.225.157:555/udp/239.253.93.254:6432
+高尔夫网球,http://60.10.225.157:555/udp/239.253.93.122:6465
+兵器科技,http://60.10.225.157:555/udp/239.253.93.47:6435
+世界地理,http://60.10.225.157:555/udp/239.253.92.131:6113
+女生时尚,http://60.10.225.157:555/udp/239.253.92.144:6114
+文化精品,http://60.10.225.157:555/udp/239.253.93.175:6439
+早期教育,http://60.10.225.157:555/udp/239.253.93.164:6440
+武术世界,http://60.10.225.157:555/udp/239.253.93.46:6434
+文物宝库,http://60.10.225.157:555/udp/239.253.93.180:6437
+梨园,http://60.10.225.157:555/udp/239.253.93.133:6441
 CHC影迷电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
 CHC家庭影院,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
 CHC动作电影,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
@@ -241,7 +256,7 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 咪咕视频5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕视频5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-咪咕体育『奥运•限时』,#genre#
+咪咕体育,#genre#
 咪咕直播4K-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$LR•IPV4
 咪咕直播4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$LR•IPV4
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$LR•IPV6『线路1』
@@ -876,14 +891,11 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 
 广东频道,#genre#
 广东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUW%2B%2FF4NzOzOt3cAWjhMHEuMwoDIwMxbrlyyVy9x6ZDKn1U8f2vJUVL98LlyeZUOMSmC30dkrUFt%2FE8JGKMphXYE
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州综合,http://113.65.9.60:4014/udp/239.253.43.71:5146
+广州新闻,http://113.65.9.60:4014/udp/239.253.43.72:5146
+广州影视,http://113.65.9.60:4014/udp/239.253.43.73:5146
+广州法治,http://113.65.9.60:4014/udp/239.253.43.74:5146
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
