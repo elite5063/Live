@@ -510,14 +510,6 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
-辽宁频道,#genre#
-辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8
-辽宁影视,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
-辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8
-沈阳新闻综合,https://epg.pw/stream/184765df59a5f2ec47a324d683f98b89feb48a64bfeafeef5702b2aa982c051f.m3u8
-
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -874,17 +866,12 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 
 广东频道,#genre#
 广东科教,http://120.237.51.220:8602/udp/239.10.0.112:1025
-广东珠江,http://120.237.51.220:8602/udp/239.10.0.62:1025
 广东新闻,http://120.237.51.220:8602/udp/239.10.0.199:1025
 广东影视,http://120.237.51.220:8602/udp/239.11.0.79:1025
 广东少儿,http://120.237.51.220:8602/udp/239.11.0.81:1025
 广东公共,http://120.237.51.220:8602/udp/239.11.0.80:1025
 广东体育,http://120.237.51.220:8602/udp/239.10.0.113:1025
 广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
-广州综合,http://113.65.9.60:4014/udp/239.253.43.71:5146
-广州新闻,http://113.65.9.60:4014/udp/239.253.43.72:5146
-广州影视,http://113.65.9.60:4014/udp/239.253.43.73:5146
-广州法治,http://113.65.9.60:4014/udp/239.253.43.74:5146
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞新闻综合,http://113.65.9.60:4014/udp/239.253.43.104:5146
 东莞生活资讯,http://113.65.9.60:4014/udp/239.253.43.105:5146
@@ -914,7 +901,6 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 云南频道,#genre#
-福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
 麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 麻栗坡台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 丘北新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
