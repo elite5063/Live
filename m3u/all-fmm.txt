@@ -790,7 +790,6 @@ BRTV国际频道,http://114.246.183.121:4022/rtp/239.3.1.235:8000
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
-麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
@@ -808,7 +807,6 @@ BRTV国际频道,http://114.246.183.121:4022/rtp/239.3.1.235:8000
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
 松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1735660799-0-0-a380e59865129a39561528ada31d0e63
-洪湖综合,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1735660799-0-0-54db49cb2f7940e29d9dfceb9747b0af
 宜昌综合,http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
 宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
@@ -819,7 +817,6 @@ BRTV国际频道,http://114.246.183.121:4022/rtp/239.3.1.235:8000
 秭归综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1735660799-0-0-e80e38a154f9ea053e26d2ff5038530a
 五峰电视台,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
-来凤综合,http://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
 鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1735660799-0-0-d737b8c7fad391cc6187d35123baff28
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1735660799-0-0-6deee5ef6d55cce1a924b7c14a999a69
 广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1735660799-0-0-c7c7082aa48ecb78ed13d8a4a9b45acc
