@@ -182,18 +182,7 @@ CCTV4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive
 Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540 $吉林电信tuyuannet 
-CCTV第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540 $吉林电信tuyuannet 
-CCTV电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540 $吉林电信tuyuannet 
-CCTV风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540 $吉林电信tuyuannet 
-CCTV风云音乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540 $吉林电信tuyuannet 
-CCTV风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540 $吉林电信tuyuannet 
-CCTV高尔夫网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540 $吉林电信tuyuannet 
-CCTV怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540 $吉林电信tuyuannet 
-CCTV女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.069:5540 $吉林电信tuyuannet 
-CCTV世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540 $吉林电信tuyuannet 
-CCTV央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540 $吉林电信tuyuannet 
-CCTV文化精品,http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540 $吉林电信tuyuannet 
+早期教育,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD 
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002 $天津联通hssvm
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002 $天津联通hssvm
 CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002 $天津联通hssvm
