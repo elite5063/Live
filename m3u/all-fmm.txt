@@ -816,15 +816,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 恩施新闻综合.http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
 
-湖南频道,#genre#
-湖南电视剧,http://10086.wuzhij.top/mg.php?id=hndsj
-湖南国际,http://10086.wuzhij.top/mg.php?id=hngj
-湖南娱乐,http://10086.wuzhij.top/mg.php?id=hnyl
-湖南都市,http://10086.wuzhij.top/mg.php?id=hnds
-金鹰纪实,http://10086.wuzhij.top/mg.php?id=jyjs
-湖南公共,http://10086.wuzhij.top/mg.php?id=hngg
-金鹰卡通,http://10086.wuzhij.top/mg.php?id=jykt
-
 福建频道,#genre#
 建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
@@ -888,24 +879,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 西双版纳2,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 砚山频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
-
-陕西频道,#genre#
-陕西卫视,http://10086.wuzhij.top/sxxa.php?id=sxws
-农林卫视,http://10086.wuzhij.top/sxxa.php?id=nlws
-陕西新闻,http://10086.wuzhij.top/sxxa.php?id=sxxwzx
-陕西都市,http://10086.wuzhij.top/sxxa.php?id=sxdsqc
-陕西生活,http://10086.wuzhij.top/sxxa.php?id=sxsh
-陕西公共,http://10086.wuzhij.top/sxxa.php?id=sxgg
-陕西体育,http://10086.wuzhij.top/sxxa.php?id=sxtyxx
-
-宁夏频道,#genre#
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 
 青海频道,#genre#
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
