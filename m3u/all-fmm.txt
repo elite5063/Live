@@ -180,6 +180,9 @@ Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 早期教育,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD 
+CHC动作电影,http://183.189.213.105:8000/rtp/226.0.2.94:8012
+CHC影迷电影,http://183.189.213.105:8000/rtp/226.0.2.93:8004
+CHC家庭影院,http://183.189.213.105:8000/rtp/226.0.2.240:9820
 1905国内电影,http://xxw.me0.cn/1905dy.php?id=1905a
 1905国内电影,http://live.dxms.top:80/dwy/hyyy.php
 1905环球经典,http://xxw.me0.cn/1905dy.php?id=1905b
