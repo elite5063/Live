@@ -263,7 +263,7 @@ IHOT爱历史,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 IHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
-HKDVD[P],#genre#
+HKDVD,#genre#
 Jade 翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
 TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
 News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
