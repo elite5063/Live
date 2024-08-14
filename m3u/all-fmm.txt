@@ -295,7 +295,6 @@ CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=2758392529689
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,http://cdn.1678520.xyz/tvb/?id=fct
 翡翠台,http://cdn3.1678520.xyz/live/?id=fct2
-TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华卡通,http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
