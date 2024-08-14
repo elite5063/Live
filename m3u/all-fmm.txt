@@ -585,7 +585,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of
 移动电视,rtmp://livein.gstv.com.cn/49048r/y72q36
 崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
-临夏电视台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 
 四川频道,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
@@ -660,8 +659,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
-合肥新闻,http://api2.52tb.xyz/info?id=587&token=20230405tndmhg
-合肥公共,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
 肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
 歙县综合频道,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
