@@ -125,6 +125,9 @@ CCTV-17农村农业,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv1
 CHC动作电影,http://183.189.213.105:8000/rtp/226.0.2.94:8012
 CHC影迷电影,http://183.189.213.105:8000/rtp/226.0.2.93:8004
 CHC家庭影院,http://183.189.213.105:8000/rtp/226.0.2.240:9820
+CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 1905国内电影,http://xxw.me0.cn/1905dy.php?id=1905a
 1905国内电影,http://live.dxms.top:80/dwy/hyyy.php
 1905环球经典,http://xxw.me0.cn/1905dy.php?id=1905b
