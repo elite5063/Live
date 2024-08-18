@@ -299,6 +299,7 @@ CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=2758392529689
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,http://cdn.1678520.xyz/tvb/?id=fct
 翡翠台,http://cdn3.1678520.xyz/live/?id=fct2
+HOY TV,http://cdn3.1678520.xyz/live/?id=hoy
 龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华卡通,http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
