@@ -297,6 +297,8 @@ CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=2758392529689
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+翡翠台高清,http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass
+明珠台高清,http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
 翡翠台,http://cdn.1678520.xyz/tvb/?id=fct
 翡翠台,http://cdn3.1678520.xyz/live/?id=fct2
 HOY TV,http://cdn3.1678520.xyz/live/?id=hoy
@@ -310,6 +312,14 @@ HOY TV,http://cdn3.1678520.xyz/live/?id=hoy
 娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
