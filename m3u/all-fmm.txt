@@ -64,6 +64,35 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
+音乐解说,#genre#
+音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
+音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
+治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
+阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
+电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
+电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
+电影•1「解说」,http://live.iill.top/huya.php?id=20289754
+电影•2「解说」,http://live.iill.top/huya.php?id=24983280
+电影•3「解说」,http://live.iill.top/huya.php?id=24396428
+动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
+恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
+漫威「解说」,http://live.iill.top/huya.php?id=17089779
+美剧「解说」,http://live.iill.top/huya.php?id=20488841
+七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
+止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
+挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
+挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
+互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
+荒野求生「其他」,http://live.iill.top/huya.php?id=593667
+野行者「其他」,http://live.iill.top/huya.php?id=20072663
+跳舞「其他」,http://live.iill.top/huya.php?id=24634408
+茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
+哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
+航海王「动漫」,http://live.iill.top/huya.php?id=16913382
+七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
+猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
+中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
+
 数字频道,#genre#
 早期教育,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD 
 1905国内电影,http://live.dxms.top:80/dwy/hyyy.php
@@ -113,59 +142,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 咪咕视频4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕视频5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-咪咕体育,#genre#
-咪咕直播4K-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$LR•IPV4
-咪咕直播4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$LR•IPV4
-咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$LR•IPV6『线路1』
-咪咕直播1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3$LR•IPV4『线路2』
-咪咕直播2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$LR•IPV6『线路1』
-咪咕直播2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3$LR•IPV4『线路2』
-咪咕直播3,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$LR•IPV6『线路1』
-咪咕直播3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3$LR•IPV4『线路2』
-咪咕直播4,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$LR•IPV6『线路1』
-咪咕直播4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3$LR•IPV4『线路2』
-咪咕直播5,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3$LR•IPV4
-咪咕直播6,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3$LR•IPV4
-咪咕直播7,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3$LR•IPV4
-咪咕直播8,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3$LR•IPV4
-咪咕直播9,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3$LR•IPV4
-咪咕直播10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3$LR•IPV4
-咪咕直播11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3$LR•IPV4
-咪咕直播12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3$LR•IPV4
-咪咕直播13,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3$LR•IPV4
-咪咕直播14,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3$LR•IPV4
-咪咕直播15,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3$LR•IPV4
-咪咕直播16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3$LR•IPV4
-咪咕直播17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3$LR•IPV4
-咪咕直播18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3$LR•IPV4
-咪咕直播19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3$LR•IPV4
-咪咕直播20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3$LR•IPV4
-咪咕直播21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3$LR•IPV4
-咪咕直播22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3$LR•IPV4
-咪咕直播23,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3$LR•IPV4
-咪咕直播24,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3$LR•IPV4
-咪咕直播25,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3$LR•IPV4
-咪咕直播26,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3$LR•IPV4
-咪咕直播27,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3$LR•IPV4
-咪咕直播28,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3$LR•IPV4
-咪咕直播29,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3$LR•IPV4
-咪咕直播30,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3$LR•IPV4
-咪咕直播31,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3$LR•IPV4
-咪咕直播32,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3$LR•IPV4
-咪咕直播33,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3$LR•IPV4
-咪咕直播34,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3$LR•IPV4
-咪咕直播35,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3$LR•IPV4
-咪咕直播36,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3$LR•IPV4
-咪咕直播37,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3$LR•IPV4
-咪咕直播38,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3$LR•IPV4
-咪咕直播39,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3$LR•IPV4
-咪咕直播40,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3$LR•IPV4
-咪咕直播41,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3$LR•IPV4
-咪咕直播42,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$LR•IPV4
-咪咕直播43,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$LR•IPV4
-咪咕直播44,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3$LR•IPV4
-咪咕直播45,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3$LR
 
 NewTV频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -232,35 +208,6 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟜,http://live.iill.top/huya.php?id=23865171
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
-
-音乐解说,#genre#
-音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
-音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
-治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
-阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
-电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
-电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
-电影•1「解说」,http://live.iill.top/huya.php?id=20289754
-电影•2「解说」,http://live.iill.top/huya.php?id=24983280
-电影•3「解说」,http://live.iill.top/huya.php?id=24396428
-动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
-恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
-漫威「解说」,http://live.iill.top/huya.php?id=17089779
-美剧「解说」,http://live.iill.top/huya.php?id=20488841
-七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
-止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
-挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
-挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
-互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
-荒野求生「其他」,http://live.iill.top/huya.php?id=593667
-野行者「其他」,http://live.iill.top/huya.php?id=20072663
-跳舞「其他」,http://live.iill.top/huya.php?id=24634408
-茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
-哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
-航海王「动漫」,http://live.iill.top/huya.php?id=16913382
-七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
-猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
-中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
 
 HKDVD,#genre#
 Jade 翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
