@@ -235,6 +235,36 @@ CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=275839252
 CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940
 
 港澳国际,#genre#
+非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
+年代新闻,https://test.zapi.us.kg/?id=era-news
+中视新闻,https://test.zapi.us.kg/?id=ctv-news
+台视新闻,https://test.zapi.us.kg/?id=ttv-news
+寰宇新闻,https://test.zapi.us.kg/?id=global-news
+TVBS新闻,https://test.zapi.us.kg/?id=tvbs-news
+三立i新闻,https://test.zapi.us.kg/?id=settv-inews
+八度空间,https://test.zapi.us.kg/?id=8tv
+Astro AEC,https://test.zapi.us.kg/?id=astro-aec
+Astro AOD ,https://test.zapi.us.kg/?id=astro-aod
+Astro 全佳,https://test.zapi.us.kg/?id=astro-quanjia
+Channel 8,https://test.zapi.us.kg/?id=channel8
+Channel U,https://test.zapi.us.kg/?id=channel-u
+城市电视,https://test.zapi.us.kg/?id=talentvisiontv
+新时代1,https://test.zapi.us.kg/?id=fairchildtv
+新时代2,https://test.zapi.us.kg/?id=fairchildtv2
+BBC Earth,https://test.zapi.us.kg/?id=bbcearth
+探索亚洲,https://test.zapi.us.kg/?id=discovery-asia
+Love Nature,https://test.zapi.us.kg/?id=love-nature
+历史频道,https://test.zapi.us.kg/?id=history
+环球旅行,https://test.zapi.us.kg/?id=globaltrekker
+华仁纪实,https://test.zapi.us.kg/?id=cnex
+凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
+凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
+翡翠台,https://test.zapi.us.kg/?id=feicui
+TVB星河,https://test.zapi.us.kg/?id=tvb-xinghe
+Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
+Now 星影台,https://test.zapi.us.kg/?id=now-baogu-superstars
+Now 新闻台,https://test.zapi.us.kg/?id=now-news
+HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 明珠台,http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
 翡翠台,http://cdn.1678520.xyz/tvb/?id=fct
