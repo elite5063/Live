@@ -234,67 +234,112 @@ CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=27583925
 CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=275839252968940
 CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940
 
-港澳国际,#genre#
+港台频道,#genre#
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰香港,https://test.zapi.us.kg/?id=phtv-hk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,https://test.zapi.us.kg/?id=feicui#http://cdn.1678520.xyz/tvb/?id=fct
 明珠台,http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
+ViuTV,https://test.zapi.us.kg/?id=viutv
+ViuTV6,https://test.zapi.us.kg/?id=viutv6
 Viu剧集台,https://test.zapi.us.kg/?id=now-viu-drama#http://cdn12.1678520.xyz/live/?id=viu2
-TVB星河,https://test.zapi.us.kg/?id=tvb-xinghe
+天映经典,https://test.zapi.us.kg/?id=cccm
+天映频道,https://test.zapi.us.kg/?id=celestial
+TVB娱乐新闻台,https://test.zapi.us.kg/?id=TVB ylxw
+TVB无线新闻台,https://test.zapi.us.kg/?id=tvb-news
+TVB千禧经典台,https://test.zapi.us.kg/?id=tvb-classic
+TVB星河台,https://test.zapi.us.kg/?id=tvb-xinghe
+TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
+TVB亚洲剧台,https://test.zapi.us.kg/?id=tvb-asia-drama
+TVB华剧台,https://test.zapi.us.kg/?id=golden-chinese-drama
+TVB粤语片台,https://test.zapi.us.kg/?id=tvb-yueyu
+TVB PLUS,https://test.zapi.us.kg/?id=tvb-plus
+TVB 明珠台,https://test.zapi.us.kg/?id=pearl
+TVB 华语剧台,https://test.zapi.us.kg/?id=tvb-drama
 Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
 Now 星影台,https://test.zapi.us.kg/?id=now-baogu-superstars
 Now 新闻台,https://test.zapi.us.kg/?id=now-news
+Now 直播台,https://test.zapi.us.kg/?id=now-direct
+Now 财经台,https://test.zapi.us.kg/?id=now-finance
+Now华剧台,https://test.zapi.us.kg/?id=now-chinese-drama
 HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
+HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
+HOY TV,https://test.zapi.us.kg/?id=hoytv
 RTHK31,https://test.zapi.us.kg/?id=rthk31
 RTHK32,https://test.zapi.us.kg/?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
-HBO Signature,https://test.zapi.us.kg/?id=now-hbo-signature
+HKC 18台,https://test.zapi.us.kg/?id=hkc18
+AOD 311 国语,https://test.zapi.us.kg/?id=astro-aod
+精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+澳门资讯,https://test.zapi.us.kg/?id=tdm-information
+澳视澳门,https://test.zapi.us.kg/?id=tdm
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+AMC电影,https://test.zapi.us.kg/?id=amc-movie
+龙祥电影台,https://test.zapi.us.kg/?id=lstime
+纬来综合,https://test.zapi.us.kg/?id=videoland
+纬来戏剧,https://test.zapi.us.kg/?id=videoland-drama
+纬来日本,https://test.zapi.us.kg/?id=videoland-japan
+纬来体育,https://test.zapi.us.kg/?id=videoland-sport
+东森幼幼台,https://test.zapi.us.kg/?id=ebc-yoyo
+东森洋片,https://test.zapi.us.kg/?id=ebc-emovie
+东森电影,https://test.zapi.us.kg/?id=ebc-movie
+东森超视,https://test.zapi.us.kg/?id=ebc-super
+八大综合,https://test.zapi.us.kg/?id=gtv28
+八大戏剧,https://test.zapi.us.kg/?id=gtv-41
+八大娱乐,https://test.zapi.us.kg/?id=gtv-86
+八大综艺,https://test.zapi.us.kg/?id=grt
+八大精彩台,https://test.zapi.us.kg/?id=gtv-jct
+八大第一,https://test.zapi.us.kg/?id=gtv27
+TVBS 精采台,https://test.zapi.us.kg/?id=tvbs-jc
+TVBS台剧台,https://test.zapi.us.kg/?id=tvbs-taiju
+TVBS综艺台,https://test.zapi.us.kg/?id=tvbs-zongyi
+TVBS Asia,https://test.zapi.us.kg/?id=tvbs-asia
+影迷数位纪实台,https://test.zapi.us.kg/?id=ymswjst
+影迷数字电影台,https://test.zapi.us.kg/?id=fans-cinema
+好莱坞电影,https://test.zapi.us.kg/?id=hollywood-movie
 非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
-年代新闻,https://test.zapi.us.kg/?id=era-news
-中视新闻,https://test.zapi.us.kg/?id=ctv-news
-台视新闻,https://test.zapi.us.kg/?id=ttv-news
-寰宇新闻,https://test.zapi.us.kg/?id=global-news
-TVBS新闻,https://test.zapi.us.kg/?id=tvbs-news
-三立i新闻,https://test.zapi.us.kg/?id=settv-inews
-八度空间,https://test.zapi.us.kg/?id=8tv
+民视影剧,https://test.zapi.us.kg/?id=ftv-drama
+民视综艺,https://test.zapi.us.kg/?id=ftv-reality
+三立台湾台,https://test.zapi.us.kg/?id=settv-taiwan
+三立都会台,https://test.zapi.us.kg/?id=settv-city
+三立综合台,https://test.zapi.us.kg/?id=settv-zonghe
+靖天日本台,https://test.zapi.us.kg/?id=jtrb
+靖天资讯台,https://test.zapi.us.kg/?id=jtzx
+靖天国际台,https://test.zapi.us.kg/?id=jtgj
+靖天戏剧台,https://test.zapi.us.kg/?id=jtxjt
+Astro 欢喜台,https://test.zapi.us.kg/?id=astro-huaheedai
+Astro 爱奇艺,https://test.zapi.us.kg/?id=astro-iqiyi
+HBO Family HD,https://test.zapi.us.kg/?id=hbo-family
+HBO Signature,https://test.zapi.us.kg/?id=now-hbo-signature
+HBO HD,https://test.zapi.us.kg/?id=hbo-hd
+HBO Hits HD,https://test.zapi.us.kg/?id=hbo-hits-hd
+Channel 5,https://test.zapi.us.kg/?id=channel-5
+Channel 8,https://test.zapi.us.kg/?id=channel8
+Channel U,https://test.zapi.us.kg/?id=channel-u
+CN卡通,https://test.zapi.us.kg/?id=cn-cartoon
+迪士尼频道,https://test.zapi.us.kg/?id=disney
+达文西频道,https://test.zapi.us.kg/?id=da-vinci
 Astro AEC,https://test.zapi.us.kg/?id=astro-aec
 Astro AOD ,https://test.zapi.us.kg/?id=astro-aod
 Astro 全佳,https://test.zapi.us.kg/?id=astro-quanjia
-Channel 8,https://test.zapi.us.kg/?id=channel8
-Channel U,https://test.zapi.us.kg/?id=channel-u
-城市电视,https://test.zapi.us.kg/?id=talentvisiontv
 新时代1,https://test.zapi.us.kg/?id=fairchildtv
 新时代2,https://test.zapi.us.kg/?id=fairchildtv2
 BBC Earth,https://test.zapi.us.kg/?id=bbcearth
+探索频道,https://test.zapi.us.kg/?id=discovery
 探索亚洲,https://test.zapi.us.kg/?id=discovery-asia
+动物星球频道,https://test.zapi.us.kg/?id=animal-planet
 Love Nature,https://test.zapi.us.kg/?id=love-nature
-历史频道,https://test.zapi.us.kg/?id=history
-环球旅行,https://test.zapi.us.kg/?id=globaltrekker
-华仁纪实,https://test.zapi.us.kg/?id=cnex
-精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+
 ​FASHION TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-SBS,http://1.245.74.5:1935/live/tv/.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 电影轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
