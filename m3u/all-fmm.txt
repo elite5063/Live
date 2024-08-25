@@ -241,7 +241,7 @@ CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=2758392529689
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,https://test.zapi.us.kg/?id=feicui#http://cdn.1678520.xyz/tvb/?id=fct
 明珠台,http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
-Viu剧集台,http://cdn12.1678520.xyz/live/?id=viu2
+Viu剧集台,https://test.zapi.us.kg/?id=now-viu-drama#http://cdn12.1678520.xyz/live/?id=viu2
 TVB星河,https://test.zapi.us.kg/?id=tvb-xinghe
 Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
 Now 星影台,https://test.zapi.us.kg/?id=now-baogu-superstars
@@ -252,6 +252,7 @@ RTHK32,https://test.zapi.us.kg/?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+HBO Signature,https://test.zapi.us.kg/?id=now-hbo-signature
 非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
 年代新闻,https://test.zapi.us.kg/?id=era-news
 中视新闻,https://test.zapi.us.kg/?id=ctv-news
