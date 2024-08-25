@@ -249,9 +249,9 @@ Now 新闻台,https://test.zapi.us.kg/?id=now-news
 HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
 RTHK31,https://test.zapi.us.kg/?id=rthk31
 RTHK32,https://test.zapi.us.kg/?id=rthk32
-RTHK33,https://test.zapi.us.kg/?id=rthk33#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
-RTHK34,https://test.zapi.us.kg/?id=rthk34#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
-RTHK35,https://test.zapi.us.kg/?id=rthk35#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
 非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
 年代新闻,https://test.zapi.us.kg/?id=era-news
 中视新闻,https://test.zapi.us.kg/?id=ctv-news
