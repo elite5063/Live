@@ -237,6 +237,7 @@ CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=2758392529689
 港澳国际,#genre#
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
+凤凰香港,https://test.zapi.us.kg/?id=phtv-hk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,https://test.zapi.us.kg/?id=feicui#http://cdn.1678520.xyz/tvb/?id=fct
 明珠台,http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
