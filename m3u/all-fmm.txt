@@ -211,7 +211,7 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-HKDVD,#genre#
+HKDVB,#genre#
 Jade 翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
 TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
 News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
