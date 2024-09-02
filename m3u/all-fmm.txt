@@ -207,31 +207,34 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-HKDVB,#genre#
-鳳凰香港台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=275839252968940
+港澳国际,#genre#
+凤凰中文台,http://8.137.59.151:99/tui/haiou.php?id=121
+凤凰资讯台,http://8.137.59.151:99/tui/haiou.php?id=122
+凤凰香港台,http://8.137.59.151:99/tui/haiou.php?id=123
+鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=275839252968940
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Jade 翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
-TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
-News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
-Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=275839252968940
-翡翠4K[直播],https://live.hkdvb.com/hls/live/800.m3u8?token=275839252968940
-Popc[直播],https://live.hkdvb.com/hls/live/801.m3u8?token=275839252968940
-美亞[直播],https://live.hkdvb.com/hls/live/802.m3u8?token=275839252968940
-HOY TV[直播],https://live.hkdvb.com/hls/live/77.m3u8?token=275839252968940
-HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=275839252968940
-HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=275839252968940
-ViuTV[直播],https://live.hkdvb.com/hls/live/99.m3u8?token=275839252968940
-ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=275839252968940
-Now NEWS 新聞台[直播],https://live.hkdvb.com/hls/live/332.m3u8?token=275839252968940
-Now Sports Prime[直播],https://live.hkdvb.com/hls/live/630.m3u8?token=275839252968940
-Now Sports 618[直播],https://live.hkdvb.com/hls/live/618.m3u8?token=275839252968940
-Now Sports 619[直播],https://live.hkdvb.com/hls/live/619.m3u8?token=275839252968940
-Now Sports 688[直播],https://live.hkdvb.com/hls/live/688.m3u8?token=275839252968940
-港台電視 31[直播],https://live.hkdvb.com/hls/live/31.m3u8?token=275839252968940
-港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=275839252968940
-CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=275839252968940
-CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=275839252968940
-CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940
+Jade 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
+TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
+News 新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
+Pearl 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252968940
+翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252968940
+Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=275839252968940
+美亞,https://live.hkdvb.com/hls/live/802.m3u8?token=275839252968940
+HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=275839252968940
+HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252968940
+HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252968940
+ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252968940
+ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252968940
+Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=275839252968940
+Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=275839252968940
+Now Sports 618,https://live.hkdvb.com/hls/live/618.m3u8?token=275839252968940
+Now Sports 619,https://live.hkdvb.com/hls/live/619.m3u8?token=275839252968940
+Now Sports 688,https://live.hkdvb.com/hls/live/688.m3u8?token=275839252968940
+港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=275839252968940
+港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=275839252968940
+CCTV-1港澳版,https://live.hkdvb.com/hls/live/33.m3u8?token=275839252968940
+CGTN Documentary,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252968940
+CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
