@@ -211,9 +211,6 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
 港澳国际,#genre#
-凤凰中文台,http://8.137.59.151:99/tui/haiou.php?id=121
-凤凰资讯台,http://8.137.59.151:99/tui/haiou.php?id=122
-凤凰香港台,http://8.137.59.151:99/tui/haiou.php?id=123
 鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=275839252968940
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 Jade 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
