@@ -235,7 +235,6 @@ TVB PLUS,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab0610
 無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
 娛樂新聞台,https://judy.567852.xyz/live/e1accd34e51514117f991c8880e8549aebc8a5c453e8e9c6e215a21e52aa7e4f.m3u8?token=275839252983012
 黃金翡翠台,https://judy.567852.xyz/live/7e2920cc1b58b5e0a48af38955440e72161f6acf4a3775df4c9ab3d827b9547e.m3u8?token=275839252983012
-黃金華劇台,https://judy.567852.xyz/live/acba1ba4f088a63dbd2dd5bbe66989acf4315b6506cd48244dab7a26443e0d3a.m3u8?token=275839252983012
 華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=275839252968940
 粵語片台,https://judy.567852.xyz/live/bc6edb698b1fc2b9281e880705eb2072032e290abd955a72c073d3b2f6dac8b7.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/804.m3u8?token=275839252968940
 亞洲劇台,https://judy.567852.xyz/live/06d9d6e64d7f24303e3b2876f087d5cf716e0301b75bb358a5c1a4b8c9413c1d.m3u8?token=275839252983012
