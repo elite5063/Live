@@ -425,24 +425,53 @@ http://live.iill.top/huya.php?id=23865171
 http://live.iill.top/huya.php?id=23734256
 #EXTINF:-1 tvg-name="埋堆堆_𝟚𝟞" tvg-logo="https://live.fanmingming.com/tv/埋堆堆_𝟚𝟞.png" group-title="埋堆堆",埋堆堆_𝟚𝟞
 http://live.iill.top/huya.php?id=23749083
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="鳳凰中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文台.png" group-title="港澳国际",鳳凰中文台
+https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="鳳凰資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊台.png" group-title="港澳国际",鳳凰資訊台
+https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=275839252983012
 #EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港台.png" group-title="港澳国际",鳳凰香港台
-https://live.hkdvb.com/hls/live/85.m3u8?token=275839252968940
+https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳国际",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/Jade 翡翠台.png" group-title="港澳国际",Jade 翡翠台
-https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳国际",TVB PLUS
-https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/News 新聞台.png" group-title="港澳国际",News 新聞台
-https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/Pearl 明珠台.png" group-title="港澳国际",Pearl 明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=275839252968940
+https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935956ec1fdaf6b65988f2369239bf1.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/81.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="翡翠4K" tvg-logo="https://live.fanmingming.com/tv/翡翠4K.png" group-title="港澳国际",翡翠4K
-https://live.hkdvb.com/hls/live/800.m3u8?token=275839252968940
+https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/800.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/Pearl 明珠台.png" group-title="港澳国际",Pearl 明珠台
+https://judy.567852.xyz/live/06630af00a526d740e75406697de781f52b1639996838c5a4a00a22745c3b0d7.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/84.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳国际",TVB PLUS
+https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.com/tv/無線新聞台.png" group-title="港澳国际",無線新聞台
+https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://live.fanmingming.com/tv/娛樂新聞台.png" group-title="港澳国际",娛樂新聞台
+https://judy.567852.xyz/live/e1accd34e51514117f991c8880e8549aebc8a5c453e8e9c6e215a21e52aa7e4f.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黃金翡翠台.png" group-title="港澳国际",黃金翡翠台
+https://judy.567852.xyz/live/7e2920cc1b58b5e0a48af38955440e72161f6acf4a3775df4c9ab3d827b9547e.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="華語劇台" tvg-logo="https://live.fanmingming.com/tv/華語劇台.png" group-title="港澳国际",華語劇台
+https://live.hkdvb.com/hls/live/803.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.fanmingming.com/tv/粵語片台.png" group-title="港澳国际",粵語片台
+https://judy.567852.xyz/live/bc6edb698b1fc2b9281e880705eb2072032e290abd955a72c073d3b2f6dac8b7.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/804.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="亞洲劇台" tvg-logo="https://live.fanmingming.com/tv/亞洲劇台.png" group-title="港澳国际",亞洲劇台
+https://judy.567852.xyz/live/06d9d6e64d7f24303e3b2876f087d5cf716e0301b75bb358a5c1a4b8c9413c1d.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="https://live.fanmingming.com/tv/亞洲新聞台.png" group-title="港澳国际",亞洲新聞台
+https://judy.567852.xyz/live/5f96550ed9ea6bf77eed060eb089a1536534a6e00c9b7ca497d5d1618d10f458.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="myTV SUPER FREE" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER FREE.png" group-title="港澳国际",myTV SUPER FREE
+https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08cd5e1c813b0f80bc36f1c3f483b21.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.com/tv/千禧經典台.png" group-title="港澳国际",千禧經典台
+https://judy.567852.xyz/live/f4f8bb7bd134ece4ecf3c5b17c7a3fbc02e09e36b2f85393f4b9197d72beca64.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="天映經典頻道" tvg-logo="https://live.fanmingming.com/tv/天映經典頻道.png" group-title="港澳国际",天映經典頻道
+https://judy.567852.xyz/live/89fc890291d221eef8e43a2f517305889f562405584f9c25c1c49a88ba1be045.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="戲曲台" tvg-logo="https://live.fanmingming.com/tv/戲曲台.png" group-title="港澳国际",戲曲台
+https://judy.567852.xyz/live/80764ed0be5a4fc928cf21f595cb5fdeabe116b5ec8add4aa275026e15c37559.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 18台.png" group-title="港澳国际",myTV SUPER 18台
+https://judy.567852.xyz/live/8668aa4ab14e27d4137e7e22b8f0f0cb99f2b849a2b2a95cee9eddeeed1b7b1c.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="SUPER Kids" tvg-logo="https://live.fanmingming.com/tv/SUPER Kids.png" group-title="港澳国际",SUPER Kids
+https://judy.567852.xyz/live/186b7d332041919323f99bf7573fff8e83c6d95c4216111dbbf3abc0de9c104b.m3u8?token=275839252983012
 #EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.fanmingming.com/tv/Popc.png" group-title="港澳国际",Popc
-https://live.hkdvb.com/hls/live/801.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="美亞" tvg-logo="https://live.fanmingming.com/tv/美亞.png" group-title="港澳国际",美亞
-https://live.hkdvb.com/hls/live/802.m3u8?token=275839252968940
+https://judy.567852.xyz/live/dbdd4699ca52bde8de46b45f861c7cd851f80ea51a47f021484bef00ec32fd2e.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/801.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.com/tv/美亞電影台.png" group-title="港澳国际",美亞電影台
+https://judy.567852.xyz/live/a3c5a9f52bc575ec28955b108856127e6768980e7596a7f7e0675577dcadf227.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/802.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/HOY TV.png" group-title="港澳国际",HOY TV
 https://live.hkdvb.com/hls/live/77.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="HOY TV 資訊台" tvg-logo="https://live.fanmingming.com/tv/HOY TV 資訊台.png" group-title="港澳国际",HOY TV 資訊台
@@ -453,36 +482,64 @@ https://live.hkdvb.com/hls/live/76.m3u8?token=275839252968940
 https://live.hkdvb.com/hls/live/99.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="ViuTV Six" tvg-logo="https://live.fanmingming.com/tv/ViuTV Six.png" group-title="港澳国际",ViuTV Six
 https://live.hkdvb.com/hls/live/96.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="Now Superstars 星影台" tvg-logo="https://live.fanmingming.com/tv/Now Superstars 星影台.png" group-title="港澳国际",Now Superstars 星影台
+https://live.hkdvb.com/hls/live/138.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="Now NEWS 新聞台" tvg-logo="https://live.fanmingming.com/tv/Now NEWS 新聞台.png" group-title="港澳国际",Now NEWS 新聞台
 https://live.hkdvb.com/hls/live/332.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="Now Sports 英超1台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超1台.png" group-title="港澳国际",Now Sports 英超1台
+https://live.hkdvb.com/hls/live/621.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://live.fanmingming.com/tv/Now Sports Prime.png" group-title="港澳国际",Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="Now Sports 618" tvg-logo="https://live.fanmingming.com/tv/Now Sports 618.png" group-title="港澳国际",Now Sports 618
-https://live.hkdvb.com/hls/live/618.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="Now Sports 619" tvg-logo="https://live.fanmingming.com/tv/Now Sports 619.png" group-title="港澳国际",Now Sports 619
-https://live.hkdvb.com/hls/live/619.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="Now Sports 688" tvg-logo="https://live.fanmingming.com/tv/Now Sports 688.png" group-title="港澳国际",Now Sports 688
-https://live.hkdvb.com/hls/live/688.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/港台電視 31.png" group-title="港澳国际",港台電視 31
+#EXTINF:-1 tvg-name="Now Sports 632" tvg-logo="https://live.fanmingming.com/tv/Now Sports 632.png" group-title="港澳国际",Now Sports 632
+https://live.hkdvb.com/hls/live/632.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳国际",RTHK31
 https://live.hkdvb.com/hls/live/31.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/港台電視 32.png" group-title="港澳国际",港台電視 32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳国际",RTHK32
 https://live.hkdvb.com/hls/live/32.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="港澳国际",CCTV-1港澳版
-https://live.hkdvb.com/hls/live/33.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://live.fanmingming.com/tv/CGTN Documentary.png" group-title="港澳国际",CGTN Documentary
-https://live.hkdvb.com/hls/live/34.m3u8?token=275839252968940
-#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN English.png" group-title="港澳国际",CGTN English
-https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港澳国际",RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+https://live.hkdvb.com/hls/live/33.m3u8?token=275839252968940#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 #EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港澳国际",RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
+https://live.hkdvb.com/hls/live/34.m3u8?token=275839252968940#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://live.fanmingming.com/tv/RTHK35.png" group-title="港澳国际",RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+https://live.hkdvb.com/hls/live/35.m3u8?token=275839252968940#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-name="RTHK36" tvg-logo="https://live.fanmingming.com/tv/RTHK36.png" group-title="港澳国际",RTHK36
+https://live.hkdvb.com/hls/live/36.m3u8?token=275839252968940
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="https://live.fanmingming.com/tv/東方衛視國際頻道.png" group-title="港澳国际",東方衛視國際頻道
+https://judy.567852.xyz/live/3c79c2b7db5eddb070552f5a28c13ea748cf8050bbdf37501beab8cecfd9cde0.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="無線衛星亞洲台" tvg-logo="https://live.fanmingming.com/tv/無線衛星亞洲台.png" group-title="港澳国际",無線衛星亞洲台
+https://judy.567852.xyz/live/055041dc69634d6efe5d8379885ddcf7a9debada2c83420a59447b8ff5104264.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="https://live.fanmingming.com/tv/無線衛星新聞台.png" group-title="港澳国际",無線衛星新聞台
+https://judy.567852.xyz/live/29f80886859898262b8714f0b5943907c1cd2802c784d163f8ea9d45c45dfd3a.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="創世電視" tvg-logo="https://live.fanmingming.com/tv/創世電視.png" group-title="港澳国际",創世電視
+https://judy.567852.xyz/live/e003d224d1c2098b0eb27a6d3e61de6a97069dfcb892b372686c73d696f36919.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="神州新聞台" tvg-logo="https://live.fanmingming.com/tv/神州新聞台.png" group-title="港澳国际",神州新聞台
+https://judy.567852.xyz/live/6b772599a8072ce1036e926e27191962cd8412cbde0434b1605a6756456aa958.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="港澳国际",ROCK Action
+https://judy.567852.xyz/live/6a210dcae4407ad6a81c52cd3cc5829559a4c9f05109b3f8a87663d3438dd8df.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="ROCK 綜藝娛樂" tvg-logo="https://live.fanmingming.com/tv/ROCK 綜藝娛樂.png" group-title="港澳国际",ROCK 綜藝娛樂
+https://judy.567852.xyz/live/fc044762e56956c1bfbf2ae0ca1001b8897e1393d90ce94f69260f120aebe14f.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.com/tv/Animax.png" group-title="港澳国际",Animax
+https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.com/tv/Arirang TV.png" group-title="港澳国际",Arirang TV
+https://judy.567852.xyz/live/b5cbd14fc5bf5bd0f2c1ce7960a515f69913018a2eaeeb51dcc3daeca5e7e057.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="港澳国际",AXN
+https://judy.567852.xyz/live/ed5d4dca7cfe600cc1601189bf250579e2a86312d5b0914890af7f12f672e78f.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="港澳国际",Thrill
+https://judy.567852.xyz/live/59457d032a2dc739957f18a2e8b5d3841dccf051114a09d4cfb61c80392c5422.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="港澳国际",tvN
+https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://live.fanmingming.com/tv/Nick Jr..png" group-title="港澳国际",Nick Jr.
+https://judy.567852.xyz/live/e64e28aabd302eee6664cbe61dfaba0eae6e46a114a06e6b331732635c145eec.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="港澳国际",Nickelodeon
+https://judy.567852.xyz/live/a448cd701af6fb74eec10e334247001e2a6c3f9900f67be6abfd41015f10cc65.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://live.fanmingming.com/tv/ZooMoo.png" group-title="港澳国际",ZooMoo
+https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=275839252983012
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳国际",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://live.fanmingming.com/tv/FASHION TV.png" group-title="港澳国际",FASHION TV
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="FashionBox" tvg-logo="https://live.fanmingming.com/tv/FashionBox.png" group-title="港澳国际",FashionBox
+https://judy.567852.xyz/live/1922100f6984d14279893dc852d1331626604dc28aa6c304c967e48ff34ffd0c.m3u8?token=275839252983012
 #EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://live.fanmingming.com/tv/大爱1台.png" group-title="港澳国际",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://live.fanmingming.com/tv/大爱2台.png" group-title="港澳国际",大爱2台
@@ -493,6 +550,22 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="港澳国际",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://live.fanmingming.com/tv/KIX.png" group-title="港澳国际",KIX
+https://judy.567852.xyz/live/508e5d02f7c8089162d60e3ebee79a8591a453810215f7879023581b9f9c1f03.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="半島電視台英語頻道" tvg-logo="https://live.fanmingming.com/tv/半島電視台英語頻道.png" group-title="港澳国际",半島電視台英語頻道
+https://judy.567852.xyz/live/09a352a2a8d08e23808f825a79c963178bf47398fb3471eb2c3be4153203e330.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="港澳国际",DW
+https://judy.567852.xyz/live/9dd5a21b029b769c459b808d38f625888085b2af384c59f979cda1f02bf05e5c.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="港澳国际",France 24
+https://judy.567852.xyz/live/81e111406fbf41dd4645893fbcdc42a5f33a02b4cdbcaa5929b7e0e821a3c821.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://live.fanmingming.com/tv/Global Trekker.png" group-title="港澳国际",Global Trekker
+https://judy.567852.xyz/live/7a4863b617691711d1d41ee5b87e4e842e11cd526e2ad91a5e89db308f72d5ce.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="港澳国际",Love Nature HD
+https://judy.567852.xyz/live/43744dde2d1c70997754c77ee9de59f19b78d9adf6e2ddded3da8f9335ce14ec.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K.png" group-title="港澳国际",Love Nature 4K
+https://judy.567852.xyz/live/eb235609b1d736dfb96cf2ea003d7bea36c7312803f6cb961474a7169b272987.m3u8?token=275839252983012
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://live.fanmingming.com/tv/Mezzo Live HD.png" group-title="港澳国际",Mezzo Live HD
+https://judy.567852.xyz/live/c4be5bf137aacdb99287426410cf654deb9bec96bbcb032aa06b5a76d3c637d7.m3u8?token=275839252983012
 #EXTINF:-1 tvg-name="红牛运动" tvg-logo="https://live.fanmingming.com/tv/红牛运动.png" group-title="港澳国际",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://live.fanmingming.com/tv/电影_星爷.png" group-title="电影轮播",电影_星爷
