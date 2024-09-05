@@ -245,7 +245,6 @@ myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08
 戲曲台,https://judy.567852.xyz/live/80764ed0be5a4fc928cf21f595cb5fdeabe116b5ec8add4aa275026e15c37559.m3u8?token=275839252983012
 myTV SUPER 18台,https://judy.567852.xyz/live/8668aa4ab14e27d4137e7e22b8f0f0cb99f2b849a2b2a95cee9eddeeed1b7b1c.m3u8?token=275839252983012
 SUPER Kids,https://judy.567852.xyz/live/186b7d332041919323f99bf7573fff8e83c6d95c4216111dbbf3abc0de9c104b.m3u8?token=275839252983012
-
 Popc,https://judy.567852.xyz/live/dbdd4699ca52bde8de46b45f861c7cd851f80ea51a47f021484bef00ec32fd2e.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/801.m3u8?token=275839252968940
 美亞電影台,https://judy.567852.xyz/live/a3c5a9f52bc575ec28955b108856127e6768980e7596a7f7e0675577dcadf227.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/802.m3u8?token=275839252968940
 HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=275839252968940
@@ -278,7 +277,6 @@ Thrill,https://judy.567852.xyz/live/59457d032a2dc739957f18a2e8b5d3841dccf051114a
 tvN,https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=275839252983012
 Nick Jr.,https://judy.567852.xyz/live/e64e28aabd302eee6664cbe61dfaba0eae6e46a114a06e6b331732635c145eec.m3u8?token=275839252983012
 Nickelodeon,https://judy.567852.xyz/live/a448cd701af6fb74eec10e334247001e2a6c3f9900f67be6abfd41015f10cc65.m3u8?token=275839252983012
-
 ZooMoo,https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=275839252983012
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 FASHION TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
