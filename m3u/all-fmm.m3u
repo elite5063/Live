@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视卫视",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视卫视",CCTV-2 财经
@@ -933,54 +933,6 @@ http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://live.fanmingming.com/tv/柳河综合.png" group-title="吉林频道",柳河综合
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视高清.png" group-title="辽宁频道",辽宁卫视高清
-http://tvbox6.com/tv/bfgd.php?id=058
-#EXTINF:-1 tvg-name="辽宁都市高清" tvg-logo="https://live.fanmingming.com/tv/辽宁都市高清.png" group-title="辽宁频道",辽宁都市高清
-http://tvbox6.com/tv/bfgd.php?id=610
-#EXTINF:-1 tvg-name="辽宁北方高清" tvg-logo="https://live.fanmingming.com/tv/辽宁北方高清.png" group-title="辽宁频道",辽宁北方高清
-http://tvbox6.com/tv/bfgd.php?id=071
-#EXTINF:-1 tvg-name="辽宁生活高清" tvg-logo="https://live.fanmingming.com/tv/辽宁生活高清.png" group-title="辽宁频道",辽宁生活高清
-http://tvbox6.com/tv/bfgd.php?id=073
-#EXTINF:-1 tvg-name="辽宁体育高清" tvg-logo="https://live.fanmingming.com/tv/辽宁体育高清.png" group-title="辽宁频道",辽宁体育高清
-http://tvbox6.com/tv/bfgd.php?id=611
-#EXTINF:-1 tvg-name="辽宁影视剧高清" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧高清.png" group-title="辽宁频道",辽宁影视剧高清
-http://tvbox6.com/tv/bfgd.php?id=070
-#EXTINF:-1 tvg-name="辽宁教育青少高清" tvg-logo="https://live.fanmingming.com/tv/辽宁教育青少高清.png" group-title="辽宁频道",辽宁教育青少高清
-http://tvbox6.com/tv/bfgd.php?id=075
-#EXTINF:-1 tvg-name="辽宁经济高清" tvg-logo="https://live.fanmingming.com/tv/辽宁经济高清.png" group-title="辽宁频道",辽宁经济高清
-http://tvbox6.com/tv/bfgd.php?id=076
-#EXTINF:-1 tvg-name="辽宁公共高清" tvg-logo="https://live.fanmingming.com/tv/辽宁公共高清.png" group-title="辽宁频道",辽宁公共高清
-http://tvbox6.com/tv/bfgd.php?id=077
-#EXTINF:-1 tvg-name="辽宁公共高清" tvg-logo="https://live.fanmingming.com/tv/辽宁公共高清.png" group-title="辽宁频道",辽宁公共高清
-http://tvbox6.com/tv/bfgd.php?id=481
-#EXTINF:-1 tvg-name="辽宁经济高清" tvg-logo="https://live.fanmingming.com/tv/辽宁经济高清.png" group-title="辽宁频道",辽宁经济高清
-http://tvbox6.com/tv/bfgd.php?id=480
-#EXTINF:-1 tvg-name="沈阳新闻综合高清" tvg-logo="https://live.fanmingming.com/tv/沈阳新闻综合高清.png" group-title="辽宁频道",沈阳新闻综合高清
-http://tvbox6.com/tv/bfgd.php?id=059
-#EXTINF:-1 tvg-name="抚顺综合" tvg-logo="https://live.fanmingming.com/tv/抚顺综合.png" group-title="辽宁频道",抚顺综合
-http://tvbox6.com/tv/bfgd.php?id=275
-#EXTINF:-1 tvg-name="鞍山新闻综合" tvg-logo="https://live.fanmingming.com/tv/鞍山新闻综合.png" group-title="辽宁频道",鞍山新闻综合
-http://tvbox6.com/tv/bfgd.php?id=274
-#EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://live.fanmingming.com/tv/大连新闻综合.png" group-title="辽宁频道",大连新闻综合
-http://tvbox6.com/tv/bfgd.php?id=273
-#EXTINF:-1 tvg-name="丹东新闻综合" tvg-logo="https://live.fanmingming.com/tv/丹东新闻综合.png" group-title="辽宁频道",丹东新闻综合
-http://tvbox6.com/tv/bfgd.php?id=276
-#EXTINF:-1 tvg-name="锦州新闻综合" tvg-logo="https://live.fanmingming.com/tv/锦州新闻综合.png" group-title="辽宁频道",锦州新闻综合
-http://tvbox6.com/tv/bfgd.php?id=277
-#EXTINF:-1 tvg-name="阜新综合" tvg-logo="https://live.fanmingming.com/tv/阜新综合.png" group-title="辽宁频道",阜新综合
-http://tvbox6.com/tv/bfgd.php?id=279
-#EXTINF:-1 tvg-name="辽阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽阳新闻综合.png" group-title="辽宁频道",辽阳新闻综合
-http://tvbox6.com/tv/bfgd.php?id=280
-#EXTINF:-1 tvg-name="营口新闻综合" tvg-logo="https://live.fanmingming.com/tv/营口新闻综合.png" group-title="辽宁频道",营口新闻综合
-http://tvbox6.com/tv/bfgd.php?id=278
-#EXTINF:-1 tvg-name="盘锦新闻综合" tvg-logo="https://live.fanmingming.com/tv/盘锦新闻综合.png" group-title="辽宁频道",盘锦新闻综合
-http://tvbox6.com/tv/bfgd.php?id=283
-#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/朝阳新闻综合.png" group-title="辽宁频道",朝阳新闻综合
-http://tvbox6.com/tv/bfgd.php?id=282
-#EXTINF:-1 tvg-name="本溪综合" tvg-logo="https://live.fanmingming.com/tv/本溪综合.png" group-title="辽宁频道",本溪综合
-http://tvbox6.com/tv/bfgd.php?id=312
-#EXTINF:-1 tvg-name="葫芦岛新闻综合" tvg-logo="https://live.fanmingming.com/tv/葫芦岛新闻综合.png" group-title="辽宁频道",葫芦岛新闻综合
-http://tvbox6.com/tv/bfgd.php?id=284
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/浙江钱江都市.png" group-title="浙江频道",浙江钱江都市
