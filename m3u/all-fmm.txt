@@ -230,8 +230,6 @@ Jade 翡翠台,https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935
 翡翠4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/800.m3u8?token=275839252968940
 Pearl 明珠台,https://judy.567852.xyz/live/06630af00a526d740e75406697de781f52b1639996838c5a4a00a22745c3b0d7.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/84.m3u8?token=275839252968940
 TVB PLUS,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/82.m3u8?token=275839252968940
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/83.m3u8?token=275839252968940
 娛樂新聞台,https://judy.567852.xyz/live/e1accd34e51514117f991c8880e8549aebc8a5c453e8e9c6e215a21e52aa7e4f.m3u8?token=275839252983012
 黃金翡翠台,https://judy.567852.xyz/live/7e2920cc1b58b5e0a48af38955440e72161f6acf4a3775df4c9ab3d827b9547e.m3u8?token=275839252983012
@@ -277,9 +275,7 @@ Thrill,https://judy.567852.xyz/live/59457d032a2dc739957f18a2e8b5d3841dccf051114a
 tvN,https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=275839252983012
 Nick Jr.,https://judy.567852.xyz/live/e64e28aabd302eee6664cbe61dfaba0eae6e46a114a06e6b331732635c145eec.m3u8?token=275839252983012
 Nickelodeon,https://judy.567852.xyz/live/a448cd701af6fb74eec10e334247001e2a6c3f9900f67be6abfd41015f10cc65.m3u8?token=275839252983012
-ZooMoo,https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=275839252983012
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-FASHION TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+ZooMoo,https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=275839252983012  Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FashionBox,https://judy.567852.xyz/live/1922100f6984d14279893dc852d1331626604dc28aa6c304c967e48ff34ffd0c.m3u8?token=275839252983012
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
