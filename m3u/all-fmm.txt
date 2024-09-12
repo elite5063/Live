@@ -877,11 +877,8 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-武夷山文旅茶,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8
 三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
-新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
 建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
