@@ -1649,16 +1649,10 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="漳州一套" tvg-logo="https://live.fanmingming.com/tv/漳州一套.png" group-title="福建频道",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name="武夷山综合" tvg-logo="https://live.fanmingming.com/tv/武夷山综合.png" group-title="福建频道",武夷山综合
-http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="武夷山文旅茶" tvg-logo="https://live.fanmingming.com/tv/武夷山文旅茶.png" group-title="福建频道",武夷山文旅茶
-http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://live.fanmingming.com/tv/漳浦综合.png" group-title="福建频道",漳浦综合
 http://220.161.87.62:8090/hls/0/index.m3u8
 #EXTINF:-1 tvg-name="三明新闻综合" tvg-logo="https://live.fanmingming.com/tv/三明新闻综合.png" group-title="福建频道",三明新闻综合
 http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
-#EXTINF:-1 tvg-name="新罗电视一套" tvg-logo="https://live.fanmingming.com/tv/新罗电视一套.png" group-title="福建频道",新罗电视一套
-http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
 #EXTINF:-1 tvg-name="建宁综合" tvg-logo="https://live.fanmingming.com/tv/建宁综合.png" group-title="福建频道",建宁综合
 https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://live.fanmingming.com/tv/漳浦综合.png" group-title="福建频道",漳浦综合
