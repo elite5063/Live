@@ -104,7 +104,6 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 兵器科技,http://www.qhjx.top:18000/udp/238.255.2.34:5999
 风云足球,http://www.qhjx.top:18000/udp/238.255.2.29:5999
 高尔夫网球,http://www.qhjx.top:18000/udp/238.255.2.223:5999
-女性时尚,http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8
 央视精品,http://www.qhjx.top:18000/udp/238.255.2.32:5999
 央视台球,http://www.qhjx.top:18000/udp/238.255.2.224:5999
 求索记录,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
@@ -377,7 +376,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 晴彩竞技,http://218.241.192.50:8808/udp/239.3.1.125:8001
 晴彩篮球,http://218.241.192.50:8808/udp/239.3.1.126:8001
 晴彩青少,http://218.241.192.50:8808/udp/239.3.1.127:8001
-晴彩广场舞,http://218.241.192.50:8808/udp/239.3.1.128:8001
 淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
