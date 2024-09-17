@@ -210,7 +210,7 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-港澳国际,#genre#
+港台国际,#genre#
 鳳凰中文台,https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=275839252983012
 鳳凰資訊台,https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=275839252983012
 鳳凰香港台,https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=275839252983012#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252921850
