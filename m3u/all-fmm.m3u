@@ -1242,21 +1242,17 @@ http://117.72.68.25:9930/shanxi.php?id=sxtyxx
 #EXTINF:-1 tvg-name="陕西移动" tvg-logo="https://live.fanmingming.com/tv/陕西移动.png" group-title="陕西频道",陕西移动
 http://117.72.68.25:9930/shanxi.php?id=sxyd
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="甘肃频道",甘肃卫视
-rtmp://livein.gstv.com.cn/49048r/y3nga4
-#EXTINF:-1 tvg-name="经济频道" tvg-logo="https://live.fanmingming.com/tv/经济频道.png" group-title="甘肃频道",经济频道
-rtmp://livein.gstv.com.cn/49048r/9kzvr5
-#EXTINF:-1 tvg-name="文化影视" tvg-logo="https://live.fanmingming.com/tv/文化影视.png" group-title="甘肃频道",文化影视
-rtmp://livein.gstv.com.cn/49048r/068vw9
-#EXTINF:-1 tvg-name="公共应急" tvg-logo="https://live.fanmingming.com/tv/公共应急.png" group-title="甘肃频道",公共应急
-rtmp://livein.gstv.com.cn/49048r/2v86i8
-#EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://live.fanmingming.com/tv/少儿频道.png" group-title="甘肃频道",少儿频道
-rtmp://livein.gstv.com.cn/49048r/4o7e76
-#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png" group-title="甘肃频道",都市频道
-rtmp://livein.gstv.com.cn/49048r/oj57of
-#EXTINF:-1 tvg-name="移动电视" tvg-logo="https://live.fanmingming.com/tv/移动电视.png" group-title="甘肃频道",移动电视
-rtmp://livein.gstv.com.cn/49048r/y72q36
-#EXTINF:-1 tvg-name="崆峒综合" tvg-logo="https://live.fanmingming.com/tv/崆峒综合.png" group-title="甘肃频道",崆峒综合
-http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+http://[2409:8087:74d9:21::6]/270000001128/9900000023/index.m3u8
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://live.fanmingming.com/tv/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002165/index.m3u8
+#EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://live.fanmingming.com/tv/甘肃经济.png" group-title="甘肃频道",甘肃经济
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002164/index.m3u8
+#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://live.fanmingming.com/tv/甘肃都市.png" group-title="甘肃频道",甘肃都市
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002163/index.m3u8
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://live.fanmingming.com/tv/甘肃公共应急.png" group-title="甘肃频道",甘肃公共应急
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002162/index.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://live.fanmingming.com/tv/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002161/index.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/成都新闻综合.png" group-title="四川频道",成都新闻综合
