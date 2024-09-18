@@ -658,14 +658,12 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 陕西移动,http://117.72.68.25:9930/shanxi.php?id=sxyd
 
 甘肃频道,#genre#
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
-经济频道,rtmp://livein.gstv.com.cn/49048r/9kzvr5
-文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9
-公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8
-少儿频道,rtmp://livein.gstv.com.cn/49048r/4o7e76
-都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of
-移动电视,rtmp://livein.gstv.com.cn/49048r/y72q36
-崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+甘肃卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000023/index.m3u8
+甘肃少儿,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002165/index.m3u8
+甘肃经济,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002164/index.m3u8
+甘肃都市,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002163/index.m3u8
+甘肃公共应急,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002162/index.m3u8
+甘肃文化影视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002161/index.m3u8
 
 四川频道,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
