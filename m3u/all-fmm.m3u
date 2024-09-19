@@ -229,8 +229,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8#http://
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.com/tv/晴彩广场舞.png" group-title="数字频道",晴彩广场舞
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字频道",咪咕体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="足球频道" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="数字频道",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8#https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="数字频道",精彩影视
