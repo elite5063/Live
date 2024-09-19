@@ -89,7 +89,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
 
 数字频道,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://ygbh.live/1905.php?id=1905b
@@ -217,10 +217,10 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 鳳凰資訊台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252921850
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Jade 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252921850
-翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252921850
+Jade 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#https://live.hkdvb.com/hls/live/81.m3u8?token=275839252921850
+翡翠4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#https://live.hkdvb.com/hls/live/800.m3u8?token=275839252921850
 Pearl 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252921850
-TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252921850
+TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#https://live.hkdvb.com/hls/live/82.m3u8?token=275839252921850
 無線新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252921850
 華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=275839252921850
 粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=275839252921850
@@ -266,7 +266,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
