@@ -186,29 +186,24 @@ http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字频道",第一剧场
-http://60.10.225.157:555/rtp/239.253.93.138:6428#http://www.qhjx.top:18000/udp/238.255.2.25:5999
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场
-http://60.10.225.157:555/rtp/239.253.93.251:6429#http://www.qhjx.top:18000/udp/238.255.2.28:5999
+http://www.qhjx.top:18000/udp/238.255.2.25:5999
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场http://www.qhjx.top:18000/udp/238.255.2.28:5999
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="数字频道",怀旧剧场
-http://60.10.225.157:555/rtp/239.253.93.252:6430#http://www.qhjx.top:18000/udp/238.255.2.33:5999#http://42.48.17.204:808/hls/112/index.m3u8
+http://www.qhjx.top:18000/udp/238.255.2.33:5999#http://42.48.17.204:808/hls/112/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字频道",风云音乐
-http://60.10.225.157:555/rtp/239.253.93.253:6431#http://www.qhjx.top:18000/udp/238.255.2.24:5999
+http://www.qhjx.top:18000/udp/238.255.2.24:5999
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="数字频道",风云足球
-http://60.10.225.157:555/rtp/239.253.93.254:6432#http://www.qhjx.top:18000/udp/238.255.2.29:5999
+http://www.qhjx.top:18000/udp/238.255.2.29:5999
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="数字频道",央视高网
-http://60.10.225.157:555/rtp/239.253.93.122:6465#http://www.qhjx.top:18000/udp/238.255.2.223:5999
+http://www.qhjx.top:18000/udp/238.255.2.223:5999
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="数字频道",央视台球
-http://60.10.225.157:555/rtp/239.253.93.231:6409#http://www.qhjx.top:18000/udp/238.255.2.224:5999
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="数字频道",电视指南
-http://60.10.225.157:555/rtp/239.253.93.249:6427
+http://www.qhjx.top:18000/udp/238.255.2.224:5999
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="数字频道",兵器科技
-http://60.10.225.157:555/rtp/239.253.93.47:6435#http://www.qhjx.top:18000/udp/238.255.2.34:5999
+http://www.qhjx.top:18000/udp/238.255.2.34:5999
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="数字频道",世界地理
-http://60.10.225.157:555/rtp/239.253.92.131:6113#http://www.qhjx.top:18000/udp/238.255.2.26:5999
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="数字频道",女性时尚
-http://60.10.225.157:555/rtp/239.253.92.144:6114
+http://www.qhjx.top:18000/udp/238.255.2.26:5999
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="数字频道",文化精品
-http://60.10.225.157:555/rtp/239.253.93.175:6439#http://www.qhjx.top:18000/udp/238.255.2.32:5999
+http://www.qhjx.top:18000/udp/238.255.2.32:5999
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="数字频道",求索记录
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字频道",求索动物
