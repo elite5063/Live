@@ -1741,18 +1741,26 @@ http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295
 http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.com/tv/广州南国都市.png" group-title="广东频道",广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道",广州综合
-http://58.144.154.93/tencentplay.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道",广州新闻
-http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东频道",广州影视
-http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东频道",广州法治
-http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.com/tv/广州南国都市.png" group-title="广东频道",广州南国都市
-http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="广东频道",广州竞赛
-http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
+http://117.72.68.25:9930/shenzhen.php?id=szws
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png" group-title="广东频道",深圳都市
+http://117.72.68.25:9930/shenzhen.php?id=szds
+#EXTINF:-1 tvg-name="深圳财经" tvg-logo="https://live.fanmingming.com/tv/深圳财经.png" group-title="广东频道",深圳财经
+http://117.72.68.25:9930/shenzhen.php?id=szcjsh
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="广东频道",深圳电视剧
+http://117.72.68.25:9930/shenzhen.php?id=szdsj
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://live.fanmingming.com/tv/深圳少儿.png" group-title="广东频道",深圳少儿
+http://117.72.68.25:9930/shenzhen.php?id=szse
+#EXTINF:-1 tvg-name="深圳购物" tvg-logo="https://live.fanmingming.com/tv/深圳购物.png" group-title="广东频道",深圳购物
+http://117.72.68.25:9930/shenzhen.php?id=yhgw
+#EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://live.fanmingming.com/tv/深圳国际.png" group-title="广东频道",深圳国际
+http://117.72.68.25:9930/shenzhen.php?id=szgj
+#EXTINF:-1 tvg-name="深圳移动" tvg-logo="https://live.fanmingming.com/tv/深圳移动.png" group-title="广东频道",深圳移动
+http://117.72.68.25:9930/shenzhen.php?id=szyd
+#EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="广东频道",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞生活资讯.png" group-title="广东频道",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 tvg-name="番禺电视台" tvg-logo="https://live.fanmingming.com/tv/番禺电视台.png" group-title="广东频道",番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="广东频道",佛山综合
