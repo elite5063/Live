@@ -948,6 +948,15 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 
 广东频道,#genre#
+广东卫视,http://avd.iptviptv.site:9694/hls/450/index.m3u8
+广东珠江,http://avd.iptviptv.site:9694/hls/451/index.m3u8
+大湾区卫视,http://avd.iptviptv.site:9694/hls/452/index.m3u8
+广州综合,http://avd.iptviptv.site:9694/hls/453/index.m3u8
+广东新闻,http://avd.iptviptv.site:9694/hls/454/index.m3u8
+广东民生,http://avd.iptviptv.site:9694/hls/455/index.m3u8
+广东体育,http://avd.iptviptv.site:9694/hls/456/index.m3u8
+广东经济科教,http://avd.iptviptv.site:9694/hls/457/index.m3u8
+广东影视,http://avd.iptviptv.site:9694/hls/458/index.m3u8
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
