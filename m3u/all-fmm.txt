@@ -91,23 +91,23 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 数字频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-1905国内电影,http://ygbh.live/1905.php?id=1905a
-1905国外电影,http://ygbh.live/1905.php?id=1905b
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-第一剧场,http://223.10.19.222:8082/udp/239.1.1.94:8094
-风云剧场,http://223.10.19.222:8082/udp/239.1.1.93:8093
-怀旧剧场,http://223.10.19.222:8082/udp/239.1.1.95:8095
-风云音乐,http://223.10.19.222:8082/udp/239.1.1.96:8096
-风云足球,http://223.10.19.222:8082/udp/239.1.1.101:8101
-央视高网,http://223.10.19.222:8082/udp/239.1.1.102:8102
-央视台球,http://223.10.19.222:8082/udp/239.1.1.100:8100
-兵器科技,http://223.10.19.222:8082/udp/239.1.1.97:8097
-世界地理,http://223.10.19.222:8082/udp/239.1.1.99:8099
-女性时尚,http://223.10.19.222:8082/udp/239.1.1.89:8089
-文化精品,http://223.10.19.222:8082/udp/239.1.1.91:8091
-电视指南,http://223.10.19.222:8082/udp/239.1.1.90:8090
+CCTV4K,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+兵器科技,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.34:5999
+文化精品,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.32:5999
+第一剧场,http://www.qhjx.top:18000/udp/238.255.2.25:5999
+怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.33:5999
+风云足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.29:5999
+央视台球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.224:5999
+风云音乐,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.24:5999
+风云剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.28:5999
+央视高网,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8#http://www.qhjx.top:18000/udp/238.255.2.223:5999
+女性时尚,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+世界地理,http://www.qhjx.top:18000/udp/238.255.2.26:5999
 求索记录,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
@@ -213,9 +213,9 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
 港台国际,#genre#
-鳳凰中文台,http://171.110.10.240:8181/tsfile/live/1083_1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰資訊台,http://171.110.10.240:8181/tsfile/live/1082_1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港台,http://171.110.10.240:8181/tsfile/live/1084_1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252921850
+鳳凰中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰資訊台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+鳳凰香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252921850
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 Jade 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#https://live.hkdvb.com/hls/live/81.m3u8?token=275839252921850
 翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252921850
@@ -948,17 +948,6 @@ BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/P
 罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 
 广东频道,#genre#
-广东卫视,http://171.110.10.19:8181/tsfile/live/1031_1.m3u8
-广东珠江,http://171.110.10.19:8181/tsfile/live/1000_1.m3u8
-广东科教,http://171.110.10.19:8181/tsfile/live/1003_1.m3u8
-岭南戏曲,http://171.110.10.19:8181/tsfile/live/1005_1.m3u8
-大湾区卫视,http://171.110.10.19:8181/tsfile/live/1002_1.m3u8
-嘉佳卡通,http://171.110.10.19:8181/tsfile/live/1006_1.m3u8
-广东新闻,http://171.110.10.19:8181/tsfile/live/1004_1.m3u8
-广东公共,http://171.110.10.19:8181/tsfile/live/1007_1.m3u8
-广东电影,http://171.110.10.19:8181/tsfile/live/1008_1.m3u8
-广东少儿,http://171.110.10.19:8181/tsfile/live/1009_1.m3u8
-广东体育,http://171.110.10.19:8181/tsfile/live/1010_1.m3u8
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
