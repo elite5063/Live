@@ -434,8 +434,6 @@ https://live.hkdvb.com/hls/live/803.m3u8?token=275839252921850
 #EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.fanmingming.com/tv/粵語片台.png" group-title="港台国际",粵語片台
 https://live.hkdvb.com/hls/live/804.m3u8?token=275839252921850
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台国际",TVB星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="TVB星河国语" tvg-logo="https://live.fanmingming.com/tv/TVB星河国语.png" group-title="港台国际",TVB星河国语
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.fanmingming.com/tv/Popc.png" group-title="港台国际",Popc
 https://live.hkdvb.com/hls/live/801.m3u8?token=275839252921850
