@@ -93,9 +93,9 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy#http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://ygbh.live/1905.php?id=1905b
-CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8#http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8#http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8#http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 第一剧场,http://60.10.225.157:555/rtp/239.253.93.138:6428#http://www.qhjx.top:18000/udp/238.255.2.25:5999
 风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429#http://www.qhjx.top:18000/udp/238.255.2.28:5999
 怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430#http://www.qhjx.top:18000/udp/238.255.2.33:5999
@@ -132,15 +132,14 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 金鹰纪实,http://[2409:8087:74d9:21::6]/270000001128/9900000074/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
-快乐垂钓,http://avd.iptviptv.site:9694/hls/714/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
-天元围棋,http://avd.iptviptv.site:9694/hls/715/index.m3u8
+快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 茶友频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 游戏风云,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226187/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 欢笑剧场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226203/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 都市剧场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226176/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
-金色学堂,http://avd.iptviptv.site:9694/hls/159/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
+金色学堂,#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 
 NewTV频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
