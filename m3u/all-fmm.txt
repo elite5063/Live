@@ -101,7 +101,7 @@ CHC影迷电影,http://27.16.219.181:4022/rtp/239.69.1.241:11088
 怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002
 风云音乐,http://ha.xushining.com:50000/udp/225.1.2.176:5002
 风云足球,http://ha.xushining.com:50000/udp/225.1.2.168:5002
-央视高网,http://ha.xushining.com:50000/udp/225.1.2.169:5002
+央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8#http://ha.xushining.com:50000/udp/225.1.2.169:5002
 央视台球,http://ha.xushining.com:50000/udp/225.1.2.170:5002
 兵器科技,http://ha.xushining.com:50000/udp/225.1.2.166:5002
 世界地理,http://ha.xushining.com:50000/udp/225.1.2.171:5002
