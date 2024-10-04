@@ -147,40 +147,32 @@ IHOT爱科学,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
 埋堆堆,#genre#
-埋堆堆2,https://live.metshop.top/huya/23863796
-埋堆堆3,https://live.metshop.top/huya/23749083
-埋堆堆4,https://live.metshop.top/huya/23824164
-埋堆堆5,https://live.metshop.top/huya/23903196
-埋堆堆6,https://live.metshop.top/huya/23903183
-埋堆堆7,https://live.metshop.top/huya/23740156
-埋堆堆8,https://live.metshop.top/huya/23903130
-埋堆堆9,https://live.metshop.top/huya/23734169
-埋堆堆10,https://live.metshop.top/huya/23728660
-埋堆堆11,https://live.metshop.top/huya/23728674
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-冰冰经典,http://159.75.85.63:35455/douyu/74374
-星爷影院,http://159.75.85.63:35455/douyu/508118
-瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
-怡寶影院,http://159.75.85.63:35455/douyu/434971
-小黛兮影,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片,http://159.75.85.63:35455/douyu/3928
-神乐影院,http://159.75.85.63:35455/douyu/122402
-可乐影院,http://159.75.85.63:35455/douyu/20415
-恐怖惊悚,http://159.75.85.63:35455/douyu/96577
-電影劇場,http://159.75.85.63:35455/douyu/7575350
-國語電影,http://159.75.85.63:35455/douyu/2436390
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-漫威剧情,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨,http://159.75.85.63:35455/douyu/8814650
-鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
-鬼片恐怖,http://159.75.85.63:35455/douyu/2935323
-小U鬼片,http://159.75.85.63:35455/douyu/96577
-变种人片,http://159.75.85.63:35455/douyu/9651304
-喜剧电影,http://159.75.85.63:35455/douyu/9292492
-女神电影,http://159.75.85.63:35455/douyu/747764
-华语经典,http://159.75.85.63:35455/douyu/434971
-贝爷影厅,http://159.75.85.63:35455/douyu/252802
-译制国语,http://159.75.85.63:35455/douyu/2436390
+埋堆堆 1,http://live.iill.top/huya.php?id=23740156
+埋堆堆 2,http://live.iill.top/huya.php?id=23749096
+埋堆堆 3,http://live.iill.top/huya.php?id=23735126
+埋堆堆 4,http://live.iill.top/huya.php?id=23903123
+埋堆堆 5,http://live.iill.top/huya.php?id=23734169
+埋堆堆 6,http://live.iill.top/huya.php?id=23863804
+埋堆堆 7,http://live.iill.top/huya.php?id=23865080
+埋堆堆 8,http://live.iill.top/huya.php?id=23864973
+埋堆堆 9,http://live.iill.top/huya.php?id=23903130
+埋堆堆 10,http://live.iill.top/huya.php?id=23860039
+埋堆堆 11,http://live.iill.top/huya.php?id=23903183
+埋堆堆 12,http://live.iill.top/huya.php?id=23903196
+埋堆堆 13,http://live.iill.top/huya.php?id=23728674
+埋堆堆 14,http://live.iill.top/huya.php?id=23865036
+埋堆堆 15,http://live.iill.top/huya.php?id=23829543
+埋堆堆 16,http://live.iill.top/huya.php?id=23865161
+埋堆堆 17,http://live.iill.top/huya.php?id=23865058
+埋堆堆 18,http://live.iill.top/huya.php?id=23824164
+埋堆堆 19,http://live.iill.top/huya.php?id=23863796
+埋堆堆 20,http://live.iill.top/huya.php?id=23734183
+埋堆堆 21,http://live.iill.top/huya.php?id=23728660
+埋堆堆 22,http://live.iill.top/huya.php?id=23865142
+埋堆堆 23,http://live.iill.top/huya.php?id=23734246
+埋堆堆 24,http://live.iill.top/huya.php?id=23865171
+埋堆堆 25,http://live.iill.top/huya.php?id=23734256
+埋堆堆 26,http://live.iill.top/huya.php?id=23749083
 
 港台国际,#genre#
 鳳凰中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
