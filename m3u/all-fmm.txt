@@ -66,7 +66,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002
 CHC动作电影,http://ha.xushining.com:50000/udp/225.1.1.215:5002
-CHC影迷电影,http://27.16.219.181:4022/rtp/239.69.1.241:11088
+CHC影迷电影,http://60.220.167.241:8083/rtp/226.0.2.93:8004
 第一剧场,http://ha.xushining.com:50000/udp/225.1.2.175:5002
 风云剧场,http://ha.xushining.com:50000/udp/225.1.2.174:5002
 怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002
