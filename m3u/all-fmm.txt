@@ -382,54 +382,6 @@ IHOT爱历史,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 IHOT爱科学,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
-埋堆堆1,#genre#
-埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv 
-埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv 
-埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv 
-埋堆堆4,http://cfss.cc/cdn/hy/23903196.flv 
-埋堆堆5,http://cfss.cc/cdn/hy/23740156.flv 
-埋堆堆6,http://cfss.cc/cdn/hy/23728660.flv 
-埋堆堆7,http://cfss.cc/cdn/hy/23865058.flv 
-埋堆堆8,http://cfss.cc/cdn/hy/23734183.flv 
-埋堆堆9,http://cfss.cc/cdn/hy/23865036.flv 
-埋堆堆10,http://cfss.cc/cdn/hy/23734246.flv 
-埋堆堆11,http://cfss.cc/cdn/hy/23863796.flv 
-埋堆堆12,http://cfss.cc/cdn/hy/23749083.flv 
-埋堆堆13,http://cfss.cc/cdn/hy/23824164.flv 
-埋堆堆14,http://cfss.cc/cdn/hy/23863804.flv 
-埋堆堆15,http://cfss.cc/cdn/hy/23865142.flv 
-埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv 
-埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv 
-埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
-
-埋堆堆2,#genre#
-埋堆堆 1,http://live.iill.top/huya.php?id=23740156
-埋堆堆 2,http://live.iill.top/huya.php?id=23749096
-埋堆堆 3,http://live.iill.top/huya.php?id=23735126
-埋堆堆 4,http://live.iill.top/huya.php?id=23903123
-埋堆堆 5,http://live.iill.top/huya.php?id=23734169
-埋堆堆 6,http://live.iill.top/huya.php?id=23863804
-埋堆堆 7,http://live.iill.top/huya.php?id=23865080
-埋堆堆 8,http://live.iill.top/huya.php?id=23864973
-埋堆堆 9,http://live.iill.top/huya.php?id=23903130
-埋堆堆 10,http://live.iill.top/huya.php?id=23860039
-埋堆堆 11,http://live.iill.top/huya.php?id=23903183
-埋堆堆 12,http://live.iill.top/huya.php?id=23903196
-埋堆堆 13,http://live.iill.top/huya.php?id=23728674
-埋堆堆 14,http://live.iill.top/huya.php?id=23865036
-埋堆堆 15,http://live.iill.top/huya.php?id=23829543
-埋堆堆 16,http://live.iill.top/huya.php?id=23865161
-埋堆堆 17,http://live.iill.top/huya.php?id=23865058
-埋堆堆 18,http://live.iill.top/huya.php?id=23824164
-埋堆堆 19,http://live.iill.top/huya.php?id=23863796
-埋堆堆 20,http://live.iill.top/huya.php?id=23734183
-埋堆堆 21,http://live.iill.top/huya.php?id=23728660
-埋堆堆 22,http://live.iill.top/huya.php?id=23865142
-埋堆堆 23,http://live.iill.top/huya.php?id=23734246
-埋堆堆 24,http://live.iill.top/huya.php?id=23865171
-埋堆堆 25,http://live.iill.top/huya.php?id=23734256
-埋堆堆 26,http://live.iill.top/huya.php?id=23749083
-
 电影轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
@@ -604,30 +556,6 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 有翡(试播),http://cfss.cc/cdn/hy/29580970.flv
 胡斐(试播),http://cfss.cc/cdn/hy/26355765.flv
 国产科幻(试播),http://cfss.cc/cdn/hy/11602077.flv
-
-综艺频道,#genre#
-易中天品三国,http://cfss.cc/cdn/hy/11602032.flv
-脱口秀来了,http://cfss.cc/cdn/hy/11352875.flv
-春晚经典,http://cfss.cc/cdn/hy/11602068.flv
-经典小品,http://cfss.cc/cdn/hy/11352938.flv
-奔跑吧,http://cfss.cc/cdn/hy/29465870.flv
-来桃花坞,http://cfss.cc/cdn/hy/29465869.flv
-穿越吧,http://cfss.cc/cdn/hy/11352907.flv
-80后脱口秀,http://cfss.cc/cdn/hy/11352961.flv
-漂亮国达人秀,http://cfss.cc/cdn/hy/26355865.flv
-娱乐播报,http://cfss.cc/cdn/hy/26355849.flv
-罗翔讲法,http://cfss.cc/cdn/hy/11601965.flv
-易中天品三国,http://cfss.cc/cdn/hy/11602032.flv
-脱口秀来了,http://cfss.cc/cdn/hy/11352875.flv
-春晚经典,http://cfss.cc/cdn/hy/11602068.flv
-经典小品,http://cfss.cc/cdn/hy/11352938.flv
-奔跑吧,http://cfss.cc/cdn/hy/29465870.flv
-来桃花坞,http://cfss.cc/cdn/hy/29465869.flv
-穿越吧,http://cfss.cc/cdn/hy/11352907.flv
-80后脱口秀,http://cfss.cc/cdn/hy/11352961.flv
-漂亮国达人秀,http://cfss.cc/cdn/hy/26355865.flv
-娱乐播报,http://cfss.cc/cdn/hy/26355849.flv
-罗翔讲法,http://cfss.cc/cdn/hy/11601965.flv
 
 北京频道,#genre#
 北京卫视,http://114.246.181.171:4022/rtp/239.3.1.241:8000
