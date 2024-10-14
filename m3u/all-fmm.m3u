@@ -229,7 +229,7 @@ https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
 https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="港台国际",美亚电影台
 https://live.hkdvb.com/hls/live/802.m3u8?token=275839252942857
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台国际",TVB PLUS
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="港台国际",TVB Plus
 https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台国际",无线新闻台
 https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
@@ -277,6 +277,20 @@ https://live.hkdvb.com/hls/live/36.m3u8?token=275839252942857
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="港台国际",莲花卫视
 http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="港台国际",龙华日韩
+http://cdn3.1678520.xyz/live/?id=lhrh
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="港台国际",龙华日韩
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港台国际",龙华电影
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="港台国际",龙华卡通
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="港台国际",龙华偶像
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="港台国际",龙华戏剧
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="港台国际",龙华经典
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn21
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港台国际",台视
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台国际",中视
@@ -1691,9 +1705,11 @@ http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东珠江 移动" tvg-logo="https://live.fanmingming.com/tv/广东珠江 移动.png" group-title="广东频道",广东珠江 移动
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="大湾区卫视 移动" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视 移动.png" group-title="广东频道",大湾区卫视 移动
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视 移动" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 移动.png" group-title="广东频道",深圳卫视 移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视 移动" tvg-logo="https://live.fanmingming.com/tv/厦门卫视 移动.png" group-title="广东频道",厦门卫视 移动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
