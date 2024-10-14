@@ -118,6 +118,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 翡翠台4k,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
 美亚电影台,https://live.hkdvb.com/hls/live/802.m3u8?token=275839252942857
+翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=275839252942857
@@ -910,8 +912,9 @@ BRTV体育休闲,http://114.252.229.100:8000/rtp/239.3.1.243:8000
 广东频道,#genre#
 广东卫视 移动,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
 广东珠江 移动,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 大湾区卫视 移动,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
-深圳卫视 移动,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
+深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 厦门卫视 移动,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
