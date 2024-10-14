@@ -117,7 +117,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252942857
 翡翠台4k,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
-美亚电影台,https://live.hkdvb.com/hls/live/802.m3u8?token=275839252942857 PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
+美亚电影台,https://live.hkdvb.com/hls/live/802.m3u8?token=275839252942857 
+TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=275839252942857
 粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=275839252942857
