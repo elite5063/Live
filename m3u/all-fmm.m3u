@@ -237,8 +237,6 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-#EXTINF:-1 tvg-name="CHC华诚影视" tvg-logo="https://live.fanmingming.com/tv/CHC华诚影视.png" group-title="数字频道",CHC华诚影视
-http://120.76.248.139/live/bfgd/4200000289.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字频道",第一剧场
 http://ha.xushining.com:50000/udp/225.1.2.175:5002
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场
@@ -952,11 +950,7 @@ https://livestream-bt.nmtv.cn/nmtv/2356general.flv?txSecret=f9a77d4f3d9543d325fd
 #EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://live.fanmingming.com/tv/兴安盟新闻综合.png" group-title="内蒙古频道",兴安盟新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2357general.flv?txSecret=863352ad641057c3bad76a48aefde5e1&txTime=771E8800
 #EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://live.fanmingming.com/tv/通辽新闻综合.png" group-title="内蒙古频道",通辽新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=5ed171e7a45b406e31075023030f18cb&txTime=771E8800#https://live.tongliaowang.com/video/a2aef6ea659c.m3u8
-#EXTINF:-1 tvg-name="通辽蒙语综合" tvg-logo="https://live.fanmingming.com/tv/通辽蒙语综合.png" group-title="内蒙古频道",通辽蒙语综合
-https://live.tongliaowang.com/video/f7418cec973d.m3u8
-#EXTINF:-1 tvg-name="通辽城市服务" tvg-logo="https://live.fanmingming.com/tv/通辽城市服务.png" group-title="内蒙古频道",通辽城市服务
-https://live.tongliaowang.com/video/4313e1e3d9db.m3u8
+https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=5ed171e7a45b406e31075023030f18cb&txTime=771E8800
 #EXTINF:-1 tvg-name="锡林郭勒新闻综合" tvg-logo="https://live.fanmingming.com/tv/锡林郭勒新闻综合.png" group-title="内蒙古频道",锡林郭勒新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2346general.flv?txSecret=83637acace4ab7d20da4844d2954c71a&txTime=771E8800
 #EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://live.fanmingming.com/tv/阿拉善新闻综合.png" group-title="内蒙古频道",阿拉善新闻综合
@@ -1013,14 +1007,30 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://live.fanmingming.com/tv/磐石综合.png" group-title="吉林频道",磐石综合
 http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="舒兰新闻综合" tvg-logo="https://live.fanmingming.com/tv/舒兰新闻综合.png" group-title="吉林频道",舒兰新闻综合
-http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="东丰综合" tvg-logo="https://live.fanmingming.com/tv/东丰综合.png" group-title="吉林频道",东丰综合
-http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="松原公共" tvg-logo="https://live.fanmingming.com/tv/松原公共.png" group-title="吉林频道",松原公共
+http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+#EXTINF:-1 tvg-name="珲春综合" tvg-logo="https://live.fanmingming.com/tv/珲春综合.png" group-title="吉林频道",珲春综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="靖宇综合" tvg-logo="https://live.fanmingming.com/tv/靖宇综合.png" group-title="吉林频道",靖宇综合
+http://stream8.jlntv.cn/jytv/sd/live.m3u8
 #EXTINF:-1 tvg-name="辉南新闻综合" tvg-logo="https://live.fanmingming.com/tv/辉南新闻综合.png" group-title="吉林频道",辉南新闻综合
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://live.fanmingming.com/tv/柳河综合.png" group-title="吉林频道",柳河综合
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="柳河综艺" tvg-logo="https://live.fanmingming.com/tv/柳河综艺.png" group-title="吉林频道",柳河综艺
+http://stream5.jlntv.cn/lh/sd/live.m3u8
+#EXTINF:-1 tvg-name="永吉综合" tvg-logo="https://live.fanmingming.com/tv/永吉综合.png" group-title="吉林频道",永吉综合
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1 tvg-name="双辽综合" tvg-logo="https://live.fanmingming.com/tv/双辽综合.png" group-title="吉林频道",双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8
+#EXTINF:-1 tvg-name="通化综合" tvg-logo="https://live.fanmingming.com/tv/通化综合.png" group-title="吉林频道",通化综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 tvg-name="江源综合" tvg-logo="https://live.fanmingming.com/tv/江源综合.png" group-title="吉林频道",江源综合
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 tvg-name="东辽综合" tvg-logo="https://live.fanmingming.com/tv/东辽综合.png" group-title="吉林频道",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 tvg-name="汪清综合" tvg-logo="https://live.fanmingming.com/tv/汪清综合.png" group-title="吉林频道",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/浙江钱江都市.png" group-title="浙江频道",浙江钱江都市
