@@ -122,7 +122,6 @@ CHC 家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnDOo6PRKx5u
 CHC高清电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 第一剧场,http://ha.xushining.com:50000/udp/225.1.2.175:5002
 风云剧场,http://ha.xushining.com:50000/udp/225.1.2.174:5002
 怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002
@@ -497,9 +496,7 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 呼伦贝尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2356general.flv?txSecret=f9a77d4f3d9543d325fd621d0c096d5b&txTime=771E8800
 兴安盟新闻综合,https://livestream-bt.nmtv.cn/nmtv/2357general.flv?txSecret=863352ad641057c3bad76a48aefde5e1&txTime=771E8800
-通辽新闻综合,https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=5ed171e7a45b406e31075023030f18cb&txTime=771E8800#https://live.tongliaowang.com/video/a2aef6ea659c.m3u8
-通辽蒙语综合,https://live.tongliaowang.com/video/f7418cec973d.m3u8
-通辽城市服务,https://live.tongliaowang.com/video/4313e1e3d9db.m3u8
+通辽新闻综合,https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=5ed171e7a45b406e31075023030f18cb&txTime=771E8800
 锡林郭勒新闻综合,https://livestream-bt.nmtv.cn/nmtv/2346general.flv?txSecret=83637acace4ab7d20da4844d2954c71a&txTime=771E8800
 阿拉善新闻综合,https://livestream-bt.nmtv.cn/nmtv/2347general.flv?txSecret=1152410b316282d3e0c066f360e14a38&txTime=771E8800
 鄂尔多斯鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
@@ -532,10 +529,18 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
-舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
-东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+松原公共,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+珲春综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+柳河综艺,http://stream5.jlntv.cn/lh/sd/live.m3u8
+永吉综合,http://stream10.jlntv.cn/yongji/sd/live.m3u8
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
+通化综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
+江源综合,http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+东辽综合,http://stream5.jlntv.cn/dl/sd/live.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
