@@ -500,7 +500,11 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 北京生活,http://beijinglive.online.domybox.com:91/live/BTVSHhd-8M/live.m3u8
 北京新闻,http://beijinglive.online.domybox.com:91/live/BTVXWhd-8M/live.m3u8
 北京体育休闲,http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
-
+北京淘电影,http://coolcat.synology.me:4022/rtp/239.3.1.250:8001
+北京淘剧场,http://coolcat.synology.me:4022/rtp/239.3.1.95:8001
+北京淘娱乐,http://coolcat.synology.me:4022/rtp/239.3.1.100:8001
+北京淘精彩,http://coolcat.synology.me:4022/rtp/239.3.1.178:8001
+北京淘Baby,http://coolcat.synology.me:4022/rtp/239.3.1.238:8001
 
 上海频道,#genre#
 上海新闻,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
