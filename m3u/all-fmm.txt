@@ -19,9 +19,9 @@ CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=h51x7y
 CGTN,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CETV1,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=h51x7y
+CETV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=h51x7y
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
