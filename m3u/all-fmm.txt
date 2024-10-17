@@ -1,4 +1,4 @@
-﻿央卫V6,#genre#
+央卫V6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226676/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -699,14 +699,14 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 甘肃文化影视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002161/index.m3u8
 
 四川频道,#genre#
-科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-成都新闻综合,http://117.72.68.25:9930/cdtvflv.php?id=cdxwzh
-成都经济资讯,http://117.72.68.25:9930/cdtvflv.php?id=cdjjzx
-成都都市生活,http://117.72.68.25:9930/cdtvflv.php?id=cddssh
-成都公共,http://117.72.68.25:9930/cdtvflv.php?id=cdgg
-成都少儿,http://117.72.68.25:9930/cdtvflv.php?id=cdse
-成都蓉城先锋,http://117.72.68.25:9930/cdtvflv.php?id=cdrcxf
-仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
+四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+CDTV-1新闻综合,https://3gaa1hcjsgezdncbofa3decjpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=2fe9f1a961603453fdcfa653fca5b153&wsTime=6710d046&wsSession=7a41596231f6b1f612d2165a-172915514352911&wsIPSercert=1d167918db31e6e472c31918b17581fd&wsiphost=local&wsBindIP=1
+CDTV-2经济资讯,https://3gaa1hcjsgezdncbofa3deqjpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=7a7b59e878dd6fc2ccb4bc34645f93f9&wsTime=6710d177&wsSession=692aaca000a3926c907e0c56-172915545495458&wsIPSercert=2cf81ca32862a6c0fd7d0f719fa9f59a&wsiphost=local&wsBindIP=1
+CDTV-3都市生活,https://3gaa1hcjsgezdncbofa3drpjpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=309a5274bafe9452896e5e3d55b3c2fd&wsTime=6710d1a9&wsSession=fa831078e5806280478d8067-172915549788299&wsIPSercert=6cf147e5a88d814141b49886afba4eba&wsiphost=local&wsBindIP=1
+CDTV-4影视文艺,https://3gaa1hcjsgezdncbofa3dgc3pcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=048f634c89f4850400952ec10f7c1ec7&wsTime=6710d1d4&wsSession=3e57b5a4ed53e5f7e214af12-172915554132739&wsIPSercert=ed8a6b2a47f2464ebec44e5e57217155&wsiphost=local&wsBindIP=1
+CDTV-5公共,https://3gaa1hcjsgezdncbofa3deqjpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=d932432ef4b15ac259d58efcd58a6cf0&wsTime=6710d1f0&wsSession=692aaca000a3926c907e0c56-172915556904923&wsIPSercert=c916c0988828e05dfb0d6943ceecfd15&wsiphost=local&wsBindIP=1
+CDTV-6少儿,https://3gaa1hcjsgezdncbofa3drpjpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/cdtv6high/CDTV6High.flv/playlist.m3u8?wsSecret=b550609c6fd5b439387240da54269682&wsTime=6710d205&wsSession=fa831078e5806280478d8067-172915559009331&wsIPSercert=0942b5b699e3637e02a5f9abb579fde3&wsiphost=local&wsBindIP=1
+蓉城先锋,https://3gaa1hcjsgezdncbofa3drctpcp1ghcjqcp1g17dsf3tsh.wslivehls.com/cdn1.cditv.cn/dangjiaohigh/dangjiaoHigh.flv/playlist.m3u8?wsSecret=32512e444e9ae68e11fa8121b93507e1&wsTime=6710d226&wsSession=c555c28e8a1edeeeafb2d59e-172915562257904&wsIPSercert=ca462488c2d7437068272871c6271930&wsiphost=local&wsBindIP=1
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
 自贡文化生活,http://110.189.153.160:1002/ggpd.flv
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
@@ -945,7 +945,8 @@ IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 
 广东频道,#genre#
-广东卫视[移动] ,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+广东卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226180/index.m3u8
+广东卫视[移动],http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
 广东珠江[移动],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 大湾区卫视[移动],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 厦门卫视[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
