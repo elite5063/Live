@@ -390,7 +390,7 @@ https://live.hkdvb.com/hls/live/632.m3u8?token=275839252942857
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港台国际",RTHK31
 https://live.hkdvb.com/hls/live/31.m3u8?token=275839252942857
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港台国际",RTHK32
-https://live.hkdvb.com/hls/live/32.m3u8?token=2275839252942857
+https://live.hkdvb.com/hls/live/32.m3u8?token=275839252942857
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港台国际",RTHK33
 https://live.hkdvb.com/hls/live/33.m3u8?token=275839252942857#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 #EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港台国际",RTHK34
