@@ -18,7 +18,7 @@
 播放器推荐
 
     安卓：
-        Kodi、TiviMate、IPTV Pro解锁版
+        影视仓、TiviMate、极致、酷9
     苹果：
         APTV、SenPlayer
     电脑：
@@ -35,4 +35,4 @@
 
 修改时间
 
-    2024.9.6
+    2024.10.18
