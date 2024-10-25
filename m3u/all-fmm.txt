@@ -158,9 +158,9 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 游戏风云,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226187/index.m3u8
 
 港台国际,#genre#
-鳳凰中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰資訊台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://live.hkdvb.com/hls/live/85.m3u8?token=275839252942857
+鳳凰中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰資訊台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=275839252942857
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252942857
 翡翠台4k,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
