@@ -621,14 +621,6 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 江西频道,#genre#
-江西卫视,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-江西都市,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
-江西经济生活,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-江西影视旅游,http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
-江西公共农业,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
-江西少儿,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
-江西新闻,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-江西移动,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 庐山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
@@ -756,16 +748,6 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 垫江综合频道,http://125.62.24.185:80/1.m3u8
 武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
-
-贵州频道,#genre#
-贵州卫视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
-贵州公共,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
-贵州影视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
-贵州生活,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
-贵州法制,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
-贵州科教,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
-贵州经济,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
-贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 
 安徽频道,#genre#
 安徽经济,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
