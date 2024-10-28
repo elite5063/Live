@@ -138,6 +138,10 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 世界地理,http://ha.xushining.com:50000/udp/225.1.2.171:5002
 女性时尚,http://ha.xushining.com:50000/udp/225.1.2.172:5002
 文化精品,http://ha.xushining.com:50000/udp/225.1.2.177:5002
+求索记录[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索动物[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索科学[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索生活[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 金鹰纪实,http://[2409:8087:74d9:21::6]/270000001128/9900000074/index.m3u8
@@ -145,6 +149,11 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8#http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+魅力足球[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+快乐垂钓[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+茶友频道[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+金色学堂[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 卡酷少儿,http://[2409:8087:74d9:21::6]/270000001128/9900000040/index.m3u8
 哈哈炫动,http://[2409:8087:74d9:21::6]/270000001128/9900000069/index.m3u8
 嘉佳卡通,http://[2409:8087:74d9:21::6]/270000001128/9900000061/index.m3u8
@@ -181,8 +190,6 @@ ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,http://205.185.123.236:8899/1/now/stream.m3u8
-新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
-英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252942857
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857
 TVB星河,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -191,6 +198,8 @@ TVB生活台,http://205.185.123.236:8899/tvb/Finance/stream.m3u8
 TVB生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=275839252942857
+Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252942857
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=275839252942857
 Now Sports 632,https://live.hkdvb.com/hls/live/632.m3u8?token=275839252942857
 RTHK31,https://live.hkdvb.com/hls/live/31.m3u8?token=275839252942857
@@ -198,9 +207,7 @@ RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=275839252942857
 RTHK33,https://live.hkdvb.com/hls/live/33.m3u8?token=275839252942857#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
-RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=275839252942857
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
@@ -233,7 +240,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-AKTV,#genre#
+AKTV频道,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -291,7 +298,7 @@ NewTV频道,#genre#
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
-iHOT频道,#genre#
+iHOT频道[移动],#genre#
 iHOT爱院线,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科幻,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱浪漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
@@ -401,6 +408,66 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 
+精选电影,#genre#
+精选电影_1,http://cfss.cc/cdn/hy/11602075.flv
+精选电影_2,http://cfss.cc/cdn/hy/11352884.flv
+精选电影_3,http://cfss.cc/cdn/hy/21059574.flv
+精选电影_4,http://cfss.cc/cdn/hy/11342423.flv
+精选电影_5,http://cfss.cc/cdn/hy/11602044.flv
+精选电影_6,http://cfss.cc/cdn/hy/11352894.flv
+精选电影_7,http://cfss.cc/cdn/hy/11342395.flv
+精选电影_8,http://cfss.cc/cdn/hy/11342435.flv
+精选电影_9,http://cfss.cc/cdn/hy/11342419.flv
+精选电影_10,http://cfss.cc/cdn/hy/11352913.flv
+精选电影_11,http://cfss.cc/cdn/hy/11601977.flv
+精选电影_12,http://cfss.cc/cdn/hy/11336571.flv
+精选电影_13,http://cfss.cc/cdn/hy/11352909.flv
+精选电影_14,http://cfss.cc/cdn/hy/11602033.flv
+精选电影_15,http://cfss.cc/cdn/hy/11352965.flv
+精选电影_16,http://cfss.cc/cdn/hy/21059580.flv
+精选电影_17,http://cfss.cc/cdn/hy/11601981.flv
+精选电影_18,http://cfss.cc/cdn/hy/11601960.flv
+精选电影_19,http://cfss.cc/cdn/hy/11352903.flv
+精选电影_20,http://cfss.cc/cdn/hy/21059554.flv
+精选电影_21,http://cfss.cc/cdn/hy/11336719.flv
+精选电影_22,http://cfss.cc/cdn/hy/11352941.flv
+精选电影_23,http://cfss.cc/cdn/hy/11601986.flv
+精选电影_24,http://cfss.cc/cdn/hy/21059599.flv
+精选电影_25,http://cfss.cc/cdn/hy/11352886.flv
+精选电影_26,http://cfss.cc/cdn/hy/11352962.flv
+精选电影_27,http://cfss.cc/cdn/hy/21059579.flv
+精选电影_28,http://cfss.cc/cdn/hy/11279247.flv
+精选电影_29,http://cfss.cc/cdn/hy/11602041.flv
+精选电影_30,http://cfss.cc/cdn/hy/11352934.flv
+精选电影_31,http://cfss.cc/cdn/hy/21059552.flv
+精选电影_32,http://cfss.cc/cdn/hy/11601971.flv
+精选电影_33,http://cfss.cc/cdn/hy/21059585.flv
+精选电影_34,http://cfss.cc/cdn/hy/11352877.flv
+精选电影_35,http://cfss.cc/cdn/hy/11602043.flv
+精选电影_36,http://cfss.cc/cdn/hy/11352973.flv
+精选电影_37,http://cfss.cc/cdn/hy/11336587.flv
+精选电影_38,http://cfss.cc/cdn/hy/11342390.flv
+精选电影_39,http://cfss.cc/cdn/hy/11279251.flv
+精选电影_40,http://cfss.cc/cdn/hy/11342429.flv
+精选电影_41,http://cfss.cc/cdn/hy/11601972.flv
+精选电影_42,http://cfss.cc/cdn/hy/11342424.flv
+精选电影_43,http://cfss.cc/cdn/hy/21059588.flv
+精选电影_44,http://cfss.cc/cdn/hy/880261.flv
+精选电影_45,http://cfss.cc/cdn/hy/11342412.flv
+精选电影_46,http://cfss.cc/cdn/hy/11342421.flv
+精选电影_47,http://cfss.cc/cdn/hy/11342387.flv
+精选电影_48,http://cfss.cc/cdn/hy/11602058.flv
+精选电影_49,http://cfss.cc/cdn/hy/11601968.flv
+精选电影_50,http://cfss.cc/cdn/hy/11352876.flv
+精选电影_51,http://cfss.cc/cdn/hy/21059581.flv
+精选电影_52,http://cfss.cc/cdn/hy/11602034.flv
+精选电影_53,http://cfss.cc/cdn/hy/11342428.flv
+精选电影_54,http://cfss.cc/cdn/hy/21059577.flv
+精选电影_55,http://cfss.cc/cdn/hy/11342386.flv
+精选电影_56,http://cfss.cc/cdn/hy/11342414.flv
+精选电影_57,http://zby.xjqxz.top/live5/live.m3u8
+精选电影_58,http://zby.xjqxz.top/live13/live.m3u8
+
 影视频道,#genre#
 芒果1,http://zby.xjqxz.top/dsdsj1/live.m3u8
 芒果2,http://zby.xjqxz.top/gzwxj/live.m3u8
@@ -509,6 +576,10 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 上海外语,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226201/index.m3u8
 生活时尚,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8
+七彩戏剧[移动],http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
+五星体育[移动],http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+东方影视[移动],http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
+法治天地[移动],http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
 第一财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8
 
