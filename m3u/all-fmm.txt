@@ -244,9 +244,11 @@ AKTV频道,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVB 星河台,http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
