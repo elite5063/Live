@@ -289,15 +289,11 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-name="极速经典电影3" tvg-logo="https://live.fanmingming.com/tv/极速经典电影3.png" group-title="数字频道",极速经典电影3
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 tvg-name="睛彩青少HD" tvg-logo="https://live.fanmingming.com/tv/睛彩青少HD.png" group-title="数字频道",睛彩青少HD
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少
 http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技HD" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技HD.png" group-title="数字频道",睛彩竞技HD
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
 http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球HD" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球HD.png" group-title="数字频道",睛彩篮球HD
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226506/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球HD" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球HD.png" group-title="数字频道",睛彩篮球HD
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球HD" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球HD.png" group-title="数字频道",睛彩篮球HD
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
 http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-name="求索记录[移动]" tvg-logo="https://live.fanmingming.com/tv/求索记录[移动].png" group-title="数字频道",求索记录[移动]
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
