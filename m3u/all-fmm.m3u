@@ -246,11 +246,11 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="1905国外电影" tvg-logo="https://live.fanmingming.com/tv/1905国外电影.png" group-title="数字频道",1905国外电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+http://ha.xushining.com:50000/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+http://ha.xushining.com:50000/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+http://ha.xushining.com:50000/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字频道",第一剧场
 http://ha.xushining.com:50000/udp/225.1.2.175:5002
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场
