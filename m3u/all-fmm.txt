@@ -124,17 +124,10 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 
 数字频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-第一剧场,http://ha.xushining.com:50000/udp/225.1.2.175:5002
-风云剧场,http://ha.xushining.com:50000/udp/225.1.2.174:5002
-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002
-风云音乐,http://ha.xushining.com:50000/udp/225.1.2.176:5002
-风云足球,http://ha.xushining.com:50000/udp/225.1.2.168:5002
 央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8#http://ha.xushining.com:50000/udp/225.1.2.169:5002
-央视台球,http://ha.xushining.com:50000/udp/225.1.2.170:5002
-兵器科技,http://ha.xushining.com:50000/udp/225.1.2.166:5002
-世界地理,http://ha.xushining.com:50000/udp/225.1.2.171:5002
-女性时尚,http://ha.xushining.com:50000/udp/225.1.2.172:5002
-文化精品,http://ha.xushining.com:50000/udp/225.1.2.177:5002
+CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
+CHC高清电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
+CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
 经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
 经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 经典港剧,http://cfss.cc/cdn/dyu/9548850.m3u8
