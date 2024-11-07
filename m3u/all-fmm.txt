@@ -481,14 +481,7 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 精选电影_57,http://zby.xjqxz.top/live5/live.m3u8
 精选电影_58,http://zby.xjqxz.top/live13/live.m3u8
 
-影视频道,#genre#
-芒果1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-芒果2,http://zby.xjqxz.top/gzwxj/live.m3u8
-芒果3,http://zby.xjqxz.top/gzdsj1/live.m3u8
-芒果4,http://zby.xjqxz.top/gzdsj3/live.m3u8
-芒果5,http://zby.xjqxz.top/gzdsj4/live.m3u8
-芒果6,http://zby.xjqxz.top/kzzypd/live.m3u8
-芒果7,http://zby.xjqxz.top/dzzypd3/live.m3u8
+影视剧场,#genre#
 电视剧场一,http://cfss.cc/cdn/hy/29465862.flv
 电视剧场二,http://cfss.cc/cdn/hy/11336591.flv
 电视剧场三,http://cfss.cc/cdn/hy/21059563.flv
@@ -500,8 +493,6 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 电视剧场九,http://cfss.cc/cdn/hy/21059594.flv
 电视剧场十,http://cfss.cc/cdn/hy/11336592.flv
 电视剧场十一,http://cfss.cc/cdn/hy/11602088.flv
-
-电视剧频道,#genre#
 新三国,http://cfss.cc/cdn/hy/11352944.flv
 陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
 报告老板,http://cfss.cc/cdn/hy/26355835.flv
@@ -1024,7 +1015,6 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 大湾区卫视[移动],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 嘉佳卡通[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 厦门卫视[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
