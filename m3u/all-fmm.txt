@@ -126,7 +126,7 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8#http://ha.xushining.com:50000/udp/225.1.2.169:5002
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
-CHC高清电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
+CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
 经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
 经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
