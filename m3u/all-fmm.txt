@@ -219,6 +219,7 @@ Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
 龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
