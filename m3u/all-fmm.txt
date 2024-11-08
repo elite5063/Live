@@ -126,6 +126,9 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 1905电影,https://hlslive.1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8?tm=1731362702&sign=877e4ea2ff61ca87afc1d071f54e505e
+CHC影迷电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166ef17b26a10790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+CHC家庭电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
@@ -180,6 +183,8 @@ BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252942857
 翡翠台4k,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
+美亚电影台,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec0b5d0c67e83cbd41127b2f8793f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
+天映经典,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec09472b65ca06bd6e287b178e93f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
 美亚电影台,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857
 TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 有线18跑马,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
