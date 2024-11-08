@@ -189,10 +189,15 @@ TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 粵語片台,https://live.hkdvb.com/hls/live/200.m3u8?token=275839252942857
 Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=275839252942857
 HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=275839252942857
-HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252942857
-HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252942857
+HOY 78,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252942857
+HOY 77,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
+HOY 76,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252942857
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
+NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
+ROCKACTION,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b34-golive.flv
+ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857
@@ -204,7 +209,6 @@ TVB生活台,https://www.mytvsuper.xyz/tvb/Finance/stream.m3u8
 TVB生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
 Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=275839252942857
 Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252942857
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=275839252942857
@@ -214,17 +218,19 @@ RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=275839252942857
 RTHK33,https://live.hkdvb.com/hls/live/33.m3u8?token=275839252942857#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
+TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
+KIX,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b31-golive.flv
+LOVENATURE4K,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
+MYTVSUPER18台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a16-golive.flv
+TVBDRAMA,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
+TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
+TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
 龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
-东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-EYE戲劇,http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3c3d3d423c8cb419f027d31857477e68
-年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-AXN,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
@@ -234,7 +240,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-纬来综合,http://50.7.234.10:8278/videolandzonghe/playlist.m3u8?tid=MFCF4763729847637298&ct=19312&tsum=5d910aaf47d673fd830a0c378e6644f1
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -251,8 +256,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-探索亞洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
@@ -624,7 +627,6 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 通辽新闻综合,https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=5ed171e7a45b406e31075023030f18cb&txTime=771E8800
 锡林郭勒新闻综合,https://livestream-bt.nmtv.cn/nmtv/2346general.flv?txSecret=83637acace4ab7d20da4844d2954c71a&txTime=771E8800
 阿拉善新闻综合,https://livestream-bt.nmtv.cn/nmtv/2347general.flv?txSecret=1152410b316282d3e0c066f360e14a38&txTime=771E8800
-鄂尔多斯鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 呼伦贝尔鄂温克旗,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
 赤峰元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
 
