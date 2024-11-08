@@ -182,6 +182,7 @@ BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
 美亚电影台,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857
 TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
+有线18跑马,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 華語劇台,https://live.hkdvb.com/hls/live/89.m3u8?token=275839252942857
 黃金華劇台,https://live.hkdvb.com/hls/live/90.m3u8?token=275839252942857
@@ -203,6 +204,7 @@ TVB生活台,https://www.mytvsuper.xyz/tvb/Finance/stream.m3u8
 TVB生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
 Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=275839252942857
 Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252942857
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=275839252942857
