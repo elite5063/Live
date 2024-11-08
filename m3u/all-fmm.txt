@@ -126,12 +126,12 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 1905电影,https://hlslive.1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8?tm=1731362702&sign=877e4ea2ff61ca87afc1d071f54e505e
-CHC影迷电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166ef17b26a10790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
-CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
-CHC家庭电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
+CHC影迷电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166ef17b26a10790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+CHC家庭影院,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
 经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 经典港剧,http://cfss.cc/cdn/dyu/9548850.m3u8
