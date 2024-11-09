@@ -132,8 +132,6 @@ CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live
 CHC影迷电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166ef17b26a10790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 CHC家庭影院,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
-经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
-经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 经典港剧,http://cfss.cc/cdn/dyu/9548850.m3u8
 经典武侠,http://cfss.cc/cdn/dyu/338759.m3u8
 邵氏影院,http://cfss.cc/cdn/dyu/4246519.m3u8
@@ -202,7 +200,6 @@ ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
 NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
 NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
-ROCKACTION,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b34-golive.flv
 ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
@@ -226,9 +223,7 @@ RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857#https://rth
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
 THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
 TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
-KIX,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b31-golive.flv
 LOVENATURE4K,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
-MYTVSUPER18台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a16-golive.flv
 TVBDRAMA,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
