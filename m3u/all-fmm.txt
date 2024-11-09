@@ -200,7 +200,7 @@ ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
 NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
 NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
-ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
+ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857
@@ -224,7 +224,6 @@ RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rth
 THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
 TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
 LOVENATURE4K,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
-TVBDRAMA,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
