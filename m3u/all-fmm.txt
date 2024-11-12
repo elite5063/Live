@@ -180,11 +180,8 @@ BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=275839252942857
 翡翠台4k,https://live.hkdvb.com/hls/live/800.m3u8?token=275839252942857
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
-美亚电影台,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec0b5d0c67e83cbd41127b2f8793f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
-天映经典,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec09472b65ca06bd6e287b178e93f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
 美亚电影台,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857
 TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
-有线18跑马,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 華語劇台,https://live.hkdvb.com/hls/live/89.m3u8?token=275839252942857
 黃金華劇台,https://live.hkdvb.com/hls/live/90.m3u8?token=275839252942857
@@ -192,13 +189,9 @@ TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=275839252942857
 HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=275839252942857
 HOY 78,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252942857
-HOY 77,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
 HOY 76,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252942857
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
-NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
-NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
-ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857
@@ -219,11 +212,6 @@ RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=275839252942857
 RTHK33,https://live.hkdvb.com/hls/live/33.m3u8?token=275839252942857#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
-THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
-TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
-LOVENATURE4K,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
-TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
-TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
