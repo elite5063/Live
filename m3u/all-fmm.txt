@@ -125,12 +125,12 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 数字频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 央视高网,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
-1905国产经典,http://xxw.me0.cn/1905dy.php?id=1905a
-1905环球经典,http://xxw.me0.cn/1905dy.php?id=1905b
-CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+1905电影,https://hlslive.1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8?tm=1731362702&sign=877e4ea2ff61ca87afc1d071f54e505e
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
+经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
+经典乡村,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 经典港剧,http://cfss.cc/cdn/dyu/9548850.m3u8
 经典武侠,http://cfss.cc/cdn/dyu/338759.m3u8
 邵氏影院,http://cfss.cc/cdn/dyu/4246519.m3u8
@@ -140,7 +140,6 @@ CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live
 睛彩青少,http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
 睛彩竞技,http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
 睛彩篮球,http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
-晴彩广场舞,http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 求索记录[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索动物[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学[移动],http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
@@ -154,6 +153,7 @@ CHC动作电影,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live
 快乐垂钓[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 茶友频道[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 金色学堂[移动],http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 卡酷少儿,http://[2409:8087:74d9:21::6]/270000001128/9900000040/index.m3u8
 哈哈炫动,http://[2409:8087:74d9:21::6]/270000001128/9900000069/index.m3u8
 嘉佳卡通,http://[2409:8087:74d9:21::6]/270000001128/9900000061/index.m3u8
@@ -182,6 +182,7 @@ BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=275839252942857
 美亚电影台,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857
 TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
+有线18跑马,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 華語劇台,https://live.hkdvb.com/hls/live/89.m3u8?token=275839252942857
 黃金華劇台,https://live.hkdvb.com/hls/live/90.m3u8?token=275839252942857
@@ -189,9 +190,14 @@ TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=275839252942857
 Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=275839252942857
 HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=275839252942857
 HOY 78,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252942857
+HOY 77,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
 HOY 76,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252942857
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252942857
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252942857
+NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
+ROCKACTION,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b34-golive.flv
+ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857
 星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857
@@ -212,6 +218,14 @@ RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=275839252942857
 RTHK33,https://live.hkdvb.com/hls/live/33.m3u8?token=275839252942857#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+THRILL惊悚台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
+TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
+KIX,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b31-golive.flv
+LOVENATURE4K,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
+MYTVSUPER18台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a16-golive.flv
+TVBDRAMA,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
+TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
+TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
@@ -866,6 +880,13 @@ iHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 
 河北频道,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
