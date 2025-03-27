@@ -2,10 +2,10 @@
 使用方式
 
     TVBOX、DIYP：
-        https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/all-fmm.txt 
+        https://ghfast.top/https://raw.githubusercontent.com/elite5063/Live/main/all-fmm.txt 
    
     Tivimate、Televizo：
-        https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/main/all-fmm.m3u
+        https://ghfast.top/https://raw.githubusercontent.com/elite5063/Live/main/all-fmm.m3u
 
 节目单
 
@@ -35,4 +35,4 @@
 
 修改时间
 
-    2024.11.30
+    2025.03.28
