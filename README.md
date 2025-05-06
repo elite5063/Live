@@ -15,11 +15,15 @@
         https://diyp.112114.xyz/
    
    超级直播：
+        
         https://epg.112114.xyz/epginfo
         
    XML格式：
+        
         https://epg.112114.xyz/pp.xml
+        
         https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+        
         https://epg.112114.xyz/pp.xml.gzhttps://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
 
 播放器推荐
