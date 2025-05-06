@@ -9,11 +9,18 @@
 
 节目单
 
-    CDN 1：
-        http://epg.hackserver.net
+    DIYP&百川：
+        https://epg.112114.xyz/
+        https://epg.112114.eu.org/
+        https://diyp.112114.xyz/
    
-    CDN 2：
-        http://epg.51zmt.top:8000/e.xml
+   超级直播：
+        https://epg.112114.xyz/epginfo
+        
+   XML格式：
+        https://epg.112114.xyz/pp.xml
+        https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+        https://epg.112114.xyz/pp.xml.gzhttps://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
 
 播放器推荐
 
@@ -35,4 +42,4 @@
 
 修改时间
 
-    2025.03.28
+    2025.05.06
